@@ -1,0 +1,3162 @@
+k1,k2,distance_km
+Athen|Griechenland,Breslau|Polen,2182.1848999999997
+Athen|Griechenland,Kiew|Ukraine,2154.0701
+Kiew|Ukraine,Krasnodar|Russland,1308.744
+Breslau|Polen,Krasnodar|Russland,2434.8305
+Breslau|Polen,Kiew|Ukraine,1126.2845
+Athen|Griechenland,Krasnodar|Russland,2937.8363
+Jaroslawl|Russland,Malaga|Spanien,4885.5788
+Ischewsk|Russland,Jaroslawl|Russland,1104.902
+Ischewsk|Russland,Turin|Italien,4115.5432
+Malaga|Spanien,Turin|Italien,1821.1532
+Ischewsk|Russland,Malaga|Spanien,5838.2492999999995
+Jaroslawl|Russland,Turin|Italien,3162.212
+Krywyj Rih|Ukraine,Lwiw (Lemberg)|Ukraine,822.7382
+Lwiw (Lemberg)|Ukraine,Rjasan|Russland,1546.6469
+Perm|Russland,Rjasan|Russland,1405.9448
+Krywyj Rih|Ukraine,Perm|Russland,2545.1295
+Krywyj Rih|Ukraine,Rjasan|Russland,1192.0983
+Lwiw (Lemberg)|Ukraine,Perm|Russland,2866.8097000000002
+Prag|Tschechin,Riga|Lettland,1423.7523999999999
+Donezk|Ukraine,Prag|Tschechin,2133.8523
+Bukarest|Rumänien,Donezk|Ukraine,1261.2114
+Bukarest|Rumänien,Riga|Lettland,2354.1814
+Donezk|Ukraine,Riga|Lettland,1852.7404
+Bukarest|Rumänien,Prag|Tschechin,1342.5316
+Dnipro|Ukraine,Hannover|Deutschland,2084.7503
+Dnipro|Ukraine,Lissabon|Portugal,4592.1982
+Lissabon|Portugal,Skopje|Nordmazedonien,3572.4345
+Hannover|Deutschland,Skopje|Nordmazedonien,1831.3535
+Hannover|Deutschland,Lissabon|Portugal,2511.0879
+Dnipro|Ukraine,Skopje|Nordmazedonien,1587.3562
+Mailand|Italien,Saratow|Russland,3700.5247999999997
+Bukarest|Rumänien,Saratow|Russland,2136.7551000000003
+Bukarest|Rumänien,Minsk|Belarus,1469.9007
+Mailand|Italien,Minsk|Belarus,2059.1144
+Bukarest|Rumänien,Mailand|Italien,1771.7085
+Minsk|Belarus,Saratow|Russland,1541.3145
+Machatschkala|Russland,Zagreb|Kroatien,3228.7332
+Genua|Italien,Machatschkala|Russland,4206.7413
+Bukarest|Rumänien,Genua|Italien,1896.4237
+Bukarest|Rumänien,Zagreb|Kroatien,1021.7989
+Genua|Italien,Zagreb|Kroatien,780.0034
+Bukarest|Rumänien,Machatschkala|Russland,2386.166
+Lwiw (Lemberg)|Ukraine,Uljanowsk|Russland,2226.0615
+Uljanowsk|Russland,Valencia|Spanien,4874.3792
+Astrachan|Russland,Valencia|Spanien,5082.9335
+Astrachan|Russland,Lwiw (Lemberg)|Ukraine,2179.153
+Lwiw (Lemberg)|Ukraine,Valencia|Spanien,2915.0263999999997
+Astrachan|Russland,Uljanowsk|Russland,1259.147
+Lyon|Frankreich,Woronesch|Russland,3346.4335
+Dresden|Deutschland,Woronesch|Russland,2202.9907000000003
+Dresden|Deutschland,Krywyj Rih|Ukraine,1678.0456000000001
+Krywyj Rih|Ukraine,Lyon|Frankreich,2763.067
+Dresden|Deutschland,Lyon|Frankreich,1100.9545
+Krywyj Rih|Ukraine,Woronesch|Russland,810.2301
+Bremen|Deutschland,Stuttgart|Deutschland,639.0146
+Bremen|Deutschland,Krasnodar|Russland,3006.8633
+Krasnodar|Russland,Paris|Frankreich,3668.0827999999997
+Paris|Frankreich,Stuttgart|Deutschland,650.1
+Krasnodar|Russland,Stuttgart|Deutschland,3175.9407
+Bremen|Deutschland,Paris|Frankreich,796.3285999999999
+Dresden|Deutschland,Moskau|Russland,1874.6935
+Hamburg|Deutschland,Moskau|Russland,2103.3934
+Hamburg|Deutschland,Ischewsk|Russland,3329.3704
+Dresden|Deutschland,Ischewsk|Russland,3097.9788
+Dresden|Deutschland,Hamburg|Deutschland,496.3292
+Ischewsk|Russland,Moskau|Russland,1181.0602
+Homel|Belarus,Kirow|Russland,1646.3038000000001
+Istanbul|Türkei,Kirow|Russland,4472.807400000001
+Astrachan|Russland,Istanbul|Türkei,2795.8296
+Astrachan|Russland,Homel|Belarus,1730.9936
+Homel|Belarus,Istanbul|Türkei,3054.2338999999997
+Astrachan|Russland,Kirow|Russland,1803.43
+Tirana|Albanien,Zagreb|Kroatien,1063.5229
+Stockholm|Schweden,Zagreb|Kroatien,2253.3649
+Lodz|Polen,Stuttgart|Deutschland,994.4894
+Kiew|Ukraine,Stuttgart|Deutschland,1869.5707
+Krasnodar|Russland,Lodz|Polen,2216.921
+Kiew|Ukraine,Lodz|Polen,908.7148000000001
+Bremen|Deutschland,Chisinau|Moldau,1870.172
+Bremen|Deutschland,Palermo|Italien,2577.9195
+Palermo|Italien,Turin|Italien,1590.283
+Chisinau|Moldau,Turin|Italien,2166.2072000000003
+Chisinau|Moldau,Palermo|Italien,3189.8666000000003
+Bremen|Deutschland,Turin|Italien,1229.028
+Malaga|Spanien,Sevilla|Spanien,206.65779999999998
+Astrachan|Russland,Sevilla|Spanien,5729.749400000001
+Astrachan|Russland,Perm|Russland,1793.2368000000001
+Malaga|Spanien,Perm|Russland,6128.3421
+Astrachan|Russland,Malaga|Spanien,5693.8348
+Perm|Russland,Sevilla|Spanien,6081.174400000001
+Lissabon|Portugal,Prag|Tschechin,2701.5242000000003
+Bukarest|Rumänien,Lissabon|Portugal,3894.4165
+Donezk|Ukraine,Lissabon|Portugal,4836.1102
+Dnipro|Ukraine,Toulouse|Frankreich,3432.0957000000003
+Antwerpen|Belgien,Dnipro|Ukraine,2533.3862999999997
+Antwerpen|Belgien,Lyon|Frankreich,767.8288
+Lyon|Frankreich,Toulouse|Frankreich,545.8625999999999
+Antwerpen|Belgien,Toulouse|Frankreich,1020.5790999999999
+Dnipro|Ukraine,Lyon|Frankreich,2959.5833
+Riga|Lettland,Zagreb|Kroatien,1756.1155
+Nabereschnyje Tschelny|Russland,Riga|Lettland,1964.8526000000002
+Bukarest|Rumänien,Nabereschnyje Tschelny|Russland,2884.383
+Nabereschnyje Tschelny|Russland,Zagreb|Kroatien,3428.7996000000003
+Sevilla|Spanien,Vilnius|Litauen,3821.1071
+Valencia|Spanien,Vilnius|Litauen,3254.2324
+Pensa|Russland,Valencia|Spanien,4634.004599999999
+Pensa|Russland,Sevilla|Spanien,5206.374599999999
+Sevilla|Spanien,Valencia|Spanien,654.8975
+Pensa|Russland,Vilnius|Litauen,1541.4151000000002
+Homel|Belarus,Woronesch|Russland,731.3629
+Rjasan|Russland,Woronesch|Russland,389.4169
+Malaga|Spanien,Rjasan|Russland,4810.6267
+Homel|Belarus,Malaga|Spanien,4217.6022
+Homel|Belarus,Rjasan|Russland,774.5501999999999
+Malaga|Spanien,Woronesch|Russland,4951.170099999999
+Dresden|Deutschland,Machatschkala|Russland,3263.2766
+Dresden|Deutschland,Krasnodar|Russland,2687.3727999999996
+Machatschkala|Russland,Paris|Frankreich,4236.1051
+Krasnodar|Russland,Machatschkala|Russland,861.0376
+Dresden|Deutschland,Paris|Frankreich,1038.5511999999999
+Moskau|Russland,Rjasan|Russland,197.0892
+Hamburg|Deutschland,Palermo|Italien,2604.5759
+Palermo|Italien,Rjasan|Russland,4186.8145
+Hamburg|Deutschland,Rjasan|Russland,2292.9035
+Moskau|Russland,Palermo|Italien,3955.3227
+Istanbul|Türkei,Lipezk|Russland,2343.9461
+Istanbul|Türkei,Pensa|Russland,2814.5348
+Orenburg|Russland,Pensa|Russland,818.6364
+Lipezk|Russland,Orenburg|Russland,1241.5468999999998
+Lipezk|Russland,Pensa|Russland,424.004
+Istanbul|Türkei,Orenburg|Russland,3530.3008999999997
+Athen|Griechenland,Leipzig|Deutschland,2235.889
+Kiew|Ukraine,Leipzig|Deutschland,1497.1681999999998
+Amsterdam|Niederlande,Kiew|Ukraine,1966.394
+Amsterdam|Niederlande,Athen|Griechenland,2811.0359
+Amsterdam|Niederlande,Leipzig|Deutschland,633.4446999999999
+Dresden|Deutschland,Orenburg|Russland,3322.349
+Orenburg|Russland,Uljanowsk|Russland,679.5229
+Saratow|Russland,Uljanowsk|Russland,462.7719
+Dresden|Deutschland,Saratow|Russland,2713.1958
+Dresden|Deutschland,Uljanowsk|Russland,2741.7727
+Orenburg|Russland,Saratow|Russland,703.3754
+Bremen|Deutschland,Saragossa|Spanien,1853.4465
+Hannover|Deutschland,Saragossa|Spanien,1825.9598
+Hannover|Deutschland,Perm|Russland,3583.5199
+Bremen|Deutschland,Perm|Russland,3686.3791
+Bremen|Deutschland,Hannover|Deutschland,124.0304
+Perm|Russland,Saragossa|Spanien,5446.6094
+Chisinau|Moldau,Prag|Tschechin,1453.0183
+Marseille|Frankreich,Prag|Tschechin,1392.0138
+Bukarest|Rumänien,Marseille|Frankreich,2270.1025
+Bukarest|Rumänien,Chisinau|Moldau,468.10990000000004
+Chisinau|Moldau,Marseille|Frankreich,2537.4422000000004
+Krasnodar|Russland,Lipezk|Russland,988.4947
+Krasnodar|Russland,Posen|Polen,2389.9192000000003
+Pensa|Russland,Posen|Polen,2197.1386
+Lipezk|Russland,Posen|Polen,1830.9111
+Krasnodar|Russland,Pensa|Russland,1213.1335
+Mailand|Italien,Valencia|Spanien,1319.5217
+Bukarest|Rumänien,Valencia|Spanien,3075.0906
+Minsk|Belarus,Valencia|Spanien,3284.8752000000004
+Frankfurt am Main|Deutschland,Malaga|Spanien,2288.8127999999997
+Malaga|Spanien,Nürnberg|Deutschland,2396.9568
+Bukarest|Rumänien,Nürnberg|Deutschland,1563.2372
+Bukarest|Rumänien,Frankfurt am Main|Deutschland,1782.1015
+Frankfurt am Main|Deutschland,Nürnberg|Deutschland,226.53529999999998
+Bukarest|Rumänien,Malaga|Spanien,3685.992
+Machatschkala|Russland,Saragossa|Spanien,5259.7971
+Istanbul|Türkei,Moskau|Russland,3448.0041
+Istanbul|Türkei,Sankt Petersburg|Russland,3355.2921
+Berlin|Deutschland,Istanbul|Türkei,2185.6308
+Istanbul|Türkei,Madrid|Spanien,3518.1902
+Istanbul|Türkei,Kiew|Ukraine,1594.1931000000002
+Istanbul|Türkei,Rom|Italien,2225.85
+Istanbul|Türkei,Paris|Frankreich,2749.4653
+Istanbul|Türkei,Wien|Österreich,1556.5766
+Istanbul|Türkei,Minsk|Belarus,2730.439
+Istanbul|Türkei,Warschau|Polen,2194.6632
+Hamburg|Deutschland,Istanbul|Türkei,2475.4323999999997
+Bukarest|Rumänien,Istanbul|Türkei,629.7425
+Barcelona|Spanien,Istanbul|Türkei,2933.049
+Budapest|Ungarn,Istanbul|Türkei,1320.3141
+Istanbul|Türkei,München|Deutschland,1882.8762
+Charkiw|Ukraine,Istanbul|Türkei,1806.8583999999998
+Istanbul|Türkei,Prag|Tschechin,1841.3168
+Istanbul|Türkei,Mailand|Italien,1962.0813
+Istanbul|Türkei,Sofia|Bulgarien,548.4668
+Istanbul|Türkei,Kasan|Russland,3338.7783
+Istanbul|Türkei,Nischni Nowgorod|Russland,3927.6087
+Belgrad|Serbien,Istanbul|Türkei,944.7783000000001
+Istanbul|Türkei,Samara|Russland,3247.6565
+Istanbul|Türkei,Rostow am Don|Russland,2029.5584
+Istanbul|Türkei,Ufa|Russland,3640.6983999999998
+Istanbul|Türkei,Woronesch|Russland,2305.8294
+Istanbul|Türkei,Perm|Russland,4025.991
+Istanbul|Türkei,Köln|Deutschland,2410.4521
+Istanbul|Türkei,Odessa|Ukraine,1136.5689
+Istanbul|Türkei,Wolgograd|Russland,2447.3691
+Dnipro|Ukraine,Istanbul|Türkei,1586.2143999999998
+Istanbul|Türkei,Krasnodar|Russland,2377.9593
+Amsterdam|Niederlande,Istanbul|Türkei,2662.5951
+Istanbul|Türkei,Neapel|Italien,2424.8102000000003
+Donezk|Ukraine,Istanbul|Türkei,1853.2865
+Istanbul|Türkei,Marseille|Frankreich,2467.9255
+Istanbul|Türkei,Turin|Italien,2098.3233
+Istanbul|Türkei,Saratow|Russland,2829.2372
+Istanbul|Türkei,Valencia|Spanien,3272.5942
+Istanbul|Türkei,Zagreb|Kroatien,1338.3289
+Frankfurt am Main|Deutschland,Istanbul|Türkei,2230.4745
+Istanbul|Türkei,Lwiw (Lemberg)|Ukraine,1881.006
+Istanbul|Türkei,Sevilla|Spanien,3917.6337000000003
+Istanbul|Türkei,Saragossa|Spanien,3208.9924
+Breslau|Polen,Istanbul|Türkei,2033.9479
+Ischewsk|Russland,Istanbul|Türkei,3733.1286
+Istanbul|Türkei,Lodz|Polen,2075.5267
+Athen|Griechenland,Istanbul|Türkei,1089.8228000000001
+Istanbul|Türkei,Palermo|Italien,1849.9557
+Istanbul|Türkei,Uljanowsk|Russland,3196.0216
+Istanbul|Türkei,Stuttgart|Deutschland,2114.8217999999997
+Istanbul|Türkei,Leipzig|Deutschland,2090.65
+Istanbul|Türkei,Vilnius|Litauen,2695.0823
+Istanbul|Türkei,Machatschkala|Russland,2949.8489
+Istanbul|Türkei,Krywyj Rih|Ukraine,1440.9337
+Istanbul|Türkei,Jaroslawl|Russland,3720.2412000000004
+Istanbul|Türkei,Tirana|Albanien,980.5231
+Istanbul|Türkei,Riga|Lettland,2851.5602999999996
+Istanbul|Türkei,Malaga|Spanien,3888.7034
+Bremen|Deutschland,Istanbul|Türkei,2448.5457
+Istanbul|Türkei,Lissabon|Portugal,4088.4335
+Chisinau|Moldau,Istanbul|Türkei,1008.3805
+Dresden|Deutschland,Istanbul|Türkei,1983.7195
+Genua|Italien,Istanbul|Türkei,2114.3668
+Antwerpen|Belgien,Istanbul|Türkei,2626.6086
+Istanbul|Türkei,Posen|Polen,2221.7415
+Istanbul|Türkei,Rjasan|Russland,2684.56
+Istanbul|Türkei,Nabereschnyje Tschelny|Russland,3544.7679
+Istanbul|Türkei,Nürnberg|Deutschland,2012.4988999999998
+Istanbul|Türkei,Skopje|Nordmazedonien,787.6843
+Hannover|Deutschland,Istanbul|Türkei,2343.481
+Istanbul|Türkei,Lyon|Frankreich,2398.5266
+Istanbul|Türkei,Toulouse|Frankreich,2838.9296
+Moskau|Russland,Sankt Petersburg|Russland,707.2286
+Berlin|Deutschland,Moskau|Russland,1825.0858999999998
+Madrid|Spanien,Moskau|Russland,4109.7997000000005
+Kiew|Ukraine,Moskau|Russland,1076.3364
+Moskau|Russland,Rom|Italien,3062.1445
+Moskau|Russland,Paris|Frankreich,2841.1992
+Moskau|Russland,Wien|Österreich,1948.1413
+Minsk|Belarus,Moskau|Russland,715.4374
+Moskau|Russland,Warschau|Polen,1264.4385
+Bukarest|Rumänien,Moskau|Russland,1985.6402
+Barcelona|Spanien,Moskau|Russland,3666.7853
+Budapest|Ungarn,Moskau|Russland,2134.947
+Moskau|Russland,München|Deutschland,2327.0845
+Charkiw|Ukraine,Moskau|Russland,831.87
+Moskau|Russland,Prag|Tschechin,2020.6994
+Mailand|Italien,Moskau|Russland,2775.922
+Moskau|Russland,Sofia|Bulgarien,2899.019
+Kasan|Russland,Moskau|Russland,834.4271
+Moskau|Russland,Nischni Nowgorod|Russland,435.7572
+Belgrad|Serbien,Moskau|Russland,2506.7647
+Moskau|Russland,Samara|Russland,1072.7843
+Moskau|Russland,Rostow am Don|Russland,1085.9157
+Moskau|Russland,Ufa|Russland,1331.2128
+Moskau|Russland,Woronesch|Russland,525.5917
+Moskau|Russland,Perm|Russland,1463.9817
+Köln|Deutschland,Moskau|Russland,2365.4094
+Moskau|Russland,Odessa|Ukraine,1459.4563999999998
+Moskau|Russland,Wolgograd|Russland,973.6593
+Dnipro|Ukraine,Moskau|Russland,1022.1424000000001
+Krasnodar|Russland,Moskau|Russland,1380.0176000000001
+Amsterdam|Niederlande,Moskau|Russland,2447.6072000000004
+Moskau|Russland,Neapel|Italien,3261.1047999999996
+Donezk|Ukraine,Moskau|Russland,1162.6162
+Marseille|Frankreich,Moskau|Russland,3340.2231
+Moskau|Russland,Turin|Italien,2891.8233
+Moskau|Russland,Saratow|Russland,910.7048000000001
+Moskau|Russland,Valencia|Spanien,4006.3305
+Moskau|Russland,Zagreb|Kroatien,2313.0148
+Frankfurt am Main|Deutschland,Moskau|Russland,2343.3451
+Lwiw (Lemberg)|Ukraine,Moskau|Russland,1358.1408999999999
+Moskau|Russland,Sevilla|Spanien,4576.6832
+Moskau|Russland,Saragossa|Spanien,3942.7288
+Breslau|Polen,Moskau|Russland,1607.9469
+Lodz|Polen,Moskau|Russland,1390.0373
+Athen|Griechenland,Moskau|Russland,3597.4797999999996
+Moskau|Russland,Uljanowsk|Russland,823.2318
+Moskau|Russland,Stuttgart|Deutschland,2380.5582000000004
+Leipzig|Deutschland,Moskau|Russland,1978.1861999999999
+Moskau|Russland,Vilnius|Litauen,905.7330999999999
+Machatschkala|Russland,Moskau|Russland,1805.8707
+Krywyj Rih|Ukraine,Moskau|Russland,1169.3203999999998
+Jaroslawl|Russland,Moskau|Russland,270.1795
+Moskau|Russland,Tirana|Albanien,3173.3972999999996
+Moskau|Russland,Riga|Lettland,919.4169
+Malaga|Spanien,Moskau|Russland,4622.4398
+Bremen|Deutschland,Moskau|Russland,2180.4752999999996
+Moskau|Russland,Orenburg|Russland,1459.2266000000002
+Lissabon|Portugal,Moskau|Russland,4580.3764
+Chisinau|Moldau,Moskau|Russland,1635.1486
+Genua|Italien,Moskau|Russland,2950.6614
+Antwerpen|Belgien,Moskau|Russland,2521.5646
+Moskau|Russland,Posen|Polen,1563.0355
+Moskau|Russland,Nabereschnyje Tschelny|Russland,1033.0764
+Moskau|Russland,Nürnberg|Deutschland,2176.2446
+Moskau|Russland,Skopje|Nordmazedonien,2935.6998
+Astrachan|Russland,Moskau|Russland,1399.5772
+Hannover|Deutschland,Moskau|Russland,2075.4106
+Kirow|Russland,Moskau|Russland,979.7633000000001
+Lyon|Frankreich,Moskau|Russland,3024.4689
+Moskau|Russland,Pensa|Russland,643.1384
+Moskau|Russland,Toulouse|Frankreich,3505.6262
+Lipezk|Russland,Moskau|Russland,427.8126
+Homel|Belarus,Moskau|Russland,660.876
+Berlin|Deutschland,Sankt Petersburg|Russland,1731.8765
+Madrid|Spanien,Sankt Petersburg|Russland,4016.5903
+Kiew|Ukraine,Sankt Petersburg|Russland,1786.8411
+Rom|Italien,Sankt Petersburg|Russland,2968.9351
+Paris|Frankreich,Sankt Petersburg|Russland,2747.9897
+Sankt Petersburg|Russland,Wien|Österreich,1854.9318999999998
+Minsk|Belarus,Sankt Petersburg|Russland,793.6504
+Sankt Petersburg|Russland,Warschau|Polen,1171.229
+Hamburg|Deutschland,Sankt Petersburg|Russland,2011.5056000000002
+Bukarest|Rumänien,Sankt Petersburg|Russland,2857.1635
+Barcelona|Spanien,Sankt Petersburg|Russland,3573.5757999999996
+Budapest|Ungarn,Sankt Petersburg|Russland,2041.7375
+München|Deutschland,Sankt Petersburg|Russland,2233.8751
+Charkiw|Ukraine,Sankt Petersburg|Russland,1542.3746999999998
+Prag|Tschechin,Sankt Petersburg|Russland,1927.4898999999998
+Mailand|Italien,Sankt Petersburg|Russland,2682.7126000000003
+Sankt Petersburg|Russland,Sofia|Bulgarien,2805.8095
+Kasan|Russland,Sankt Petersburg|Russland,1533.1318999999999
+Nischni Nowgorod|Russland,Sankt Petersburg|Russland,1134.462
+Belgrad|Serbien,Sankt Petersburg|Russland,2413.5553
+Samara|Russland,Sankt Petersburg|Russland,1808.5858999999998
+Rostow am Don|Russland,Sankt Petersburg|Russland,1789.9794
+Sankt Petersburg|Russland,Ufa|Russland,2029.9176
+Sankt Petersburg|Russland,Woronesch|Russland,1229.6553999999999
+Perm|Russland,Sankt Petersburg|Russland,1929.9056
+Köln|Deutschland,Sankt Petersburg|Russland,2272.2
+Odessa|Ukraine,Sankt Petersburg|Russland,2169.9611
+Sankt Petersburg|Russland,Wolgograd|Russland,1685.0741
+Dnipro|Ukraine,Sankt Petersburg|Russland,1732.647
+Krasnodar|Russland,Sankt Petersburg|Russland,2084.0813
+Amsterdam|Niederlande,Sankt Petersburg|Russland,2354.3977999999997
+Neapel|Italien,Sankt Petersburg|Russland,3167.8952999999997
+Donezk|Ukraine,Sankt Petersburg|Russland,1866.6798000000001
+Marseille|Frankreich,Sankt Petersburg|Russland,3247.0136
+Sankt Petersburg|Russland,Turin|Italien,2798.6137999999996
+Sankt Petersburg|Russland,Saratow|Russland,1622.1196
+Sankt Petersburg|Russland,Valencia|Spanien,3913.1211000000003
+Sankt Petersburg|Russland,Zagreb|Kroatien,2219.8053
+Frankfurt am Main|Deutschland,Sankt Petersburg|Russland,2250.1357000000003
+Lwiw (Lemberg)|Ukraine,Sankt Petersburg|Russland,1630.3006
+Sankt Petersburg|Russland,Sevilla|Spanien,4483.4737000000005
+Sankt Petersburg|Russland,Saragossa|Spanien,3849.5193
+Breslau|Polen,Sankt Petersburg|Russland,1514.7374
+Ischewsk|Russland,Sankt Petersburg|Russland,1879.7667
+Lodz|Polen,Sankt Petersburg|Russland,1296.8279
+Athen|Griechenland,Sankt Petersburg|Russland,3504.2704
+Palermo|Italien,Sankt Petersburg|Russland,3863.4357999999997
+Sankt Petersburg|Russland,Uljanowsk|Russland,1521.9365
+Sankt Petersburg|Russland,Stuttgart|Deutschland,2287.3487
+Leipzig|Deutschland,Sankt Petersburg|Russland,1884.9767
+Sankt Petersburg|Russland,Vilnius|Litauen,726.8162
+Machatschkala|Russland,Sankt Petersburg|Russland,2517.2855
+Krywyj Rih|Ukraine,Sankt Petersburg|Russland,1879.825
+Jaroslawl|Russland,Sankt Petersburg|Russland,847.0525
+Sankt Petersburg|Russland,Tirana|Albanien,3080.1877999999997
+Riga|Lettland,Sankt Petersburg|Russland,689.0054
+Malaga|Spanien,Sankt Petersburg|Russland,4529.2303
+Bremen|Deutschland,Sankt Petersburg|Russland,2087.2659
+Orenburg|Russland,Sankt Petersburg|Russland,2195.0283
+Lissabon|Portugal,Sankt Petersburg|Russland,4487.1669
+Chisinau|Moldau,Sankt Petersburg|Russland,2117.4388
+Dresden|Deutschland,Sankt Petersburg|Russland,1781.0495
+Genua|Italien,Sankt Petersburg|Russland,2857.452
+Antwerpen|Belgien,Sankt Petersburg|Russland,2428.3552
+Posen|Polen,Sankt Petersburg|Russland,1469.8261
+Rjasan|Russland,Sankt Petersburg|Russland,935.0401999999999
+Nabereschnyje Tschelny|Russland,Sankt Petersburg|Russland,1731.7812
+Nürnberg|Deutschland,Sankt Petersburg|Russland,2083.0352
+Sankt Petersburg|Russland,Skopje|Nordmazedonien,2842.4903
+Astrachan|Russland,Sankt Petersburg|Russland,2110.992
+Hannover|Deutschland,Sankt Petersburg|Russland,1982.2012
+Kirow|Russland,Sankt Petersburg|Russland,1447.1641000000002
+Lyon|Frankreich,Sankt Petersburg|Russland,2931.2594
+Pensa|Russland,Sankt Petersburg|Russland,1378.94
+Sankt Petersburg|Russland,Toulouse|Frankreich,3412.4167
+Lipezk|Russland,Sankt Petersburg|Russland,1139.2274
+Homel|Belarus,Sankt Petersburg|Russland,964.4718
+Berlin|Deutschland,Madrid|Spanien,2317.618
+Berlin|Deutschland,Kiew|Ukraine,1345.4
+Berlin|Deutschland,Rom|Italien,1502.8208
+Berlin|Deutschland,Paris|Frankreich,1049.0174
+Berlin|Deutschland,Wien|Österreich,680.1505999999999
+Berlin|Deutschland,Minsk|Belarus,1109.8522
+Berlin|Deutschland,Warschau|Polen,574.0764
+Berlin|Deutschland,Hamburg|Deutschland,290.0985
+Berlin|Deutschland,Bukarest|Rumänien,1686.9248
+Barcelona|Spanien,Berlin|Deutschland,1874.6036000000001
+Berlin|Deutschland,Budapest|Ungarn,871.4987
+Berlin|Deutschland,München|Deutschland,584.5915
+Berlin|Deutschland,Charkiw|Ukraine,1822.6566
+Berlin|Deutschland,Prag|Tschechin,347.43870000000004
+Berlin|Deutschland,Mailand|Italien,1033.429
+Berlin|Deutschland,Sofia|Bulgarien,1635.5707
+Berlin|Deutschland,Kasan|Russland,2705.6917999999996
+Berlin|Deutschland,Nischni Nowgorod|Russland,2307.0218999999997
+Belgrad|Serbien,Berlin|Deutschland,1243.3165
+Berlin|Deutschland,Samara|Russland,2888.6275
+Berlin|Deutschland,Rostow am Don|Russland,2303.369
+Berlin|Deutschland,Ufa|Russland,3202.4775
+Berlin|Deutschland,Woronesch|Russland,2153.7792999999997
+Berlin|Deutschland,Perm|Russland,3335.2464
+Berlin|Deutschland,Köln|Deutschland,573.2276999999999
+Berlin|Deutschland,Odessa|Ukraine,1724.5775
+Berlin|Deutschland,Wolgograd|Russland,2764.983
+Berlin|Deutschland,Dnipro|Ukraine,1835.793
+Berlin|Deutschland,Krasnodar|Russland,2651.7699
+Amsterdam|Niederlande,Berlin|Deutschland,655.4255
+Berlin|Deutschland,Neapel|Italien,1701.781
+Berlin|Deutschland,Donezk|Ukraine,2085.2998000000002
+Berlin|Deutschland,Marseille|Frankreich,1548.0413999999998
+Berlin|Deutschland,Turin|Italien,1149.3303
+Berlin|Deutschland,Saratow|Russland,2702.0283999999997
+Berlin|Deutschland,Valencia|Spanien,2214.1488
+Berlin|Deutschland,Zagreb|Kroatien,1072.9656
+Berlin|Deutschland,Frankfurt am Main|Deutschland,551.1634
+Berlin|Deutschland,Lwiw (Lemberg)|Ukraine,922.1617
+Berlin|Deutschland,Sevilla|Spanien,2784.5015
+Berlin|Deutschland,Saragossa|Spanien,2150.547
+Berlin|Deutschland,Breslau|Polen,344.1528
+Berlin|Deutschland,Ischewsk|Russland,3052.3266
+Berlin|Deutschland,Lodz|Polen,473.75640000000004
+Athen|Griechenland,Berlin|Deutschland,2334.0316000000003
+Berlin|Deutschland,Palermo|Italien,2397.3215
+Berlin|Deutschland,Uljanowsk|Russland,2694.4965
+Berlin|Deutschland,Stuttgart|Deutschland,638.0652
+Berlin|Deutschland,Leipzig|Deutschland,186.0045
+Berlin|Deutschland,Vilnius|Litauen,1074.4955
+Berlin|Deutschland,Machatschkala|Russland,3223.6595
+Berlin|Deutschland,Krywyj Rih|Ukraine,1753.4363999999998
+Berlin|Deutschland,Jaroslawl|Russland,2099.6544
+Berlin|Deutschland,Tirana|Albanien,1909.949
+Berlin|Deutschland,Riga|Lettland,1230.9735
+Berlin|Deutschland,Malaga|Spanien,2830.2581
+Berlin|Deutschland,Bremen|Deutschland,388.29359999999997
+Berlin|Deutschland,Orenburg|Russland,3275.0699
+Berlin|Deutschland,Lissabon|Portugal,2788.1946000000003
+Berlin|Deutschland,Chisinau|Moldau,1518.5401000000002
+Berlin|Deutschland,Dresden|Deutschland,192.57760000000002
+Berlin|Deutschland,Genua|Italien,1188.8785
+Antwerpen|Belgien,Berlin|Deutschland,729.3829000000001
+Berlin|Deutschland,Posen|Polen,273.6587
+Berlin|Deutschland,Rjasan|Russland,2015.0818000000002
+Berlin|Deutschland,Nabereschnyje Tschelny|Russland,2904.3411
+Berlin|Deutschland,Nürnberg|Deutschland,433.7516
+Berlin|Deutschland,Skopje|Nordmazedonien,1672.2516
+Astrachan|Russland,Berlin|Deutschland,2983.1375
+Berlin|Deutschland,Hannover|Deutschland,283.2289
+Berlin|Deutschland,Kirow|Russland,2851.028
+Berlin|Deutschland,Lyon|Frankreich,1232.2872
+Berlin|Deutschland,Pensa|Russland,2458.9816
+Berlin|Deutschland,Toulouse|Frankreich,1713.4443999999999
+Berlin|Deutschland,Lipezk|Russland,2092.5781
+Berlin|Deutschland,Homel|Belarus,1431.6778
+Kiew|Ukraine,Madrid|Spanien,3626.2508
+Madrid|Spanien,Rom|Italien,1953.0043999999998
+Madrid|Spanien,Paris|Frankreich,1268.1756
+Madrid|Spanien,Wien|Österreich,2437.8576000000003
+Madrid|Spanien,Minsk|Belarus,3390.7028999999998
+Madrid|Spanien,Warschau|Polen,2854.9272
+Hamburg|Deutschland,Madrid|Spanien,2174.6961
+Bukarest|Rumänien,Madrid|Spanien,3321.0179
+Barcelona|Spanien,Madrid|Spanien,616.6981
+Budapest|Ungarn,Madrid|Spanien,2509.2481000000002
+Madrid|Spanien,München|Deutschland,1988.5258000000001
+Charkiw|Ukraine,Madrid|Spanien,4103.5073999999995
+Madrid|Spanien,Prag|Tschechin,2231.565
+Madrid|Spanien,Mailand|Italien,1566.05
+Madrid|Spanien,Sofia|Bulgarien,2966.7799
+Kasan|Russland,Madrid|Spanien,4986.5426
+Madrid|Spanien,Nischni Nowgorod|Russland,4587.8727
+Belgrad|Serbien,Madrid|Spanien,2574.4359
+Madrid|Spanien,Samara|Russland,5169.4782000000005
+Madrid|Spanien,Rostow am Don|Russland,4584.219700000001
+Madrid|Spanien,Ufa|Russland,5483.3283
+Madrid|Spanien,Woronesch|Russland,4434.630099999999
+Madrid|Spanien,Perm|Russland,5616.0972
+Köln|Deutschland,Madrid|Spanien,1759.3551
+Madrid|Spanien,Odessa|Ukraine,3888.6817
+Madrid|Spanien,Wolgograd|Russland,5045.8337
+Dnipro|Ukraine,Madrid|Spanien,4116.6438
+Krasnodar|Russland,Madrid|Spanien,4932.6207
+Amsterdam|Niederlande,Madrid|Spanien,1771.0403000000001
+Madrid|Spanien,Neapel|Italien,2151.9646000000002
+Donezk|Ukraine,Madrid|Spanien,4366.1506
+Madrid|Spanien,Marseille|Frankreich,1090.9543
+Madrid|Spanien,Turin|Italien,1451.26
+Madrid|Spanien,Saratow|Russland,4982.8792
+Madrid|Spanien,Valencia|Spanien,357.8122
+Madrid|Spanien,Zagreb|Kroatien,2181.8455
+Frankfurt am Main|Deutschland,Madrid|Spanien,1846.9909
+Lwiw (Lemberg)|Ukraine,Madrid|Spanien,3086.2659
+Madrid|Spanien,Sevilla|Spanien,534.8758
+Madrid|Spanien,Saragossa|Spanien,314.4812
+Breslau|Polen,Madrid|Spanien,2517.2825
+Ischewsk|Russland,Madrid|Spanien,5333.1774000000005
+Lodz|Polen,Madrid|Spanien,2754.6072000000004
+Athen|Griechenland,Madrid|Spanien,3665.2408
+Madrid|Spanien,Palermo|Italien,2847.5052
+Madrid|Spanien,Uljanowsk|Russland,4975.347299999999
+Madrid|Spanien,Stuttgart|Deutschland,1783.7346
+Leipzig|Deutschland,Madrid|Spanien,2235.3966
+Madrid|Spanien,Vilnius|Litauen,3355.3462000000004
+Machatschkala|Russland,Madrid|Spanien,5504.5103
+Krywyj Rih|Ukraine,Madrid|Spanien,3917.5406000000003
+Jaroslawl|Russland,Madrid|Spanien,4380.5052000000005
+Madrid|Spanien,Tirana|Albanien,2928.4577000000004
+Madrid|Spanien,Riga|Lettland,3511.8242
+Madrid|Spanien,Malaga|Spanien,531.0992
+Bremen|Deutschland,Madrid|Spanien,2063.8606
+Madrid|Spanien,Orenburg|Russland,5555.9205999999995
+Lissabon|Portugal,Madrid|Spanien,628.6504
+Chisinau|Moldau,Madrid|Spanien,3682.6443
+Dresden|Deutschland,Madrid|Spanien,2258.6254
+Genua|Italien,Madrid|Spanien,1443.5438000000001
+Antwerpen|Belgien,Madrid|Spanien,1611.2799
+Madrid|Spanien,Posen|Polen,2554.5094
+Madrid|Spanien,Rjasan|Russland,4295.932599999999
+Madrid|Spanien,Nabereschnyje Tschelny|Russland,5185.191900000001
+Madrid|Spanien,Nürnberg|Deutschland,1961.3573000000001
+Madrid|Spanien,Skopje|Nordmazedonien,3003.4607
+Astrachan|Russland,Madrid|Spanien,5263.9883
+Hannover|Deutschland,Madrid|Spanien,2040.2014
+Kirow|Russland,Madrid|Spanien,5131.8787999999995
+Lyon|Frankreich,Madrid|Spanien,1226.147
+Madrid|Spanien,Pensa|Russland,4739.8323
+Madrid|Spanien,Toulouse|Frankreich,796.6903000000001
+Lipezk|Russland,Madrid|Spanien,4373.4288
+Homel|Belarus,Madrid|Spanien,3712.5286
+Kiew|Ukraine,Rom|Italien,2436.0787
+Kiew|Ukraine,Paris|Frankreich,2359.9857
+Kiew|Ukraine,Wien|Österreich,1322.0754
+Kiew|Ukraine,Minsk|Belarus,984.8886
+Kiew|Ukraine,Warschau|Polen,775.4775
+Hamburg|Deutschland,Kiew|Ukraine,1623.5016
+Bukarest|Rumänien,Kiew|Ukraine,1001.366
+Barcelona|Spanien,Kiew|Ukraine,3108.8648
+Budapest|Ungarn,Kiew|Ukraine,1120.4207
+Kiew|Ukraine,München|Deutschland,1773.4215
+Charkiw|Ukraine,Kiew|Ukraine,479.6307
+Kiew|Ukraine,Prag|Tschechin,1394.6335
+Kiew|Ukraine,Mailand|Italien,2172.31
+Kiew|Ukraine,Sofia|Bulgarien,1363.4483
+Kasan|Russland,Kiew|Ukraine,1749.8058999999998
+Kiew|Ukraine,Nischni Nowgorod|Russland,1443.0783999999999
+Belgrad|Serbien,Kiew|Ukraine,1485.8445
+Kiew|Ukraine,Samara|Russland,1658.6841000000002
+Kiew|Ukraine,Rostow am Don|Russland,960.343
+Kiew|Ukraine,Ufa|Russland,2051.726
+Kiew|Ukraine,Woronesch|Russland,716.857
+Kiew|Ukraine,Perm|Russland,2437.0186
+Kiew|Ukraine,Köln|Deutschland,1884.1959
+Kiew|Ukraine,Odessa|Ukraine,475.1822
+Kiew|Ukraine,Wolgograd|Russland,1259.9106000000002
+Dnipro|Ukraine,Kiew|Ukraine,492.767
+Kiew|Ukraine,Neapel|Italien,2635.0389
+Donezk|Ukraine,Kiew|Ukraine,742.2738
+Kiew|Ukraine,Marseille|Frankreich,2782.3026
+Kiew|Ukraine,Turin|Italien,2308.552
+Kiew|Ukraine,Saratow|Russland,1240.2648000000002
+Kiew|Ukraine,Valencia|Spanien,3448.41
+Kiew|Ukraine,Zagreb|Kroatien,1484.8731
+Frankfurt am Main|Deutschland,Kiew|Ukraine,1862.1316000000002
+Kiew|Ukraine,Lwiw (Lemberg)|Ukraine,540.8602
+Kiew|Ukraine,Sevilla|Spanien,4095.4697
+Kiew|Ukraine,Saragossa|Spanien,3384.8082999999997
+Ischewsk|Russland,Kiew|Ukraine,2144.1562000000004
+Kiew|Ukraine,Palermo|Italien,3330.5794
+Kiew|Ukraine,Uljanowsk|Russland,1607.0492
+Kiew|Ukraine,Vilnius|Litauen,1059.5015
+Kiew|Ukraine,Machatschkala|Russland,1880.6336000000001
+Kiew|Ukraine,Krywyj Rih|Ukraine,504.2765
+Jaroslawl|Russland,Kiew|Ukraine,1352.6621
+Kiew|Ukraine,Tirana|Albanien,1878.0906
+Kiew|Ukraine,Riga|Lettland,1423.6569
+Kiew|Ukraine,Malaga|Spanien,4064.5193
+Bremen|Deutschland,Kiew|Ukraine,1699.2618
+Kiew|Ukraine,Orenburg|Russland,1941.3289
+Kiew|Ukraine,Lissabon|Portugal,4099.1629
+Chisinau|Moldau,Kiew|Ukraine,650.8744
+Dresden|Deutschland,Kiew|Ukraine,1381.1308999999999
+Genua|Italien,Kiew|Ukraine,2324.5955
+Antwerpen|Belgien,Kiew|Ukraine,2040.3511
+Kiew|Ukraine,Posen|Polen,1081.822
+Kiew|Ukraine,Rjasan|Russland,1095.5876
+Kiew|Ukraine,Nabereschnyje Tschelny|Russland,1955.7955
+Kiew|Ukraine,Nürnberg|Deutschland,1683.1165
+Kiew|Ukraine,Skopje|Nordmazedonien,1594.5908
+Astrachan|Russland,Kiew|Ukraine,1640.1116000000002
+Hannover|Deutschland,Kiew|Ukraine,1594.1972
+Kiew|Ukraine,Kirow|Russland,2044.6217
+Kiew|Ukraine,Lyon|Frankreich,2466.5484
+Kiew|Ukraine,Pensa|Russland,1225.5628000000002
+Kiew|Ukraine,Toulouse|Frankreich,2947.7057
+Kiew|Ukraine,Lipezk|Russland,838.4018000000001
+Homel|Belarus,Kiew|Ukraine,909.8779000000001
+Paris|Frankreich,Rom|Italien,1422.931
+Rom|Italien,Wien|Österreich,1118.4708999999998
+Minsk|Belarus,Rom|Italien,2385.6292000000003
+Rom|Italien,Warschau|Polen,1849.8535
+Hamburg|Deutschland,Rom|Italien,1709.4427
+Bukarest|Rumänien,Rom|Italien,2029.7592
+Barcelona|Spanien,Rom|Italien,1360.1571999999999
+Budapest|Ungarn,Rom|Italien,1217.9894
+München|Deutschland,Rom|Italien,918.7186999999999
+Charkiw|Ukraine,Rom|Italien,2953.7252999999996
+Prag|Tschechin,Rom|Italien,1299.1975
+Mailand|Italien,Rom|Italien,573.4313000000001
+Rom|Italien,Sofia|Bulgarien,1675.5212
+Kasan|Russland,Rom|Italien,3981.4687999999996
+Nischni Nowgorod|Russland,Rom|Italien,3582.799
+Belgrad|Serbien,Rom|Italien,1283.1771999999999
+Rom|Italien,Samara|Russland,4164.4045
+Rom|Italien,Rostow am Don|Russland,3434.4377000000004
+Rom|Italien,Ufa|Russland,4478.254599999999
+Rom|Italien,Woronesch|Russland,3429.5564
+Perm|Russland,Rom|Italien,4611.0234
+Köln|Deutschland,Rom|Italien,1401.1223
+Odessa|Ukraine,Rom|Italien,2587.5241
+Rom|Italien,Wolgograd|Russland,3734.0053
+Dnipro|Ukraine,Rom|Italien,2966.8617000000004
+Krasnodar|Russland,Rom|Italien,3782.8386
+Amsterdam|Niederlande,Rom|Italien,1653.2653
+Neapel|Italien,Rom|Italien,223.4376
+Donezk|Ukraine,Rom|Italien,3216.3685
+Marseille|Frankreich,Rom|Italien,895.0337
+Rom|Italien,Turin|Italien,693.6449
+Rom|Italien,Saratow|Russland,3977.8055
+Rom|Italien,Valencia|Spanien,1699.7024
+Rom|Italien,Zagreb|Kroatien,890.5868
+Frankfurt am Main|Deutschland,Rom|Italien,1237.33
+Lwiw (Lemberg)|Ukraine,Rom|Italien,1942.2368000000001
+Rom|Italien,Sevilla|Spanien,2344.742
+Rom|Italien,Saragossa|Spanien,1636.1007
+Breslau|Polen,Rom|Italien,1639.0402
+Ischewsk|Russland,Rom|Italien,4328.1035999999995
+Lodz|Polen,Rom|Italien,1730.7169
+Athen|Griechenland,Rom|Italien,1357.4281
+Palermo|Italien,Rom|Italien,918.9780999999999
+Rom|Italien,Uljanowsk|Russland,3970.2735
+Rom|Italien,Stuttgart|Deutschland,1079.1687
+Leipzig|Deutschland,Rom|Italien,1357.1543000000001
+Rom|Italien,Vilnius|Litauen,2350.2725
+Machatschkala|Russland,Rom|Italien,4354.7282000000005
+Krywyj Rih|Ukraine,Rom|Italien,2592.7028
+Jaroslawl|Russland,Rom|Italien,3375.4315
+Rom|Italien,Tirana|Albanien,1637.199
+Riga|Lettland,Rom|Italien,2506.7505
+Malaga|Spanien,Rom|Italien,2315.8117
+Bremen|Deutschland,Rom|Italien,1682.556
+Orenburg|Russland,Rom|Italien,4550.8469000000005
+Lissabon|Portugal,Rom|Italien,2515.5417
+Chisinau|Moldau,Rom|Italien,2292.8571
+Dresden|Deutschland,Rom|Italien,1380.3831
+Genua|Italien,Rom|Italien,504.24440000000004
+Antwerpen|Belgien,Rom|Italien,1516.6562
+Posen|Polen,Rom|Italien,1741.3301000000001
+Rjasan|Russland,Rom|Italien,3290.8588
+Nabereschnyje Tschelny|Russland,Rom|Italien,4180.1182
+Nürnberg|Deutschland,Rom|Italien,1089.0195
+Rom|Italien,Skopje|Nordmazedonien,1712.202
+Astrachan|Russland,Rom|Italien,4114.2063
+Hannover|Deutschland,Rom|Italien,1517.0746000000001
+Kirow|Russland,Rom|Italien,4126.8051000000005
+Lyon|Frankreich,Rom|Italien,990.7494
+Pensa|Russland,Rom|Italien,3734.7586
+Rom|Italien,Toulouse|Frankreich,1266.0378
+Lipezk|Russland,Rom|Italien,3368.3551
+Homel|Belarus,Rom|Italien,2707.4548
+Paris|Frankreich,Wien|Österreich,1235.9322
+Minsk|Belarus,Paris|Frankreich,2122.2975
+Paris|Frankreich,Warschau|Polen,1586.5217
+Hamburg|Deutschland,Paris|Frankreich,906.2906999999999
+Bukarest|Rumänien,Paris|Frankreich,2299.8737
+Barcelona|Spanien,Paris|Frankreich,1036.2915
+Budapest|Ungarn,Paris|Frankreich,1484.4477
+München|Deutschland,Paris|Frankreich,829.325
+Charkiw|Ukraine,Paris|Frankreich,2835.1019
+Paris|Frankreich,Prag|Tschechin,1029.6396
+Mailand|Italien,Paris|Frankreich,850.5255999999999
+Paris|Frankreich,Sofia|Bulgarien,2200.5501
+Kasan|Russland,Paris|Frankreich,3718.1371
+Nischni Nowgorod|Russland,Paris|Frankreich,3319.4672
+Belgrad|Serbien,Paris|Frankreich,1808.2061
+Paris|Frankreich,Samara|Russland,3901.0728
+Paris|Frankreich,Rostow am Don|Russland,3315.8143
+Paris|Frankreich,Ufa|Russland,4214.922799999999
+Paris|Frankreich,Woronesch|Russland,3166.2246
+Paris|Frankreich,Perm|Russland,4347.6917
+Köln|Deutschland,Paris|Frankreich,490.9497
+Odessa|Ukraine,Paris|Frankreich,2679.8707999999997
+Paris|Frankreich,Wolgograd|Russland,3777.4283
+Dnipro|Ukraine,Paris|Frankreich,2848.2383
+Amsterdam|Niederlande,Paris|Frankreich,502.6348
+Neapel|Italien,Paris|Frankreich,1633.5874
+Donezk|Ukraine,Paris|Frankreich,3097.7451
+Marseille|Frankreich,Paris|Frankreich,774.159
+Paris|Frankreich,Turin|Italien,773.4241
+Paris|Frankreich,Saratow|Russland,3714.4737
+Paris|Frankreich,Valencia|Spanien,1375.8367
+Paris|Frankreich,Zagreb|Kroatien,1415.9121
+Frankfurt am Main|Deutschland,Paris|Frankreich,571.9096
+Lwiw (Lemberg)|Ukraine,Paris|Frankreich,1877.4549
+Paris|Frankreich,Sevilla|Spanien,1735.5851
+Paris|Frankreich,Saragossa|Spanien,1057.2188999999998
+Breslau|Polen,Paris|Frankreich,1299.446
+Ischewsk|Russland,Paris|Frankreich,4064.7718999999997
+Lodz|Polen,Paris|Frankreich,1486.2016999999998
+Athen|Griechenland,Paris|Frankreich,2899.011
+Palermo|Italien,Paris|Frankreich,2329.1279
+Paris|Frankreich,Uljanowsk|Russland,3706.9417999999996
+Leipzig|Deutschland,Paris|Frankreich,979.0021999999999
+Paris|Frankreich,Vilnius|Litauen,2086.9408
+Krywyj Rih|Ukraine,Paris|Frankreich,2708.7296
+Jaroslawl|Russland,Paris|Frankreich,3112.0997
+Paris|Frankreich,Tirana|Albanien,2474.9284
+Paris|Frankreich,Riga|Lettland,2243.4188
+Malaga|Spanien,Paris|Frankreich,1803.8627
+Orenburg|Russland,Paris|Frankreich,4287.5152
+Lissabon|Portugal,Paris|Frankreich,1739.2783
+Chisinau|Moldau,Paris|Frankreich,2473.8333
+Genua|Italien,Paris|Frankreich,912.6171999999999
+Antwerpen|Belgien,Paris|Frankreich,342.87440000000004
+Paris|Frankreich,Posen|Polen,1286.104
+Paris|Frankreich,Rjasan|Russland,3027.5271000000002
+Nabereschnyje Tschelny|Russland,Paris|Frankreich,3916.7864
+Nürnberg|Deutschland,Paris|Frankreich,759.4319
+Paris|Frankreich,Skopje|Nordmazedonien,2237.2309
+Astrachan|Russland,Paris|Frankreich,3995.5827999999997
+Hannover|Deutschland,Paris|Frankreich,771.796
+Kirow|Russland,Paris|Frankreich,3863.4732999999997
+Lyon|Frankreich,Paris|Frankreich,464.876
+Paris|Frankreich,Pensa|Russland,3471.4269
+Paris|Frankreich,Toulouse|Frankreich,677.3062
+Lipezk|Russland,Paris|Frankreich,3105.0234
+Homel|Belarus,Paris|Frankreich,2444.1231000000002
+Minsk|Belarus,Wien|Österreich,1230.398
+Warschau|Polen,Wien|Österreich,694.6221999999999
+Hamburg|Deutschland,Wien|Österreich,970.684
+Bukarest|Rumänien,Wien|Österreich,1058.0709
+Barcelona|Spanien,Wien|Österreich,1789.4295
+Budapest|Ungarn,Wien|Österreich,242.6449
+München|Deutschland,Wien|Österreich,403.4045
+Charkiw|Ukraine,Wien|Österreich,1798.4941000000001
+Prag|Tschechin,Wien|Österreich,336.5685
+Mailand|Italien,Wien|Österreich,855.0396
+Sofia|Bulgarien,Wien|Österreich,1006.7169
+Kasan|Russland,Wien|Österreich,2826.2376
+Nischni Nowgorod|Russland,Wien|Österreich,2427.5677
+Belgrad|Serbien,Wien|Österreich,614.4626999999999
+Samara|Russland,Wien|Österreich,3009.1733
+Rostow am Don|Russland,Wien|Österreich,2279.2065
+Ufa|Russland,Wien|Österreich,3323.0233
+Wien|Österreich,Woronesch|Russland,2274.3251
+Perm|Russland,Wien|Österreich,3455.7922000000003
+Köln|Deutschland,Wien|Österreich,896.7839
+Odessa|Ukraine,Wien|Österreich,1615.8358
+Wien|Österreich,Wolgograd|Russland,2578.7741
+Dnipro|Ukraine,Wien|Österreich,1811.6305
+Krasnodar|Russland,Wien|Österreich,2627.6074
+Amsterdam|Niederlande,Wien|Österreich,1148.9268
+Neapel|Italien,Wien|Österreich,1317.7684
+Donezk|Ukraine,Wien|Österreich,2061.1373
+Marseille|Frankreich,Wien|Österreich,1360.8836999999999
+Turin|Italien,Wien|Österreich,991.2815
+Saratow|Russland,Wien|Österreich,2822.5742
+Valencia|Spanien,Wien|Österreich,2128.9747
+Wien|Österreich,Zagreb|Kroatien,369.6784
+Frankfurt am Main|Deutschland,Wien|Österreich,716.8062
+Lwiw (Lemberg)|Ukraine,Wien|Österreich,787.0056
+Sevilla|Spanien,Wien|Österreich,2774.0143
+Saragossa|Spanien,Wien|Österreich,2065.3729
+Breslau|Polen,Wien|Österreich,533.9069000000001
+Ischewsk|Russland,Wien|Österreich,3172.8723999999997
+Lodz|Polen,Wien|Österreich,575.4857
+Athen|Griechenland,Wien|Österreich,1705.1778
+Palermo|Italien,Wien|Österreich,2013.3089
+Uljanowsk|Russland,Wien|Österreich,2815.0422999999996
+Stuttgart|Deutschland,Wien|Österreich,620.8901
+Leipzig|Deutschland,Wien|Österreich,585.9017
+Vilnius|Litauen,Wien|Österreich,1195.0413
+Machatschkala|Russland,Wien|Österreich,3199.497
+Krywyj Rih|Ukraine,Wien|Österreich,1618.2802
+Jaroslawl|Russland,Wien|Österreich,2220.2002
+Tirana|Albanien,Wien|Österreich,1281.0952
+Riga|Lettland,Wien|Österreich,1351.5193000000002
+Malaga|Spanien,Wien|Österreich,2745.084
+Bremen|Deutschland,Wien|Österreich,943.7973000000001
+Orenburg|Russland,Wien|Österreich,3395.6157000000003
+Lissabon|Portugal,Wien|Österreich,2863.7162999999996
+Chisinau|Moldau,Wien|Österreich,1321.1688000000001
+Dresden|Deutschland,Wien|Österreich,478.9711
+Genua|Italien,Wien|Österreich,1007.3251
+Antwerpen|Belgien,Wien|Österreich,1112.9403
+Posen|Polen,Wien|Österreich,721.7005
+Rjasan|Russland,Wien|Österreich,2135.6276000000003
+Nabereschnyje Tschelny|Russland,Wien|Österreich,3024.8869
+Nürnberg|Deutschland,Wien|Österreich,498.83070000000004
+Skopje|Nordmazedonien,Wien|Österreich,1043.3978
+Astrachan|Russland,Wien|Österreich,2958.975
+Hannover|Deutschland,Wien|Österreich,838.7325999999999
+Kirow|Russland,Wien|Österreich,2971.5737999999997
+Lyon|Frankreich,Wien|Österreich,1233.6938
+Pensa|Russland,Wien|Österreich,2579.5274
+Toulouse|Frankreich,Wien|Österreich,1714.8511
+Lipezk|Russland,Wien|Österreich,2213.1239
+Homel|Belarus,Wien|Österreich,1552.2236
+Minsk|Belarus,Warschau|Polen,548.9525
+Hamburg|Deutschland,Minsk|Belarus,1389.2291
+Barcelona|Spanien,Minsk|Belarus,2951.2992999999997
+Budapest|Ungarn,Minsk|Belarus,1419.461
+Minsk|Belarus,München|Deutschland,1611.5986
+Charkiw|Ukraine,Minsk|Belarus,966.1451999999999
+Minsk|Belarus,Prag|Tschechin,1305.2133999999999
+Minsk|Belarus,Sofia|Bulgarien,2183.533
+Kasan|Russland,Minsk|Belarus,1595.0011000000002
+Minsk|Belarus,Nischni Nowgorod|Russland,1196.3311999999999
+Belgrad|Serbien,Minsk|Belarus,1791.2786999999998
+Minsk|Belarus,Samara|Russland,1777.9368
+Minsk|Belarus,Rostow am Don|Russland,1594.5968
+Minsk|Belarus,Ufa|Russland,2091.7868
+Minsk|Belarus,Woronesch|Russland,1030.7067
+Minsk|Belarus,Perm|Russland,2224.5557000000003
+Köln|Deutschland,Minsk|Belarus,1649.9234
+Minsk|Belarus,Odessa|Ukraine,1449.1263999999999
+Minsk|Belarus,Wolgograd|Russland,1616.9024
+Dnipro|Ukraine,Minsk|Belarus,1156.4176
+Krasnodar|Russland,Minsk|Belarus,1888.6987
+Amsterdam|Niederlande,Minsk|Belarus,1732.1212
+Minsk|Belarus,Neapel|Italien,2545.6187999999997
+Donezk|Ukraine,Minsk|Belarus,1352.3102
+Marseille|Frankreich,Minsk|Belarus,2624.7371000000003
+Minsk|Belarus,Turin|Italien,2176.3372999999997
+Minsk|Belarus,Zagreb|Kroatien,1597.5288
+Frankfurt am Main|Deutschland,Minsk|Belarus,1627.8591000000001
+Lwiw (Lemberg)|Ukraine,Minsk|Belarus,650.6965
+Minsk|Belarus,Sevilla|Spanien,3861.1972
+Minsk|Belarus,Saragossa|Spanien,3227.2428
+Breslau|Polen,Minsk|Belarus,892.4609
+Ischewsk|Russland,Minsk|Belarus,1941.6359
+Lodz|Polen,Minsk|Belarus,674.5514000000001
+Athen|Griechenland,Minsk|Belarus,2881.9939
+Minsk|Belarus,Palermo|Italien,3241.1593
+Minsk|Belarus,Uljanowsk|Russland,1583.8058
+Minsk|Belarus,Stuttgart|Deutschland,1665.0722
+Leipzig|Deutschland,Minsk|Belarus,1262.7002
+Minsk|Belarus,Vilnius|Litauen,190.24710000000002
+Machatschkala|Russland,Minsk|Belarus,2408.4331
+Krywyj Rih|Ukraine,Minsk|Belarus,1303.5956
+Jaroslawl|Russland,Minsk|Belarus,988.9636999999999
+Minsk|Belarus,Tirana|Albanien,2457.9112999999998
+Minsk|Belarus,Riga|Lettland,485.1465
+Malaga|Spanien,Minsk|Belarus,3906.9538
+Bremen|Deutschland,Minsk|Belarus,1464.9893
+Minsk|Belarus,Orenburg|Russland,2164.3792000000003
+Lissabon|Portugal,Minsk|Belarus,3864.8903999999998
+Chisinau|Moldau,Minsk|Belarus,1208.8306
+Dresden|Deutschland,Minsk|Belarus,1158.7729
+Genua|Italien,Minsk|Belarus,2235.1755
+Antwerpen|Belgien,Minsk|Belarus,1806.0786
+Minsk|Belarus,Posen|Polen,847.5495
+Minsk|Belarus,Rjasan|Russland,904.3910999999999
+Minsk|Belarus,Nabereschnyje Tschelny|Russland,1793.6504
+Minsk|Belarus,Nürnberg|Deutschland,1460.7586000000001
+Minsk|Belarus,Skopje|Nordmazedonien,2220.2138
+Astrachan|Russland,Minsk|Belarus,2042.8203
+Hannover|Deutschland,Minsk|Belarus,1359.9247
+Kirow|Russland,Minsk|Belarus,1740.3373000000001
+Lyon|Frankreich,Minsk|Belarus,2308.9829
+Minsk|Belarus,Pensa|Russland,1348.2909
+Minsk|Belarus,Toulouse|Frankreich,2790.1402000000003
+Lipezk|Russland,Minsk|Belarus,969.5055
+Homel|Belarus,Minsk|Belarus,308.6052
+Hamburg|Deutschland,Warschau|Polen,852.8566999999999
+Bukarest|Rumänien,Warschau|Polen,1671.3571000000002
+Barcelona|Spanien,Warschau|Polen,2414.9269
+Budapest|Ungarn,Warschau|Polen,855.9311
+München|Deutschland,Warschau|Polen,1075.2261
+Charkiw|Ukraine,Warschau|Polen,1252.4413
+Prag|Tschechin,Warschau|Polen,741.6835
+Mailand|Italien,Warschau|Polen,1524.0636000000002
+Sofia|Bulgarien,Warschau|Polen,1620.0031000000001
+Kasan|Russland,Warschau|Polen,2143.0184
+Nischni Nowgorod|Russland,Warschau|Polen,1744.3485
+Belgrad|Serbien,Warschau|Polen,1227.7488999999998
+Samara|Russland,Warschau|Polen,2325.954
+Rostow am Don|Russland,Warschau|Polen,1733.1536
+Ufa|Russland,Warschau|Polen,2639.8041000000003
+Warschau|Polen,Woronesch|Russland,1591.1059
+Perm|Russland,Warschau|Polen,2772.573
+Köln|Deutschland,Warschau|Polen,1113.551
+Odessa|Ukraine,Warschau|Polen,1238.4066
+Warschau|Polen,Wolgograd|Russland,2202.3095
+Dnipro|Ukraine,Warschau|Polen,1265.5777
+Krasnodar|Russland,Warschau|Polen,2081.5546
+Amsterdam|Niederlande,Warschau|Polen,1195.7488
+Neapel|Italien,Warschau|Polen,1982.0889
+Donezk|Ukraine,Warschau|Polen,1515.0845
+Marseille|Frankreich,Warschau|Polen,2088.3647
+Turin|Italien,Warschau|Polen,1639.9649
+Saratow|Russland,Warschau|Polen,2139.355
+Valencia|Spanien,Warschau|Polen,2754.4721
+Warschau|Polen,Zagreb|Kroatien,1033.9989
+Frankfurt am Main|Deutschland,Warschau|Polen,1091.4867
+Lwiw (Lemberg)|Ukraine,Warschau|Polen,478.8633
+Sevilla|Spanien,Warschau|Polen,3324.8248
+Saragossa|Spanien,Warschau|Polen,2690.8704
+Breslau|Polen,Warschau|Polen,356.0885
+Ischewsk|Russland,Warschau|Polen,2489.6532
+Lodz|Polen,Warschau|Polen,138.179
+Athen|Griechenland,Warschau|Polen,2318.464
+Palermo|Italien,Warschau|Polen,2677.6295
+Uljanowsk|Russland,Warschau|Polen,2131.823
+Stuttgart|Deutschland,Warschau|Polen,1128.6998
+Leipzig|Deutschland,Warschau|Polen,726.3278
+Vilnius|Litauen,Warschau|Polen,511.822
+Machatschkala|Russland,Warschau|Polen,2653.4442000000004
+Krywyj Rih|Ukraine,Warschau|Polen,1267.5009
+Jaroslawl|Russland,Warschau|Polen,1536.981
+Tirana|Albanien,Warschau|Polen,1894.3814
+Riga|Lettland,Warschau|Polen,668.3
+Malaga|Spanien,Warschau|Polen,3370.5814
+Bremen|Deutschland,Warschau|Polen,928.6169
+Orenburg|Russland,Warschau|Polen,2712.3964
+Lissabon|Portugal,Warschau|Polen,3328.518
+Chisinau|Moldau,Warschau|Polen,966.0015
+Dresden|Deutschland,Warschau|Polen,622.4005
+Genua|Italien,Warschau|Polen,1671.6456
+Antwerpen|Belgien,Warschau|Polen,1269.7061999999999
+Posen|Polen,Warschau|Polen,311.1771
+Rjasan|Russland,Warschau|Polen,1452.4083999999998
+Nabereschnyje Tschelny|Russland,Warschau|Polen,2341.6677
+Nürnberg|Deutschland,Warschau|Polen,924.3861999999999
+Skopje|Nordmazedonien,Warschau|Polen,1656.6839
+Astrachan|Russland,Warschau|Polen,2412.9222
+Hannover|Deutschland,Warschau|Polen,823.5522
+Kirow|Russland,Warschau|Polen,2288.3546
+Lyon|Frankreich,Warschau|Polen,1772.6105
+Pensa|Russland,Warschau|Polen,1896.3081000000002
+Toulouse|Frankreich,Warschau|Polen,2253.7677999999996
+Lipezk|Russland,Warschau|Polen,1529.9046
+Homel|Belarus,Warschau|Polen,869.0044
+Bukarest|Rumänien,Hamburg|Deutschland,1977.3075
+Barcelona|Spanien,Hamburg|Deutschland,1805.5111000000002
+Budapest|Ungarn,Hamburg|Deutschland,1161.8815
+Hamburg|Deutschland,München|Deutschland,791.8459
+Charkiw|Ukraine,Hamburg|Deutschland,2100.384
+Hamburg|Deutschland,Prag|Tschechin,637.8214
+Hamburg|Deutschland,Mailand|Italien,1139.7835
+Hamburg|Deutschland,Sofia|Bulgarien,1925.9533999999999
+Hamburg|Deutschland,Kasan|Russland,2983.4192000000003
+Hamburg|Deutschland,Nischni Nowgorod|Russland,2584.7493999999997
+Belgrad|Serbien,Hamburg|Deutschland,1533.6992
+Hamburg|Deutschland,Samara|Russland,3166.3549
+Hamburg|Deutschland,Rostow am Don|Russland,2581.0964
+Hamburg|Deutschland,Ufa|Russland,3480.2048999999997
+Hamburg|Deutschland,Woronesch|Russland,2431.5067000000004
+Hamburg|Deutschland,Perm|Russland,3612.9737999999998
+Hamburg|Deutschland,Köln|Deutschland,425.7842
+Hamburg|Deutschland,Odessa|Ukraine,2086.3494
+Hamburg|Deutschland,Wolgograd|Russland,3042.7104
+Dnipro|Ukraine,Hamburg|Deutschland,2113.5204
+Hamburg|Deutschland,Krasnodar|Russland,2929.4973
+Amsterdam|Niederlande,Hamburg|Deutschland,464.6708
+Hamburg|Deutschland,Neapel|Italien,1909.0354
+Donezk|Ukraine,Hamburg|Deutschland,2363.0272
+Hamburg|Deutschland,Marseille|Frankreich,1478.9488999999999
+Hamburg|Deutschland,Turin|Italien,1255.6847
+Hamburg|Deutschland,Saratow|Russland,2979.7558
+Hamburg|Deutschland,Valencia|Spanien,2145.0564
+Hamburg|Deutschland,Zagreb|Kroatien,1280.22
+Frankfurt am Main|Deutschland,Hamburg|Deutschland,482.071
+Hamburg|Deutschland,Lwiw (Lemberg)|Ukraine,1227.4955
+Hamburg|Deutschland,Sevilla|Spanien,2642.6981
+Hamburg|Deutschland,Saragossa|Spanien,1964.3319
+Breslau|Polen,Hamburg|Deutschland,649.4866
+Hamburg|Deutschland,Lodz|Polen,751.4839000000001
+Athen|Griechenland,Hamburg|Deutschland,2624.4143
+Hamburg|Deutschland,Uljanowsk|Russland,2972.2239
+Hamburg|Deutschland,Stuttgart|Deutschland,665.9296999999999
+Hamburg|Deutschland,Leipzig|Deutschland,392.9403
+Hamburg|Deutschland,Vilnius|Litauen,1352.2229
+Hamburg|Deutschland,Machatschkala|Russland,3501.3869
+Hamburg|Deutschland,Krywyj Rih|Ukraine,2115.4436
+Hamburg|Deutschland,Jaroslawl|Russland,2377.3817999999997
+Hamburg|Deutschland,Tirana|Albanien,2200.3318
+Hamburg|Deutschland,Riga|Lettland,1508.7008999999998
+Hamburg|Deutschland,Malaga|Spanien,2761.1656000000003
+Bremen|Deutschland,Hamburg|Deutschland,120.7453
+Hamburg|Deutschland,Orenburg|Russland,3552.7972999999997
+Hamburg|Deutschland,Lissabon|Portugal,2646.3913
+Chisinau|Moldau,Hamburg|Deutschland,1823.8738
+Genua|Italien,Hamburg|Deutschland,1295.233
+Antwerpen|Belgien,Hamburg|Deutschland,565.059
+Hamburg|Deutschland,Posen|Polen,551.3860999999999
+Hamburg|Deutschland,Nabereschnyje Tschelny|Russland,3182.0685
+Hamburg|Deutschland,Nürnberg|Deutschland,608.8119
+Hamburg|Deutschland,Skopje|Nordmazedonien,1962.6343
+Astrachan|Russland,Hamburg|Deutschland,3260.8649
+Hamburg|Deutschland,Hannover|Deutschland,150.68689999999998
+Hamburg|Deutschland,Kirow|Russland,3128.7554
+Hamburg|Deutschland,Lyon|Frankreich,1163.1947
+Hamburg|Deutschland,Pensa|Russland,2736.709
+Hamburg|Deutschland,Toulouse|Frankreich,1584.4192
+Hamburg|Deutschland,Lipezk|Russland,2370.3055
+Hamburg|Deutschland,Homel|Belarus,1709.4052
+Barcelona|Spanien,Bukarest|Rumänien,2739.0322
+Budapest|Ungarn,Bukarest|Rumänien,822.9356
+Bukarest|Rumänien,München|Deutschland,1468.7004
+Bukarest|Rumänien,Charkiw|Ukraine,1215.5585
+Bukarest|Rumänien,Sofia|Bulgarien,357.2099
+Bukarest|Rumänien,Kasan|Russland,2747.4784
+Bukarest|Rumänien,Nischni Nowgorod|Russland,2440.751
+Belgrad|Serbien,Bukarest|Rumänien,628.247
+Bukarest|Rumänien,Samara|Russland,2656.3566
+Bukarest|Rumänien,Rostow am Don|Russland,1438.2585
+Bukarest|Rumänien,Ufa|Russland,3049.3985
+Bukarest|Rumänien,Woronesch|Russland,1714.5295
+Bukarest|Rumänien,Perm|Russland,3434.6912
+Bukarest|Rumänien,Köln|Deutschland,1962.0798
+Bukarest|Rumänien,Odessa|Ukraine,545.2691
+Bukarest|Rumänien,Wolgograd|Russland,1856.0692
+Bukarest|Rumänien,Dnipro|Ukraine,994.9145
+Bukarest|Rumänien,Krasnodar|Russland,1786.6595
+Amsterdam|Niederlande,Bukarest|Rumänien,2214.2227000000003
+Bukarest|Rumänien,Neapel|Italien,2230.7935
+Bukarest|Rumänien,Turin|Italien,1904.3065
+Bukarest|Rumänien,Lwiw (Lemberg)|Ukraine,808.6555
+Bukarest|Rumänien,Sevilla|Spanien,3723.617
+Bukarest|Rumänien,Saragossa|Spanien,3014.9757
+Breslau|Polen,Bukarest|Rumänien,1536.5693999999999
+Bukarest|Rumänien,Ischewsk|Russland,3141.8287
+Bukarest|Rumänien,Lodz|Polen,1578.1481999999999
+Athen|Griechenland,Bukarest|Rumänien,1148.4991
+Bukarest|Rumänien,Palermo|Italien,2926.334
+Bukarest|Rumänien,Uljanowsk|Russland,2604.7217
+Bukarest|Rumänien,Stuttgart|Deutschland,1686.186
+Bukarest|Rumänien,Leipzig|Deutschland,1593.2716
+Bukarest|Rumänien,Vilnius|Litauen,2197.7038
+Bukarest|Rumänien,Krywyj Rih|Ukraine,849.6338000000001
+Bukarest|Rumänien,Jaroslawl|Russland,2350.3346
+Bukarest|Rumänien,Tirana|Albanien,871.8521999999999
+Bremen|Deutschland,Bukarest|Rumänien,1951.1673
+Bukarest|Rumänien,Orenburg|Russland,2939.0014
+Bukarest|Rumänien,Dresden|Deutschland,1486.341
+Antwerpen|Belgien,Bukarest|Rumänien,2178.2362000000003
+Bukarest|Rumänien,Posen|Polen,1724.363
+Bukarest|Rumänien,Rjasan|Russland,2093.2601
+Bukarest|Rumänien,Skopje|Nordmazedonien,588.3525
+Astrachan|Russland,Bukarest|Rumänien,2204.5301
+Bukarest|Rumänien,Hannover|Deutschland,1846.1026000000002
+Bukarest|Rumänien,Kirow|Russland,3042.2942000000003
+Bukarest|Rumänien,Lyon|Frankreich,2204.5098
+Bukarest|Rumänien,Pensa|Russland,2223.2354
+Bukarest|Rumänien,Toulouse|Frankreich,2644.9127999999996
+Bukarest|Rumänien,Lipezk|Russland,1836.0744
+Bukarest|Rumänien,Homel|Belarus,1764.8653
+Barcelona|Spanien,Budapest|Ungarn,1923.2828
+Barcelona|Spanien,München|Deutschland,1377.268
+Barcelona|Spanien,Charkiw|Ukraine,3582.4148
+Barcelona|Spanien,Prag|Tschechin,1716.2253999999998
+Barcelona|Spanien,Mailand|Italien,980.0847
+Barcelona|Spanien,Sofia|Bulgarien,2380.8146
+Barcelona|Spanien,Kasan|Russland,4536.266
+Barcelona|Spanien,Nischni Nowgorod|Russland,4137.5961
+Barcelona|Spanien,Belgrad|Serbien,1988.4706
+Barcelona|Spanien,Samara|Russland,4719.201599999999
+Barcelona|Spanien,Rostow am Don|Russland,4063.1272000000004
+Barcelona|Spanien,Ufa|Russland,5033.0517
+Barcelona|Spanien,Woronesch|Russland,3984.3535
+Barcelona|Spanien,Perm|Russland,5165.8206
+Barcelona|Spanien,Köln|Deutschland,1376.9863
+Barcelona|Spanien,Odessa|Ukraine,3373.3421000000003
+Barcelona|Spanien,Wolgograd|Russland,4595.5571
+Barcelona|Spanien,Dnipro|Ukraine,3595.5512000000003
+Barcelona|Spanien,Krasnodar|Russland,4411.5280999999995
+Amsterdam|Niederlande,Barcelona|Spanien,1539.0935
+Barcelona|Spanien,Neapel|Italien,1565.9993
+Barcelona|Spanien,Donezk|Ukraine,3845.058
+Barcelona|Spanien,Marseille|Frankreich,504.989
+Barcelona|Spanien,Turin|Italien,865.2946999999999
+Barcelona|Spanien,Saratow|Russland,4532.602599999999
+Barcelona|Spanien,Valencia|Spanien,350.0988
+Barcelona|Spanien,Zagreb|Kroatien,1595.8802
+Barcelona|Spanien,Frankfurt am Main|Deutschland,1331.6513
+Barcelona|Spanien,Lwiw (Lemberg)|Ukraine,2570.9262999999996
+Barcelona|Spanien,Sevilla|Spanien,995.1384
+Barcelona|Spanien,Saragossa|Spanien,310.377
+Barcelona|Spanien,Breslau|Polen,2001.9429
+Barcelona|Spanien,Ischewsk|Russland,4882.900799999999
+Barcelona|Spanien,Lodz|Polen,2221.8338
+Athen|Griechenland,Barcelona|Spanien,3079.2754
+Barcelona|Spanien,Palermo|Italien,2261.5398
+Barcelona|Spanien,Uljanowsk|Russland,4525.0706
+Barcelona|Spanien,Stuttgart|Deutschland,1268.395
+Barcelona|Spanien,Leipzig|Deutschland,1720.057
+Barcelona|Spanien,Vilnius|Litauen,2905.0696000000003
+Barcelona|Spanien,Machatschkala|Russland,4983.4177
+Barcelona|Spanien,Krywyj Rih|Ukraine,3402.201
+Barcelona|Spanien,Jaroslawl|Russland,3930.2286
+Barcelona|Spanien,Tirana|Albanien,2342.4924
+Barcelona|Spanien,Riga|Lettland,3061.5476
+Barcelona|Spanien,Malaga|Spanien,966.2081
+Barcelona|Spanien,Bremen|Deutschland,1765.0998
+Barcelona|Spanien,Orenburg|Russland,5105.644
+Barcelona|Spanien,Lissabon|Portugal,1252.8614
+Barcelona|Spanien,Chisinau|Moldau,2998.1505
+Barcelona|Spanien,Dresden|Deutschland,1743.2858
+Barcelona|Spanien,Genua|Italien,857.5785
+Antwerpen|Belgien,Barcelona|Spanien,1379.3331
+Barcelona|Spanien,Posen|Polen,2104.2327999999998
+Barcelona|Spanien,Rjasan|Russland,3845.656
+Barcelona|Spanien,Nabereschnyje Tschelny|Russland,4734.9153
+Barcelona|Spanien,Nürnberg|Deutschland,1446.0176999999999
+Barcelona|Spanien,Skopje|Nordmazedonien,2417.4954
+Astrachan|Russland,Barcelona|Spanien,4742.8957
+Barcelona|Spanien,Hannover|Deutschland,1661.8387
+Barcelona|Spanien,Kirow|Russland,4681.6022
+Barcelona|Spanien,Lyon|Frankreich,640.1817
+Barcelona|Spanien,Pensa|Russland,4289.5557
+Barcelona|Spanien,Toulouse|Frankreich,403.31809999999996
+Barcelona|Spanien,Lipezk|Russland,3923.1522
+Barcelona|Spanien,Homel|Belarus,3262.252
+Budapest|Ungarn,München|Deutschland,652.6176999999999
+Budapest|Ungarn,Charkiw|Ukraine,1595.8047
+Budapest|Ungarn,Prag|Tschechin,527.8556
+Budapest|Ungarn,Mailand|Italien,955.1418000000001
+Budapest|Ungarn,Sofia|Bulgarien,772.8732
+Budapest|Ungarn,Kasan|Russland,3012.8174
+Budapest|Ungarn,Nischni Nowgorod|Russland,2614.1475
+Belgrad|Serbien,Budapest|Ungarn,380.619
+Budapest|Ungarn,Samara|Russland,3195.7531
+Budapest|Ungarn,Rostow am Don|Russland,1944.1221
+Budapest|Ungarn,Ufa|Russland,3509.6031000000003
+Budapest|Ungarn,Woronesch|Russland,1834.6908
+Budapest|Ungarn,Perm|Russland,3642.372
+Budapest|Ungarn,Köln|Deutschland,1145.997
+Budapest|Ungarn,Odessa|Ukraine,1381.9921000000002
+Budapest|Ungarn,Wolgograd|Russland,2335.4627
+Budapest|Ungarn,Dnipro|Ukraine,1474.308
+Budapest|Ungarn,Krasnodar|Russland,2292.523
+Amsterdam|Niederlande,Budapest|Ungarn,1398.14
+Budapest|Ungarn,Neapel|Italien,1417.8707
+Budapest|Ungarn,Donezk|Ukraine,1741.3802
+Budapest|Ungarn,Marseille|Frankreich,1460.986
+Budapest|Ungarn,Turin|Italien,1091.3838
+Budapest|Ungarn,Saratow|Russland,2358.0986000000003
+Budapest|Ungarn,Valencia|Spanien,2265.6547
+Budapest|Ungarn,Zagreb|Kroatien,344.13329999999996
+Budapest|Ungarn,Frankfurt am Main|Deutschland,966.0194
+Budapest|Ungarn,Lwiw (Lemberg)|Ukraine,576.4359000000001
+Budapest|Ungarn,Sevilla|Spanien,2910.6942000000004
+Budapest|Ungarn,Saragossa|Spanien,2202.0528999999997
+Breslau|Polen,Budapest|Ungarn,720.4866999999999
+Budapest|Ungarn,Ischewsk|Russland,3359.4522
+Budapest|Ungarn,Lodz|Polen,762.0655
+Athen|Griechenland,Budapest|Ungarn,1471.3341
+Budapest|Ungarn,Palermo|Italien,2113.4112
+Budapest|Ungarn,Uljanowsk|Russland,3001.6221
+Budapest|Ungarn,Stuttgart|Deutschland,870.1031999999999
+Budapest|Ungarn,Leipzig|Deutschland,777.1888
+Budapest|Ungarn,Vilnius|Litauen,1381.6211
+Budapest|Ungarn,Machatschkala|Russland,2864.4126
+Budapest|Ungarn,Krywyj Rih|Ukraine,1356.0951
+Budapest|Ungarn,Jaroslawl|Russland,2406.78
+Budapest|Ungarn,Tirana|Albanien,1047.2515
+Budapest|Ungarn,Riga|Lettland,1538.0991000000001
+Budapest|Ungarn,Malaga|Spanien,2881.764
+Bremen|Deutschland,Budapest|Ungarn,1135.0845
+Budapest|Ungarn,Orenburg|Russland,3582.1955
+Budapest|Ungarn,Lissabon|Portugal,3112.9294
+Budapest|Ungarn,Chisinau|Moldau,1087.3251
+Budapest|Ungarn,Dresden|Deutschland,670.2583000000001
+Budapest|Ungarn,Genua|Italien,1107.4273999999998
+Antwerpen|Belgien,Budapest|Ungarn,1362.1535
+Budapest|Ungarn,Posen|Polen,908.2803
+Budapest|Ungarn,Rjasan|Russland,2322.2074
+Budapest|Ungarn,Nabereschnyje Tschelny|Russland,3211.4667000000004
+Budapest|Ungarn,Nürnberg|Deutschland,748.0438
+Budapest|Ungarn,Skopje|Nordmazedonien,809.554
+Astrachan|Russland,Budapest|Ungarn,2710.3937
+Budapest|Ungarn,Hannover|Deutschland,1030.0198
+Budapest|Ungarn,Kirow|Russland,3158.1536
+Budapest|Ungarn,Lyon|Frankreich,1391.5871000000002
+Budapest|Ungarn,Pensa|Russland,2766.1072000000004
+Budapest|Ungarn,Toulouse|Frankreich,1831.9901
+Budapest|Ungarn,Lipezk|Russland,2399.7036000000003
+Budapest|Ungarn,Homel|Belarus,1738.8034
+Charkiw|Ukraine,München|Deutschland,2247.161
+München|Deutschland,Prag|Tschechin,380.9715
+Mailand|Italien,München|Deutschland,491.97090000000003
+München|Deutschland,Sofia|Bulgarien,1332.8797
+Kasan|Russland,München|Deutschland,3255.1373
+München|Deutschland,Nischni Nowgorod|Russland,2856.4674
+Belgrad|Serbien,München|Deutschland,940.5356999999999
+München|Deutschland,Samara|Russland,3438.0729
+München|Deutschland,Rostow am Don|Russland,2727.8732999999997
+München|Deutschland,Ufa|Russland,3751.923
+München|Deutschland,Woronesch|Russland,2703.2248
+München|Deutschland,Perm|Russland,3884.6919
+Köln|Deutschland,München|Deutschland,575.6821
+München|Deutschland,Odessa|Ukraine,2038.0883000000001
+München|Deutschland,Wolgograd|Russland,3027.4409
+Dnipro|Ukraine,München|Deutschland,2260.2972999999997
+Krasnodar|Russland,München|Deutschland,3076.2743
+Amsterdam|Niederlande,München|Deutschland,827.825
+München|Deutschland,Neapel|Italien,1116.9565
+Donezk|Ukraine,München|Deutschland,2509.8041000000003
+Marseille|Frankreich,München|Deutschland,1051.2153
+München|Deutschland,Turin|Italien,607.8721999999999
+München|Deutschland,Saratow|Russland,3251.4739
+München|Deutschland,Valencia|Spanien,1717.3228000000001
+München|Deutschland,Zagreb|Kroatien,547.9453000000001
+Frankfurt am Main|Deutschland,München|Deutschland,395.7045
+Lwiw (Lemberg)|Ukraine,München|Deutschland,1235.6724
+München|Deutschland,Sevilla|Spanien,2362.3623
+München|Deutschland,Saragossa|Spanien,1653.721
+Breslau|Polen,München|Deutschland,720.8141999999999
+Ischewsk|Russland,München|Deutschland,3601.7721
+Lodz|Polen,München|Deutschland,940.7051
+Athen|Griechenland,München|Deutschland,2031.3406
+München|Deutschland,Palermo|Italien,1812.497
+München|Deutschland,Uljanowsk|Russland,3243.9419
+München|Deutschland,Stuttgart|Deutschland,218.4709
+Leipzig|Deutschland,München|Deutschland,438.9283
+München|Deutschland,Vilnius|Litauen,1623.9408999999998
+Machatschkala|Russland,München|Deutschland,3648.1639
+Krywyj Rih|Ukraine,München|Deutschland,2066.9471000000003
+Jaroslawl|Russland,München|Deutschland,2649.0998999999997
+München|Deutschland,Tirana|Albanien,1607.258
+München|Deutschland,Riga|Lettland,1780.4189
+Malaga|Spanien,München|Deutschland,2333.432
+Bremen|Deutschland,München|Deutschland,764.3299000000001
+München|Deutschland,Orenburg|Russland,3824.5153
+Lissabon|Portugal,München|Deutschland,2461.2971000000002
+Chisinau|Moldau,München|Deutschland,1730.6312
+Dresden|Deutschland,München|Deutschland,462.157
+Genua|Italien,München|Deutschland,647.4205
+Antwerpen|Belgien,München|Deutschland,791.8385
+München|Deutschland,Posen|Polen,823.1041
+München|Deutschland,Rjasan|Russland,2564.5272999999997
+München|Deutschland,Nabereschnyje Tschelny|Russland,3453.7866
+München|Deutschland,Nürnberg|Deutschland,170.7935
+München|Deutschland,Skopje|Nordmazedonien,1369.5605
+Astrachan|Russland,München|Deutschland,3407.6419
+Hannover|Deutschland,München|Deutschland,632.0951
+Kirow|Russland,München|Deutschland,3400.4735
+Lyon|Frankreich,München|Deutschland,741.0561
+München|Deutschland,Pensa|Russland,3008.427
+München|Deutschland,Toulouse|Frankreich,1312.432
+Lipezk|Russland,München|Deutschland,2642.0235
+Homel|Belarus,München|Deutschland,1981.1233
+Charkiw|Ukraine,Prag|Tschechin,1871.7782
+Charkiw|Ukraine,Mailand|Italien,2649.4548
+Charkiw|Ukraine,Sofia|Bulgarien,1576.2284
+Charkiw|Ukraine,Kasan|Russland,1506.4128999999998
+Charkiw|Ukraine,Nischni Nowgorod|Russland,1199.6853999999998
+Belgrad|Serbien,Charkiw|Ukraine,1852.4907
+Charkiw|Ukraine,Samara|Russland,1415.2911000000001
+Charkiw|Ukraine,Rostow am Don|Russland,533.0679
+Charkiw|Ukraine,Ufa|Russland,1808.333
+Charkiw|Ukraine,Woronesch|Russland,473.464
+Charkiw|Ukraine,Perm|Russland,2193.6256000000003
+Charkiw|Ukraine,Köln|Deutschland,2361.3407
+Charkiw|Ukraine,Odessa|Ukraine,673.6068
+Charkiw|Ukraine,Wolgograd|Russland,807.1468000000001
+Charkiw|Ukraine,Dnipro|Ukraine,218.0404
+Charkiw|Ukraine,Krasnodar|Russland,827.1698
+Amsterdam|Niederlande,Charkiw|Ukraine,2443.5385
+Charkiw|Ukraine,Neapel|Italien,3112.1836000000003
+Charkiw|Ukraine,Donezk|Ukraine,354.69640000000004
+Charkiw|Ukraine,Marseille|Frankreich,3259.4473
+Charkiw|Ukraine,Turin|Italien,2785.6967
+Charkiw|Ukraine,Saratow|Russland,996.8718
+Charkiw|Ukraine,Valencia|Spanien,3925.5548
+Charkiw|Ukraine,Zagreb|Kroatien,1962.0178999999998
+Charkiw|Ukraine,Frankfurt am Main|Deutschland,2339.2763999999997
+Charkiw|Ukraine,Lwiw (Lemberg)|Ukraine,1018.005
+Charkiw|Ukraine,Sevilla|Spanien,4572.6144
+Charkiw|Ukraine,Saragossa|Spanien,3861.953
+Breslau|Polen,Charkiw|Ukraine,1603.8781000000001
+Charkiw|Ukraine,Ischewsk|Russland,1900.7631999999999
+Charkiw|Ukraine,Lodz|Polen,1385.9686000000002
+Athen|Griechenland,Charkiw|Ukraine,2367.5176
+Charkiw|Ukraine,Palermo|Italien,3807.7242
+Charkiw|Ukraine,Uljanowsk|Russland,1363.6562
+Charkiw|Ukraine,Stuttgart|Deutschland,2349.8914
+Charkiw|Ukraine,Leipzig|Deutschland,1974.1173999999999
+Charkiw|Ukraine,Vilnius|Litauen,1171.2296000000001
+Charkiw|Ukraine,Machatschkala|Russland,1419.2938000000001
+Charkiw|Ukraine,Krywyj Rih|Ukraine,365.21840000000003
+Charkiw|Ukraine,Jaroslawl|Russland,1109.2691
+Charkiw|Ukraine,Tirana|Albanien,2090.8707
+Charkiw|Ukraine,Riga|Lettland,1466.129
+Charkiw|Ukraine,Malaga|Spanien,4541.6641
+Bremen|Deutschland,Charkiw|Ukraine,2176.4066000000003
+Charkiw|Ukraine,Orenburg|Russland,1697.9359
+Charkiw|Ukraine,Lissabon|Portugal,4576.307599999999
+Charkiw|Ukraine,Chisinau|Moldau,863.6545
+Charkiw|Ukraine,Dresden|Deutschland,1858.2756000000002
+Charkiw|Ukraine,Genua|Italien,2801.7403
+Antwerpen|Belgien,Charkiw|Ukraine,2517.4959
+Charkiw|Ukraine,Posen|Polen,1558.9668000000001
+Charkiw|Ukraine,Rjasan|Russland,852.1945999999999
+Charkiw|Ukraine,Nabereschnyje Tschelny|Russland,1712.4025
+Charkiw|Ukraine,Nürnberg|Deutschland,2160.2612999999997
+Charkiw|Ukraine,Skopje|Nordmazedonien,1807.371
+Astrachan|Russland,Charkiw|Ukraine,1187.3477
+Charkiw|Ukraine,Hannover|Deutschland,2071.3419
+Charkiw|Ukraine,Kirow|Russland,1801.2287
+Charkiw|Ukraine,Lyon|Frankreich,2943.6932
+Charkiw|Ukraine,Pensa|Russland,982.1698
+Charkiw|Ukraine,Toulouse|Frankreich,3424.8504
+Charkiw|Ukraine,Lipezk|Russland,595.0088000000001
+Charkiw|Ukraine,Homel|Belarus,666.4849
+Mailand|Italien,Prag|Tschechin,885.0849000000001
+Prag|Tschechin,Sofia|Bulgarien,1291.1771999999999
+Kasan|Russland,Prag|Tschechin,2898.9526
+Nischni Nowgorod|Russland,Prag|Tschechin,2500.2828
+Belgrad|Serbien,Prag|Tschechin,898.923
+Prag|Tschechin,Samara|Russland,3081.8882999999996
+Prag|Tschechin,Rostow am Don|Russland,2351.9215
+Prag|Tschechin,Ufa|Russland,3395.7383999999997
+Prag|Tschechin,Woronesch|Russland,2347.0402000000004
+Perm|Russland,Prag|Tschechin,3528.5072999999998
+Köln|Deutschland,Prag|Tschechin,691.5106
+Odessa|Ukraine,Prag|Tschechin,1662.1363999999999
+Prag|Tschechin,Wolgograd|Russland,2651.4891000000002
+Dnipro|Ukraine,Prag|Tschechin,1884.3455
+Krasnodar|Russland,Prag|Tschechin,2700.3224
+Amsterdam|Niederlande,Prag|Tschechin,877.3578
+Neapel|Italien,Prag|Tschechin,1500.3223
+Prag|Tschechin,Turin|Italien,1000.9861999999999
+Prag|Tschechin,Saratow|Russland,2895.2893
+Prag|Tschechin,Valencia|Spanien,2058.1214
+Prag|Tschechin,Zagreb|Kroatien,646.5048
+Frankfurt am Main|Deutschland,Prag|Tschechin,511.533
+Lwiw (Lemberg)|Ukraine,Prag|Tschechin,859.7206
+Prag|Tschechin,Sevilla|Spanien,2703.161
+Prag|Tschechin,Saragossa|Spanien,1994.5196
+Breslau|Polen,Prag|Tschechin,295.29470000000003
+Ischewsk|Russland,Prag|Tschechin,3245.5874
+Lodz|Polen,Prag|Tschechin,515.1856
+Athen|Griechenland,Prag|Tschechin,1989.6381000000001
+Palermo|Italien,Prag|Tschechin,2195.8628
+Prag|Tschechin,Uljanowsk|Russland,2887.7572999999998
+Prag|Tschechin,Stuttgart|Deutschland,482.4581
+Leipzig|Deutschland,Prag|Tschechin,252.3303
+Prag|Tschechin,Vilnius|Litauen,1267.7563
+Machatschkala|Russland,Prag|Tschechin,3272.212
+Krywyj Rih|Ukraine,Prag|Tschechin,1690.9953
+Jaroslawl|Russland,Prag|Tschechin,2292.9152999999997
+Prag|Tschechin,Tirana|Albanien,1565.5555
+Malaga|Spanien,Prag|Tschechin,2674.2307
+Bremen|Deutschland,Prag|Tschechin,610.2259
+Orenburg|Russland,Prag|Tschechin,3468.3307
+Dresden|Deutschland,Prag|Tschechin,145.39970000000002
+Genua|Italien,Prag|Tschechin,1040.5345
+Antwerpen|Belgien,Prag|Tschechin,907.667
+Posen|Polen,Prag|Tschechin,560.4284
+Prag|Tschechin,Rjasan|Russland,2208.3426
+Nabereschnyje Tschelny|Russland,Prag|Tschechin,3097.602
+Nürnberg|Deutschland,Prag|Tschechin,293.55740000000003
+Prag|Tschechin,Skopje|Nordmazedonien,1327.858
+Astrachan|Russland,Prag|Tschechin,3031.6901000000003
+Hannover|Deutschland,Prag|Tschechin,505.1612
+Kirow|Russland,Prag|Tschechin,3044.2889
+Lyon|Frankreich,Prag|Tschechin,1076.2598
+Pensa|Russland,Prag|Tschechin,2652.2424
+Prag|Tschechin,Toulouse|Frankreich,1557.417
+Lipezk|Russland,Prag|Tschechin,2285.8388999999997
+Homel|Belarus,Prag|Tschechin,1624.9386000000002
+Mailand|Italien,Sofia|Bulgarien,1417.4701
+Kasan|Russland,Mailand|Italien,3704.8701
+Mailand|Italien,Nischni Nowgorod|Russland,3306.2003
+Belgrad|Serbien,Mailand|Italien,1025.1261
+Mailand|Italien,Samara|Russland,3887.8057999999996
+Mailand|Italien,Rostow am Don|Russland,3176.3866000000003
+Mailand|Italien,Ufa|Russland,4201.655900000001
+Mailand|Italien,Woronesch|Russland,3152.9577000000004
+Mailand|Italien,Perm|Russland,4334.4248
+Köln|Deutschland,Mailand|Italien,825.6266999999999
+Mailand|Italien,Odessa|Ukraine,2329.473
+Mailand|Italien,Wolgograd|Russland,3475.9542
+Dnipro|Ukraine,Mailand|Italien,2708.8106000000002
+Krasnodar|Russland,Mailand|Italien,3524.7875
+Amsterdam|Niederlande,Mailand|Italien,1077.7697
+Mailand|Italien,Neapel|Italien,774.685
+Donezk|Ukraine,Mailand|Italien,2958.3174
+Mailand|Italien,Marseille|Frankreich,514.9377000000001
+Mailand|Italien,Turin|Italien,140.258
+Mailand|Italien,Zagreb|Kroatien,632.5356999999999
+Frankfurt am Main|Deutschland,Mailand|Italien,661.8344000000001
+Lwiw (Lemberg)|Ukraine,Mailand|Italien,1684.1857
+Mailand|Italien,Sevilla|Spanien,1964.6459
+Mailand|Italien,Saragossa|Spanien,1256.0046
+Breslau|Polen,Mailand|Italien,1170.5471
+Ischewsk|Russland,Mailand|Italien,4051.5049
+Lodz|Polen,Mailand|Italien,1390.4379
+Athen|Griechenland,Mailand|Italien,2115.931
+Mailand|Italien,Palermo|Italien,1470.2255
+Mailand|Italien,Uljanowsk|Russland,3693.6748
+Mailand|Italien,Stuttgart|Deutschland,500.3629
+Leipzig|Deutschland,Mailand|Italien,888.6612
+Mailand|Italien,Vilnius|Litauen,2073.6738
+Machatschkala|Russland,Mailand|Italien,4096.6771
+Krywyj Rih|Ukraine,Mailand|Italien,2334.6517000000003
+Jaroslawl|Russland,Mailand|Italien,3098.8327999999997
+Mailand|Italien,Tirana|Albanien,1379.1479
+Mailand|Italien,Riga|Lettland,2230.1517999999996
+Mailand|Italien,Malaga|Spanien,1935.7156
+Bremen|Deutschland,Mailand|Italien,1095.2828
+Mailand|Italien,Orenburg|Russland,4274.2482
+Lissabon|Portugal,Mailand|Italien,2135.4457
+Chisinau|Moldau,Mailand|Italien,2034.806
+Dresden|Deutschland,Mailand|Italien,911.8899
+Genua|Italien,Mailand|Italien,161.379
+Antwerpen|Belgien,Mailand|Italien,941.1605999999999
+Mailand|Italien,Posen|Polen,1272.837
+Mailand|Italien,Rjasan|Russland,3014.2601
+Mailand|Italien,Nabereschnyje Tschelny|Russland,3903.5195
+Mailand|Italien,Nürnberg|Deutschland,614.6219
+Mailand|Italien,Skopje|Nordmazedonien,1454.1508999999999
+Astrachan|Russland,Mailand|Italien,3856.1551
+Hannover|Deutschland,Mailand|Italien,992.0218000000001
+Kirow|Russland,Mailand|Italien,3850.2064
+Lyon|Frankreich,Mailand|Italien,440.4613
+Mailand|Italien,Pensa|Russland,3458.1599
+Mailand|Italien,Toulouse|Frankreich,885.9417
+Lipezk|Russland,Mailand|Italien,3091.7563999999998
+Homel|Belarus,Mailand|Italien,2430.8561
+Kasan|Russland,Sofia|Bulgarien,3777.7409
+Nischni Nowgorod|Russland,Sofia|Bulgarien,3379.071
+Belgrad|Serbien,Sofia|Bulgarien,396.2406
+Samara|Russland,Sofia|Bulgarien,3016.6232
+Rostow am Don|Russland,Sofia|Bulgarien,1798.5251
+Sofia|Bulgarien,Ufa|Russland,3409.6651
+Sofia|Bulgarien,Woronesch|Russland,2074.7961
+Perm|Russland,Sofia|Bulgarien,4407.2955
+Köln|Deutschland,Sofia|Bulgarien,1861.9144
+Odessa|Ukraine,Sofia|Bulgarien,905.5355999999999
+Sofia|Bulgarien,Wolgograd|Russland,2216.3358
+Dnipro|Ukraine,Sofia|Bulgarien,1355.1811
+Krasnodar|Russland,Sofia|Bulgarien,2146.926
+Amsterdam|Niederlande,Sofia|Bulgarien,2114.0573999999997
+Neapel|Italien,Sofia|Bulgarien,1876.2725
+Donezk|Ukraine,Sofia|Bulgarien,1622.2531999999999
+Marseille|Frankreich,Sofia|Bulgarien,1919.3878
+Sofia|Bulgarien,Turin|Italien,1549.7856000000002
+Saratow|Russland,Sofia|Bulgarien,2598.2039
+Sofia|Bulgarien,Valencia|Spanien,2724.0565
+Sofia|Bulgarien,Zagreb|Kroatien,789.7913000000001
+Frankfurt am Main|Deutschland,Sofia|Bulgarien,1681.9368
+Lwiw (Lemberg)|Ukraine,Sofia|Bulgarien,1332.4683
+Sevilla|Spanien,Sofia|Bulgarien,3369.0961
+Saragossa|Spanien,Sofia|Bulgarien,2660.4547000000002
+Breslau|Polen,Sofia|Bulgarien,1485.4102
+Ischewsk|Russland,Sofia|Bulgarien,4124.3757000000005
+Lodz|Polen,Sofia|Bulgarien,1526.989
+Athen|Griechenland,Sofia|Bulgarien,789.3708
+Palermo|Italien,Sofia|Bulgarien,2571.813
+Sofia|Bulgarien,Uljanowsk|Russland,2964.9883
+Sofia|Bulgarien,Stuttgart|Deutschland,1566.2841
+Leipzig|Deutschland,Sofia|Bulgarien,1542.1124
+Sofia|Bulgarien,Vilnius|Litauen,2146.5446
+Machatschkala|Russland,Sofia|Bulgarien,2718.8156
+Krywyj Rih|Ukraine,Sofia|Bulgarien,1209.9004
+Jaroslawl|Russland,Sofia|Bulgarien,3171.7035
+Sofia|Bulgarien,Tirana|Albanien,512.724
+Riga|Lettland,Sofia|Bulgarien,2303.0226000000002
+Malaga|Spanien,Sofia|Bulgarien,3340.1657999999998
+Bremen|Deutschland,Sofia|Bulgarien,1900.008
+Orenburg|Russland,Sofia|Bulgarien,3299.268
+Lissabon|Portugal,Sofia|Bulgarien,3539.8958
+Chisinau|Moldau,Sofia|Bulgarien,844.4336999999999
+Dresden|Deutschland,Sofia|Bulgarien,1435.1818
+Genua|Italien,Sofia|Bulgarien,1565.8292
+Antwerpen|Belgien,Sofia|Bulgarien,2078.0708999999997
+Posen|Polen,Sofia|Bulgarien,1673.2038
+Rjasan|Russland,Sofia|Bulgarien,3087.1309
+Nabereschnyje Tschelny|Russland,Sofia|Bulgarien,3976.3902000000003
+Nürnberg|Deutschland,Sofia|Bulgarien,1463.9612
+Skopje|Nordmazedonien,Sofia|Bulgarien,229.22420000000002
+Astrachan|Russland,Sofia|Bulgarien,2564.7967000000003
+Hannover|Deutschland,Sofia|Bulgarien,1794.9433000000001
+Kirow|Russland,Sofia|Bulgarien,3923.0771
+Lyon|Frankreich,Sofia|Bulgarien,1849.9888999999998
+Pensa|Russland,Sofia|Bulgarien,2583.5018999999998
+Sofia|Bulgarien,Toulouse|Frankreich,2290.3919
+Lipezk|Russland,Sofia|Bulgarien,2196.3408999999997
+Homel|Belarus,Sofia|Bulgarien,2503.7269
+Kasan|Russland,Nischni Nowgorod|Russland,400.75690000000003
+Belgrad|Serbien,Kasan|Russland,3385.6652999999997
+Kasan|Russland,Samara|Russland,362.2147
+Kasan|Russland,Rostow am Don|Russland,1437.3603999999998
+Kasan|Russland,Ufa|Russland,528.8906
+Kasan|Russland,Woronesch|Russland,1032.5961
+Kasan|Russland,Perm|Russland,664.4395
+Kasan|Russland,Köln|Deutschland,3244.31
+Kasan|Russland,Odessa|Ukraine,2131.8217
+Kasan|Russland,Wolgograd|Russland,1051.4445
+Dnipro|Ukraine,Kasan|Russland,1694.5076000000001
+Kasan|Russland,Krasnodar|Russland,1731.4624
+Amsterdam|Niederlande,Kasan|Russland,3326.5078
+Kasan|Russland,Neapel|Italien,4140.0054
+Donezk|Ukraine,Kasan|Russland,1514.0609
+Kasan|Russland,Marseille|Frankreich,4219.1236
+Kasan|Russland,Turin|Italien,3770.7237999999998
+Kasan|Russland,Saratow|Russland,681.0914
+Kasan|Russland,Valencia|Spanien,4885.2311
+Kasan|Russland,Zagreb|Kroatien,3191.9152999999997
+Frankfurt am Main|Deutschland,Kasan|Russland,3222.2457000000004
+Kasan|Russland,Lwiw (Lemberg)|Ukraine,2237.0415
+Kasan|Russland,Sevilla|Spanien,5455.5837
+Kasan|Russland,Saragossa|Spanien,4821.6293
+Breslau|Polen,Kasan|Russland,2486.8474
+Ischewsk|Russland,Kasan|Russland,381.5197
+Kasan|Russland,Lodz|Polen,2268.9379
+Athen|Griechenland,Kasan|Russland,4476.3804
+Kasan|Russland,Palermo|Italien,4835.5459
+Kasan|Russland,Uljanowsk|Russland,225.8647
+Kasan|Russland,Stuttgart|Deutschland,3259.4587
+Kasan|Russland,Leipzig|Deutschland,2857.0867000000003
+Kasan|Russland,Vilnius|Litauen,1784.6336999999999
+Kasan|Russland,Machatschkala|Russland,1957.8282
+Kasan|Russland,Krywyj Rih|Ukraine,1841.6856
+Jaroslawl|Russland,Kasan|Russland,789.871
+Kasan|Russland,Tirana|Albanien,4052.2978
+Kasan|Russland,Riga|Lettland,1763.9904
+Kasan|Russland,Malaga|Spanien,5501.3403
+Bremen|Deutschland,Kasan|Russland,3059.3759
+Kasan|Russland,Orenburg|Russland,717.0673
+Kasan|Russland,Lissabon|Portugal,5459.276900000001
+Chisinau|Moldau,Kasan|Russland,2307.5139
+Dresden|Deutschland,Kasan|Russland,2753.1595
+Genua|Italien,Kasan|Russland,3829.562
+Antwerpen|Belgien,Kasan|Russland,3400.4652
+Kasan|Russland,Posen|Polen,2441.9361
+Kasan|Russland,Rjasan|Russland,775.467
+Kasan|Russland,Nabereschnyje Tschelny|Russland,233.5343
+Kasan|Russland,Nürnberg|Deutschland,3055.1452000000004
+Kasan|Russland,Skopje|Nordmazedonien,3814.6002999999996
+Astrachan|Russland,Kasan|Russland,1464.9028999999998
+Hannover|Deutschland,Kasan|Russland,2954.3112
+Kasan|Russland,Kirow|Russland,394.5866
+Kasan|Russland,Lyon|Frankreich,3903.3695
+Kasan|Russland,Pensa|Russland,520.4954
+Kasan|Russland,Toulouse|Frankreich,4384.5267
+Kasan|Russland,Lipezk|Russland,940.4324
+Homel|Belarus,Kasan|Russland,1489.8219
+Belgrad|Serbien,Nischni Nowgorod|Russland,2988.1829
+Nischni Nowgorod|Russland,Samara|Russland,716.3735
+Nischni Nowgorod|Russland,Rostow am Don|Russland,1244.8666
+Nischni Nowgorod|Russland,Ufa|Russland,936.4888000000001
+Nischni Nowgorod|Russland,Woronesch|Russland,738.4486999999999
+Nischni Nowgorod|Russland,Perm|Russland,987.3886
+Köln|Deutschland,Nischni Nowgorod|Russland,2846.8276
+Nischni Nowgorod|Russland,Odessa|Ukraine,1831.4335
+Nischni Nowgorod|Russland,Wolgograd|Russland,1044.7285
+Dnipro|Ukraine,Nischni Nowgorod|Russland,1394.1193999999998
+Krasnodar|Russland,Nischni Nowgorod|Russland,1538.9686000000002
+Amsterdam|Niederlande,Nischni Nowgorod|Russland,2929.0254
+Neapel|Italien,Nischni Nowgorod|Russland,3742.523
+Donezk|Ukraine,Nischni Nowgorod|Russland,1321.5671
+Marseille|Frankreich,Nischni Nowgorod|Russland,3821.6413
+Nischni Nowgorod|Russland,Turin|Italien,3373.2415
+Nischni Nowgorod|Russland,Saratow|Russland,634.094
+Nischni Nowgorod|Russland,Valencia|Spanien,4487.7487
+Nischni Nowgorod|Russland,Zagreb|Kroatien,2794.433
+Frankfurt am Main|Deutschland,Nischni Nowgorod|Russland,2824.7632999999996
+Lwiw (Lemberg)|Ukraine,Nischni Nowgorod|Russland,1839.5591000000002
+Nischni Nowgorod|Russland,Sevilla|Spanien,5058.1014000000005
+Nischni Nowgorod|Russland,Saragossa|Spanien,4424.147
+Breslau|Polen,Nischni Nowgorod|Russland,2089.3651
+Ischewsk|Russland,Nischni Nowgorod|Russland,792.3632
+Lodz|Polen,Nischni Nowgorod|Russland,1871.4556
+Athen|Griechenland,Nischni Nowgorod|Russland,4078.8981
+Nischni Nowgorod|Russland,Palermo|Italien,4438.0635
+Nischni Nowgorod|Russland,Uljanowsk|Russland,436.1991
+Nischni Nowgorod|Russland,Stuttgart|Deutschland,2861.9764
+Leipzig|Deutschland,Nischni Nowgorod|Russland,2459.6043999999997
+Nischni Nowgorod|Russland,Vilnius|Litauen,1387.1513
+Machatschkala|Russland,Nischni Nowgorod|Russland,1876.9398999999999
+Krywyj Rih|Ukraine,Nischni Nowgorod|Russland,1541.2974
+Jaroslawl|Russland,Nischni Nowgorod|Russland,370.9082
+Nischni Nowgorod|Russland,Tirana|Albanien,3654.8155
+Nischni Nowgorod|Russland,Riga|Lettland,1366.508
+Malaga|Spanien,Nischni Nowgorod|Russland,5103.858
+Bremen|Deutschland,Nischni Nowgorod|Russland,2661.8935
+Nischni Nowgorod|Russland,Orenburg|Russland,1105.0257
+Lissabon|Portugal,Nischni Nowgorod|Russland,5061.794599999999
+Chisinau|Moldau,Nischni Nowgorod|Russland,2007.1257
+Dresden|Deutschland,Nischni Nowgorod|Russland,2355.6771
+Genua|Italien,Nischni Nowgorod|Russland,3432.0797000000002
+Antwerpen|Belgien,Nischni Nowgorod|Russland,3002.9827999999998
+Nischni Nowgorod|Russland,Posen|Polen,2044.4537
+Nischni Nowgorod|Russland,Rjasan|Russland,432.1776
+Nabereschnyje Tschelny|Russland,Nischni Nowgorod|Russland,644.3777
+Nischni Nowgorod|Russland,Nürnberg|Deutschland,2657.6627999999996
+Nischni Nowgorod|Russland,Skopje|Nordmazedonien,3417.118
+Astrachan|Russland,Nischni Nowgorod|Russland,1470.6463999999999
+Hannover|Deutschland,Nischni Nowgorod|Russland,2556.8289
+Kirow|Russland,Nischni Nowgorod|Russland,575.4723
+Lyon|Frankreich,Nischni Nowgorod|Russland,3505.8871
+Nischni Nowgorod|Russland,Pensa|Russland,425.786
+Nischni Nowgorod|Russland,Toulouse|Frankreich,3987.0443999999998
+Lipezk|Russland,Nischni Nowgorod|Russland,607.5571
+Homel|Belarus,Nischni Nowgorod|Russland,1092.3395
+Belgrad|Serbien,Samara|Russland,3566.084
+Belgrad|Serbien,Rostow am Don|Russland,2077.4642
+Belgrad|Serbien,Ufa|Russland,3879.934
+Belgrad|Serbien,Woronesch|Russland,2196.1306
+Belgrad|Serbien,Perm|Russland,4012.7028999999998
+Belgrad|Serbien,Köln|Deutschland,1467.7571
+Belgrad|Serbien,Odessa|Ukraine,1184.4747
+Belgrad|Serbien,Wolgograd|Russland,2495.2749
+Belgrad|Serbien,Dnipro|Ukraine,1634.1201999999998
+Belgrad|Serbien,Krasnodar|Russland,2425.8651
+Amsterdam|Niederlande,Belgrad|Serbien,1719.9
+Belgrad|Serbien,Neapel|Italien,1482.1152
+Belgrad|Serbien,Donezk|Ukraine,1901.1923000000002
+Belgrad|Serbien,Marseille|Frankreich,1525.2305
+Belgrad|Serbien,Turin|Italien,1155.6281999999999
+Belgrad|Serbien,Saratow|Russland,2719.5384
+Belgrad|Serbien,Valencia|Spanien,2329.8991
+Belgrad|Serbien,Zagreb|Kroatien,395.63390000000004
+Belgrad|Serbien,Frankfurt am Main|Deutschland,1287.7795
+Belgrad|Serbien,Lwiw (Lemberg)|Ukraine,937.8756999999999
+Belgrad|Serbien,Sevilla|Spanien,2974.9387
+Belgrad|Serbien,Saragossa|Spanien,2266.2974
+Belgrad|Serbien,Breslau|Polen,1090.8176
+Belgrad|Serbien,Ischewsk|Russland,3729.7831
+Belgrad|Serbien,Lodz|Polen,1132.3963999999999
+Athen|Griechenland,Belgrad|Serbien,1093.5374
+Belgrad|Serbien,Palermo|Italien,2177.6557000000003
+Belgrad|Serbien,Uljanowsk|Russland,3371.953
+Belgrad|Serbien,Stuttgart|Deutschland,1172.1268
+Belgrad|Serbien,Leipzig|Deutschland,1147.5198
+Belgrad|Serbien,Vilnius|Litauen,1751.952
+Belgrad|Serbien,Machatschkala|Russland,2997.7547000000004
+Belgrad|Serbien,Krywyj Rih|Ukraine,1488.8395
+Belgrad|Serbien,Jaroslawl|Russland,2777.1109
+Belgrad|Serbien,Tirana|Albanien,669.4548000000001
+Belgrad|Serbien,Riga|Lettland,1908.43
+Belgrad|Serbien,Malaga|Spanien,2946.0083999999997
+Belgrad|Serbien,Bremen|Deutschland,1505.4153999999999
+Belgrad|Serbien,Orenburg|Russland,3952.5263999999997
+Belgrad|Serbien,Lissabon|Portugal,3145.7383999999997
+Belgrad|Serbien,Chisinau|Moldau,1093.7641999999998
+Belgrad|Serbien,Dresden|Deutschland,1040.5892
+Belgrad|Serbien,Genua|Italien,1171.6718
+Antwerpen|Belgien,Belgrad|Serbien,1683.9135
+Belgrad|Serbien,Posen|Polen,1278.6112
+Belgrad|Serbien,Rjasan|Russland,2692.5382999999997
+Belgrad|Serbien,Nabereschnyje Tschelny|Russland,3581.7976
+Belgrad|Serbien,Nürnberg|Deutschland,1069.8038999999999
+Belgrad|Serbien,Skopje|Nordmazedonien,431.7573
+Astrachan|Russland,Belgrad|Serbien,2843.7358
+Belgrad|Serbien,Hannover|Deutschland,1400.3507
+Belgrad|Serbien,Kirow|Russland,3528.4845
+Belgrad|Serbien,Lyon|Frankreich,1455.8315
+Belgrad|Serbien,Pensa|Russland,3136.4381000000003
+Belgrad|Serbien,Toulouse|Frankreich,1896.2345
+Belgrad|Serbien,Lipezk|Russland,2770.0346
+Belgrad|Serbien,Homel|Belarus,2109.1342999999997
+Rostow am Don|Russland,Samara|Russland,1279.0822
+Samara|Russland,Ufa|Russland,467.0501
+Samara|Russland,Woronesch|Russland,929.318
+Perm|Russland,Samara|Russland,852.3428
+Köln|Deutschland,Samara|Russland,3418.2212000000004
+Odessa|Ukraine,Samara|Russland,2029.4058
+Samara|Russland,Wolgograd|Russland,777.2252
+Dnipro|Ukraine,Samara|Russland,1539.4915
+Krasnodar|Russland,Samara|Russland,1487.5818000000002
+Amsterdam|Niederlande,Samara|Russland,3500.419
+Neapel|Italien,Samara|Russland,4313.9166
+Donezk|Ukraine,Samara|Russland,1397.9898999999998
+Marseille|Frankreich,Samara|Russland,4393.034900000001
+Samara|Russland,Turin|Italien,3944.6351
+Samara|Russland,Saratow|Russland,411.88620000000003
+Samara|Russland,Valencia|Spanien,5059.1422999999995
+Samara|Russland,Zagreb|Kroatien,3365.8266
+Frankfurt am Main|Deutschland,Samara|Russland,3396.1569
+Lwiw (Lemberg)|Ukraine,Samara|Russland,2186.55
+Samara|Russland,Sevilla|Spanien,5629.495
+Samara|Russland,Saragossa|Spanien,4995.540599999999
+Breslau|Polen,Samara|Russland,2660.7587000000003
+Ischewsk|Russland,Samara|Russland,578.7103000000001
+Lodz|Polen,Samara|Russland,2442.8492
+Athen|Griechenland,Samara|Russland,3708.961
+Palermo|Italien,Samara|Russland,5009.4571
+Samara|Russland,Uljanowsk|Russland,285.1
+Samara|Russland,Stuttgart|Deutschland,3433.37
+Leipzig|Deutschland,Samara|Russland,3030.998
+Samara|Russland,Vilnius|Litauen,1958.5448999999999
+Machatschkala|Russland,Samara|Russland,1560.775
+Krywyj Rih|Ukraine,Samara|Russland,1686.6695
+Jaroslawl|Russland,Samara|Russland,1096.7061999999999
+Samara|Russland,Tirana|Albanien,4226.2091
+Riga|Lettland,Samara|Russland,1992.6351000000002
+Malaga|Spanien,Samara|Russland,5675.2516
+Bremen|Deutschland,Samara|Russland,3233.2871
+Orenburg|Russland,Samara|Russland,412.8771
+Lissabon|Portugal,Samara|Russland,5633.1882000000005
+Chisinau|Moldau,Samara|Russland,2205.0978999999998
+Dresden|Deutschland,Samara|Russland,2927.0707
+Genua|Italien,Samara|Russland,4003.4732999999997
+Antwerpen|Belgien,Samara|Russland,3574.3764
+Posen|Polen,Samara|Russland,2615.8473
+Rjasan|Russland,Samara|Russland,864.042
+Nabereschnyje Tschelny|Russland,Samara|Russland,390.34959999999995
+Nürnberg|Deutschland,Samara|Russland,3229.0564
+Samara|Russland,Skopje|Nordmazedonien,3988.5116000000003
+Astrachan|Russland,Samara|Russland,1067.8497
+Hannover|Deutschland,Samara|Russland,3128.2224
+Kirow|Russland,Samara|Russland,794.689
+Lyon|Frankreich,Samara|Russland,4077.2807000000003
+Pensa|Russland,Samara|Russland,425.23359999999997
+Samara|Russland,Toulouse|Frankreich,4558.438
+Lipezk|Russland,Samara|Russland,847.121
+Homel|Belarus,Samara|Russland,1543.2962
+Rostow am Don|Russland,Ufa|Russland,1767.0027
+Rostow am Don|Russland,Woronesch|Russland,565.769
+Perm|Russland,Rostow am Don|Russland,2152.2954
+Köln|Deutschland,Rostow am Don|Russland,2844.4606
+Odessa|Ukraine,Rostow am Don|Russland,923.7454
+Rostow am Don|Russland,Wolgograd|Russland,473.2128
+Dnipro|Ukraine,Rostow am Don|Russland,491.3875
+Krasnodar|Russland,Rostow am Don|Russland,306.3678
+Amsterdam|Niederlande,Rostow am Don|Russland,2926.6584
+Neapel|Italien,Rostow am Don|Russland,3595.3036
+Donezk|Ukraine,Rostow am Don|Russland,255.8791
+Marseille|Frankreich,Rostow am Don|Russland,3742.5672999999997
+Rostow am Don|Russland,Turin|Italien,3268.8167000000003
+Rostow am Don|Russland,Saratow|Russland,862.5225
+Rostow am Don|Russland,Valencia|Spanien,4408.6747000000005
+Rostow am Don|Russland,Zagreb|Kroatien,2307.8873
+Frankfurt am Main|Deutschland,Rostow am Don|Russland,2822.3963
+Lwiw (Lemberg)|Ukraine,Rostow am Don|Russland,1410.5765
+Rostow am Don|Russland,Sevilla|Spanien,5055.7344
+Rostow am Don|Russland,Saragossa|Spanien,4345.073
+Breslau|Polen,Rostow am Don|Russland,2086.9981000000002
+Ischewsk|Russland,Rostow am Don|Russland,1878.6628999999998
+Lodz|Polen,Rostow am Don|Russland,1869.0886
+Athen|Griechenland,Rostow am Don|Russland,2617.6562000000004
+Palermo|Italien,Rostow am Don|Russland,4290.844099999999
+Rostow am Don|Russland,Uljanowsk|Russland,1307.8804
+Rostow am Don|Russland,Stuttgart|Deutschland,2833.0114
+Leipzig|Deutschland,Rostow am Don|Russland,2457.2374
+Rostow am Don|Russland,Vilnius|Litauen,1801.2772
+Machatschkala|Russland,Rostow am Don|Russland,921.3421999999999
+Krywyj Rih|Ukraine,Rostow am Don|Russland,615.357
+Jaroslawl|Russland,Rostow am Don|Russland,1345.2329
+Rostow am Don|Russland,Tirana|Albanien,2341.0094
+Riga|Lettland,Rostow am Don|Russland,1989.9411
+Malaga|Spanien,Rostow am Don|Russland,5024.784
+Bremen|Deutschland,Rostow am Don|Russland,2659.5265
+Orenburg|Russland,Rostow am Don|Russland,1563.5866
+Lissabon|Portugal,Rostow am Don|Russland,5059.4276
+Chisinau|Moldau,Rostow am Don|Russland,1113.7931
+Dresden|Deutschland,Rostow am Don|Russland,2341.3955
+Genua|Italien,Rostow am Don|Russland,3284.8602
+Antwerpen|Belgien,Rostow am Don|Russland,3000.6158
+Posen|Polen,Rostow am Don|Russland,2042.0867
+Rjasan|Russland,Rostow am Don|Russland,950.6628000000001
+Nabereschnyje Tschelny|Russland,Rostow am Don|Russland,1690.3023
+Nürnberg|Deutschland,Rostow am Don|Russland,2643.3812000000003
+Rostow am Don|Russland,Skopje|Nordmazedonien,2057.5096000000003
+Astrachan|Russland,Rostow am Don|Russland,765.0816
+Hannover|Deutschland,Rostow am Don|Russland,2554.4618
+Kirow|Russland,Rostow am Don|Russland,1764.8086
+Lyon|Frankreich,Rostow am Don|Russland,3426.8131000000003
+Pensa|Russland,Rostow am Don|Russland,919.1871
+Rostow am Don|Russland,Toulouse|Frankreich,3907.9703999999997
+Lipezk|Russland,Rostow am Don|Russland,693.477
+Homel|Belarus,Rostow am Don|Russland,1296.5323999999998
+Ufa|Russland,Woronesch|Russland,1334.2039
+Perm|Russland,Ufa|Russland,527.5093
+Köln|Deutschland,Ufa|Russland,3740.2524
+Odessa|Ukraine,Ufa|Russland,2433.4296
+Ufa|Russland,Wolgograd|Russland,1241.4283
+Dnipro|Ukraine,Ufa|Russland,1996.1155
+Krasnodar|Russland,Ufa|Russland,1951.7848999999999
+Amsterdam|Niederlande,Ufa|Russland,3822.4502
+Neapel|Italien,Ufa|Russland,4635.947700000001
+Donezk|Ukraine,Ufa|Russland,1862.193
+Marseille|Frankreich,Ufa|Russland,4715.066
+Turin|Italien,Ufa|Russland,4266.666200000001
+Saratow|Russland,Ufa|Russland,876.0893000000001
+Ufa|Russland,Valencia|Spanien,5381.1735
+Ufa|Russland,Zagreb|Kroatien,3687.8577
+Frankfurt am Main|Deutschland,Ufa|Russland,3718.1881000000003
+Lwiw (Lemberg)|Ukraine,Ufa|Russland,2732.9838999999997
+Sevilla|Spanien,Ufa|Russland,5951.5261
+Saragossa|Spanien,Ufa|Russland,5317.5717
+Breslau|Polen,Ufa|Russland,2982.7898
+Ischewsk|Russland,Ufa|Russland,342.7604
+Lodz|Polen,Ufa|Russland,2764.8803
+Athen|Griechenland,Ufa|Russland,4112.9848
+Palermo|Italien,Ufa|Russland,5331.4882
+Ufa|Russland,Uljanowsk|Russland,591.5315
+Stuttgart|Deutschland,Ufa|Russland,3755.4011
+Leipzig|Deutschland,Ufa|Russland,3353.0291
+Ufa|Russland,Vilnius|Litauen,2280.5761
+Machatschkala|Russland,Ufa|Russland,1915.4953
+Krywyj Rih|Ukraine,Ufa|Russland,2143.2935
+Jaroslawl|Russland,Ufa|Russland,1323.3608000000002
+Tirana|Albanien,Ufa|Russland,4548.2402
+Riga|Lettland,Ufa|Russland,2259.9327999999996
+Malaga|Spanien,Ufa|Russland,5997.2827
+Bremen|Deutschland,Ufa|Russland,3555.3183
+Orenburg|Russland,Ufa|Russland,372.25509999999997
+Lissabon|Portugal,Ufa|Russland,5955.2193
+Chisinau|Moldau,Ufa|Russland,2609.1218
+Dresden|Deutschland,Ufa|Russland,3249.1019
+Genua|Italien,Ufa|Russland,4325.504400000001
+Antwerpen|Belgien,Ufa|Russland,3896.4076
+Posen|Polen,Ufa|Russland,2937.8785
+Rjasan|Russland,Ufa|Russland,1265.9809
+Nabereschnyje Tschelny|Russland,Ufa|Russland,295.6408
+Nürnberg|Deutschland,Ufa|Russland,3551.0876000000003
+Skopje|Nordmazedonien,Ufa|Russland,4310.5427
+Astrachan|Russland,Ufa|Russland,1422.57
+Hannover|Deutschland,Ufa|Russland,3450.2536
+Kirow|Russland,Ufa|Russland,784.5821
+Lyon|Frankreich,Ufa|Russland,4399.3117999999995
+Pensa|Russland,Ufa|Russland,827.1725
+Toulouse|Frankreich,Ufa|Russland,4880.469099999999
+Lipezk|Russland,Ufa|Russland,1249.0599
+Homel|Belarus,Ufa|Russland,1945.2351
+Perm|Russland,Woronesch|Russland,1721.2519
+Köln|Deutschland,Woronesch|Russland,2695.4629
+Odessa|Ukraine,Woronesch|Russland,1100.3661000000002
+Wolgograd|Russland,Woronesch|Russland,587.0719
+Dnipro|Ukraine,Woronesch|Russland,663.0521
+Krasnodar|Russland,Woronesch|Russland,858.8683000000001
+Amsterdam|Niederlande,Woronesch|Russland,2777.6607000000004
+Neapel|Italien,Woronesch|Russland,3591.1582000000003
+Donezk|Ukraine,Woronesch|Russland,641.4668
+Marseille|Frankreich,Woronesch|Russland,3670.2765
+Turin|Italien,Woronesch|Russland,3221.8767000000003
+Saratow|Russland,Woronesch|Russland,524.2841
+Valencia|Spanien,Woronesch|Russland,4336.383900000001
+Woronesch|Russland,Zagreb|Kroatien,2643.0682
+Frankfurt am Main|Deutschland,Woronesch|Russland,2673.3985
+Lwiw (Lemberg)|Ukraine,Woronesch|Russland,1257.5104
+Sevilla|Spanien,Woronesch|Russland,4906.736599999999
+Saragossa|Spanien,Woronesch|Russland,4272.782200000001
+Breslau|Polen,Woronesch|Russland,1938.0003000000002
+Ischewsk|Russland,Woronesch|Russland,1428.3893999999998
+Lodz|Polen,Woronesch|Russland,1720.0908
+Athen|Griechenland,Woronesch|Russland,2779.9213999999997
+Palermo|Italien,Woronesch|Russland,4286.6987
+Uljanowsk|Russland,Woronesch|Russland,891.2824
+Stuttgart|Deutschland,Woronesch|Russland,2710.6116
+Leipzig|Deutschland,Woronesch|Russland,2308.2396
+Vilnius|Litauen,Woronesch|Russland,1235.7866000000001
+Machatschkala|Russland,Woronesch|Russland,1378.6026000000002
+Jaroslawl|Russland,Woronesch|Russland,783.9870999999999
+Tirana|Albanien,Woronesch|Russland,2503.2745
+Riga|Lettland,Woronesch|Russland,1428.6953
+Bremen|Deutschland,Woronesch|Russland,2510.5287999999996
+Orenburg|Russland,Woronesch|Russland,1225.3482
+Lissabon|Portugal,Woronesch|Russland,4910.4298
+Chisinau|Moldau,Woronesch|Russland,1276.0583000000001
+Genua|Italien,Woronesch|Russland,3280.7149
+Antwerpen|Belgien,Woronesch|Russland,2851.6181
+Posen|Polen,Woronesch|Russland,1893.089
+Nabereschnyje Tschelny|Russland,Woronesch|Russland,1240.0288
+Nürnberg|Deutschland,Woronesch|Russland,2506.2981
+Skopje|Nordmazedonien,Woronesch|Russland,2219.7747999999997
+Astrachan|Russland,Woronesch|Russland,1012.9898000000001
+Hannover|Deutschland,Woronesch|Russland,2405.4641
+Kirow|Russland,Woronesch|Russland,1307.2742
+Pensa|Russland,Woronesch|Russland,509.79609999999997
+Toulouse|Frankreich,Woronesch|Russland,3835.6796
+Lipezk|Russland,Woronesch|Russland,132.2311
+Köln|Deutschland,Perm|Russland,3872.6369
+Odessa|Ukraine,Perm|Russland,2835.2625
+Perm|Russland,Wolgograd|Russland,1643.2612
+Dnipro|Ukraine,Perm|Russland,2397.9483999999998
+Krasnodar|Russland,Perm|Russland,2353.6178
+Amsterdam|Niederlande,Perm|Russland,3954.8347000000003
+Neapel|Italien,Perm|Russland,4768.3323
+Donezk|Ukraine,Perm|Russland,2264.0259
+Marseille|Frankreich,Perm|Russland,4847.4505
+Perm|Russland,Turin|Italien,4399.0507
+Perm|Russland,Saratow|Russland,1277.9222
+Perm|Russland,Valencia|Spanien,5513.558
+Perm|Russland,Zagreb|Kroatien,3820.2422
+Frankfurt am Main|Deutschland,Perm|Russland,3850.5726
+Breslau|Polen,Perm|Russland,3115.1742999999997
+Ischewsk|Russland,Perm|Russland,278.9688
+Lodz|Polen,Perm|Russland,2897.2648
+Athen|Griechenland,Perm|Russland,5104.7073
+Palermo|Italien,Perm|Russland,5463.8728
+Perm|Russland,Uljanowsk|Russland,855.2085
+Perm|Russland,Stuttgart|Deutschland,3887.7856
+Leipzig|Deutschland,Perm|Russland,3485.4136000000003
+Perm|Russland,Vilnius|Litauen,2412.9606
+Machatschkala|Russland,Perm|Russland,2301.5247999999997
+Jaroslawl|Russland,Perm|Russland,1176.7394
+Perm|Russland,Tirana|Albanien,4680.6247
+Perm|Russland,Riga|Lettland,2392.3172999999997
+Orenburg|Russland,Perm|Russland,907.1571
+Lissabon|Portugal,Perm|Russland,6087.6038
+Chisinau|Moldau,Perm|Russland,3010.9547000000002
+Dresden|Deutschland,Perm|Russland,3381.4864
+Genua|Italien,Perm|Russland,4457.8889
+Antwerpen|Belgien,Perm|Russland,4028.7921
+Perm|Russland,Posen|Polen,3070.263
+Nabereschnyje Tschelny|Russland,Perm|Russland,479.7907
+Nürnberg|Deutschland,Perm|Russland,3683.4721
+Perm|Russland,Skopje|Nordmazedonien,4442.9272
+Kirow|Russland,Perm|Russland,494.1184
+Lyon|Frankreich,Perm|Russland,4531.696400000001
+Pensa|Russland,Perm|Russland,1229.0055
+Perm|Russland,Toulouse|Frankreich,5012.8535999999995
+Lipezk|Russland,Perm|Russland,1650.8928
+Homel|Belarus,Perm|Russland,2118.1488
+Köln|Deutschland,Odessa|Ukraine,2211.5296000000003
+Köln|Deutschland,Wolgograd|Russland,3302.8233999999998
+Dnipro|Ukraine,Köln|Deutschland,2373.6333999999997
+Krasnodar|Russland,Köln|Deutschland,3189.6103
+Amsterdam|Niederlande,Köln|Deutschland,266.58259999999996
+Köln|Deutschland,Neapel|Italien,1605.258
+Donezk|Ukraine,Köln|Deutschland,2623.1402000000003
+Köln|Deutschland,Marseille|Frankreich,1041.6755
+Köln|Deutschland,Turin|Italien,946.5663000000001
+Köln|Deutschland,Saratow|Russland,3239.8687999999997
+Köln|Deutschland,Valencia|Spanien,1707.7829
+Köln|Deutschland,Zagreb|Kroatien,1077.5503999999999
+Frankfurt am Main|Deutschland,Köln|Deutschland,190.4889
+Köln|Deutschland,Lwiw (Lemberg)|Ukraine,1409.1138
+Köln|Deutschland,Sevilla|Spanien,2224.6922000000004
+Köln|Deutschland,Saragossa|Spanien,1546.326
+Breslau|Polen,Köln|Deutschland,831.1049
+Ischewsk|Russland,Köln|Deutschland,3590.167
+Köln|Deutschland,Lodz|Polen,1011.5968
+Athen|Griechenland,Köln|Deutschland,2560.6492000000003
+Köln|Deutschland,Palermo|Italien,2300.7985
+Köln|Deutschland,Uljanowsk|Russland,3232.3369
+Köln|Deutschland,Stuttgart|Deutschland,366.9574
+Köln|Deutschland,Leipzig|Deutschland,500.693
+Köln|Deutschland,Vilnius|Litauen,1612.3358999999998
+Köln|Deutschland,Machatschkala|Russland,3761.4999
+Krywyj Rih|Ukraine,Köln|Deutschland,2240.3885
+Jaroslawl|Russland,Köln|Deutschland,2637.4948
+Köln|Deutschland,Tirana|Albanien,2136.5667000000003
+Köln|Deutschland,Riga|Lettland,1768.8138999999999
+Köln|Deutschland,Malaga|Spanien,2292.9698
+Bremen|Deutschland,Köln|Deutschland,314.5103
+Köln|Deutschland,Orenburg|Russland,3812.9103
+Köln|Deutschland,Lissabon|Portugal,2228.3854
+Chisinau|Moldau,Köln|Deutschland,2005.4922
+Dresden|Deutschland,Köln|Deutschland,572.4476999999999
+Genua|Italien,Köln|Deutschland,986.1145
+Antwerpen|Belgien,Köln|Deutschland,214.30939999999998
+Köln|Deutschland,Posen|Polen,811.4991
+Köln|Deutschland,Rjasan|Russland,2552.9222
+Köln|Deutschland,Nabereschnyje Tschelny|Russland,3442.1815
+Köln|Deutschland,Nürnberg|Deutschland,409.1087
+Köln|Deutschland,Skopje|Nordmazedonien,1898.8691999999999
+Astrachan|Russland,Köln|Deutschland,3520.9779
+Hannover|Deutschland,Köln|Deutschland,297.19109999999995
+Kirow|Russland,Köln|Deutschland,3388.8684
+Köln|Deutschland,Lyon|Frankreich,732.3925
+Köln|Deutschland,Pensa|Russland,2996.822
+Köln|Deutschland,Toulouse|Frankreich,1166.4133
+Köln|Deutschland,Lipezk|Russland,2630.4185
+Homel|Belarus,Köln|Deutschland,1969.5182
+Odessa|Ukraine,Wolgograd|Russland,1315.4843999999998
+Dnipro|Ukraine,Odessa|Ukraine,454.3297
+Krasnodar|Russland,Odessa|Ukraine,1246.0747
+Amsterdam|Niederlande,Odessa|Ukraine,2425.2126000000003
+Neapel|Italien,Odessa|Ukraine,2785.8693
+Donezk|Ukraine,Odessa|Ukraine,721.4019000000001
+Marseille|Frankreich,Odessa|Ukraine,2828.9846000000002
+Odessa|Ukraine,Turin|Italien,2459.3824
+Odessa|Ukraine,Saratow|Russland,1710.0661
+Odessa|Ukraine,Valencia|Spanien,3716.5729
+Odessa|Ukraine,Zagreb|Kroatien,1576.8734
+Frankfurt am Main|Deutschland,Odessa|Ukraine,2103.9858
+Lwiw (Lemberg)|Ukraine,Odessa|Ukraine,794.3823000000001
+Odessa|Ukraine,Sevilla|Spanien,4361.6124
+Odessa|Ukraine,Saragossa|Spanien,3652.9711
+Breslau|Polen,Odessa|Ukraine,1398.0631
+Ischewsk|Russland,Odessa|Ukraine,2613.9575
+Lodz|Polen,Odessa|Ukraine,1367.6426999999999
+Athen|Griechenland,Odessa|Ukraine,1698.3497
+Odessa|Ukraine,Palermo|Italien,3481.4098
+Odessa|Ukraine,Uljanowsk|Russland,2076.8505
+Odessa|Ukraine,Stuttgart|Deutschland,2140.9095
+Leipzig|Deutschland,Odessa|Ukraine,1752.3779
+Odessa|Ukraine,Vilnius|Litauen,1518.3203
+Machatschkala|Russland,Odessa|Ukraine,1817.9643
+Krywyj Rih|Ukraine,Odessa|Ukraine,309.049
+Jaroslawl|Russland,Odessa|Ukraine,1822.4633999999999
+Odessa|Ukraine,Tirana|Albanien,1421.7029
+Odessa|Ukraine,Riga|Lettland,1882.4757
+Malaga|Spanien,Odessa|Ukraine,4332.6821
+Bremen|Deutschland,Odessa|Ukraine,2158.0807
+Odessa|Ukraine,Orenburg|Russland,2411.1302
+Lissabon|Portugal,Odessa|Ukraine,4364.7337
+Chisinau|Moldau,Odessa|Ukraine,194.4866
+Dresden|Deutschland,Odessa|Ukraine,1649.2937
+Genua|Italien,Odessa|Ukraine,2475.4258999999997
+Antwerpen|Belgien,Odessa|Ukraine,2499.17
+Odessa|Ukraine,Posen|Polen,1540.6408999999999
+Odessa|Ukraine,Rjasan|Russland,1565.3889
+Nabereschnyje Tschelny|Russland,Odessa|Ukraine,2425.5969
+Nürnberg|Deutschland,Odessa|Ukraine,1951.2794
+Odessa|Ukraine,Skopje|Nordmazedonien,1138.2031000000002
+Astrachan|Russland,Odessa|Ukraine,1663.9453
+Hannover|Deutschland,Odessa|Ukraine,2053.016
+Kirow|Russland,Odessa|Ukraine,2514.423
+Lyon|Frankreich,Odessa|Ukraine,2734.7112
+Odessa|Ukraine,Pensa|Russland,1695.3642
+Odessa|Ukraine,Toulouse|Frankreich,3215.8685
+Lipezk|Russland,Odessa|Ukraine,1308.2032
+Homel|Belarus,Odessa|Ukraine,1379.6792
+Dnipro|Ukraine,Wolgograd|Russland,858.2129
+Krasnodar|Russland,Wolgograd|Russland,710.0883
+Amsterdam|Niederlande,Wolgograd|Russland,3352.5472999999997
+Neapel|Italien,Wolgograd|Russland,3892.5561000000002
+Donezk|Ukraine,Wolgograd|Russland,611.9665
+Marseille|Frankreich,Wolgograd|Russland,4245.1632
+Turin|Italien,Wolgograd|Russland,3566.0692000000004
+Saratow|Russland,Wolgograd|Russland,376.3944
+Valencia|Spanien,Wolgograd|Russland,4911.2706
+Wolgograd|Russland,Zagreb|Kroatien,2697.9211
+Frankfurt am Main|Deutschland,Wolgograd|Russland,3248.2852000000003
+Lwiw (Lemberg)|Ukraine,Wolgograd|Russland,1798.3775
+Sevilla|Spanien,Wolgograd|Russland,5481.6233
+Saragossa|Spanien,Wolgograd|Russland,4847.668900000001
+Breslau|Polen,Wolgograd|Russland,2512.8869
+Ischewsk|Russland,Wolgograd|Russland,1383.1056
+Lodz|Polen,Wolgograd|Russland,2294.9773999999998
+Athen|Griechenland,Wolgograd|Russland,3007.6901000000003
+Palermo|Italien,Wolgograd|Russland,4588.0966
+Uljanowsk|Russland,Wolgograd|Russland,833.1615
+Stuttgart|Deutschland,Wolgograd|Russland,3285.4982999999997
+Leipzig|Deutschland,Wolgograd|Russland,2883.1263
+Vilnius|Litauen,Wolgograd|Russland,1810.6732
+Machatschkala|Russland,Wolgograd|Russland,833.4683
+Krywyj Rih|Ukraine,Wolgograd|Russland,1005.3909
+Jaroslawl|Russland,Wolgograd|Russland,1227.8287
+Tirana|Albanien,Wolgograd|Russland,2731.0432
+Riga|Lettland,Wolgograd|Russland,1879.2204
+Malaga|Spanien,Wolgograd|Russland,5527.379900000001
+Bremen|Deutschland,Wolgograd|Russland,3085.4154
+Orenburg|Russland,Wolgograd|Russland,1006.9458000000001
+Lissabon|Portugal,Wolgograd|Russland,5485.3165
+Chisinau|Moldau,Wolgograd|Russland,1503.827
+Dresden|Deutschland,Wolgograd|Russland,2779.199
+Genua|Italien,Wolgograd|Russland,3582.1128
+Antwerpen|Belgien,Wolgograd|Russland,3426.5047000000004
+Posen|Polen,Wolgograd|Russland,2467.9756
+Rjasan|Russland,Wolgograd|Russland,790.6672
+Nabereschnyje Tschelny|Russland,Wolgograd|Russland,1194.745
+Nürnberg|Deutschland,Wolgograd|Russland,3081.1847000000002
+Skopje|Nordmazedonien,Wolgograd|Russland,2447.5435
+Astrachan|Russland,Wolgograd|Russland,427.1748
+Hannover|Deutschland,Wolgograd|Russland,2980.3507
+Kirow|Russland,Wolgograd|Russland,1458.6947
+Lyon|Frankreich,Wolgograd|Russland,3929.409
+Pensa|Russland,Wolgograd|Russland,588.1858000000001
+Toulouse|Frankreich,Wolgograd|Russland,4410.5662999999995
+Lipezk|Russland,Wolgograd|Russland,646.5122
+Homel|Belarus,Wolgograd|Russland,1305.9285
+Dnipro|Ukraine,Krasnodar|Russland,839.7158000000001
+Amsterdam|Niederlande,Dnipro|Ukraine,2459.4287000000004
+Dnipro|Ukraine,Neapel|Italien,3128.0739
+Dnipro|Ukraine,Donezk|Ukraine,263.9108
+Dnipro|Ukraine,Marseille|Frankreich,3275.3376000000003
+Dnipro|Ukraine,Turin|Italien,2801.5869
+Dnipro|Ukraine,Saratow|Russland,1122.7528
+Dnipro|Ukraine,Valencia|Spanien,3941.445
+Dnipro|Ukraine,Zagreb|Kroatien,1837.7339
+Dnipro|Ukraine,Frankfurt am Main|Deutschland,2355.1666
+Dnipro|Ukraine,Lwiw (Lemberg)|Ukraine,1033.8952
+Dnipro|Ukraine,Sevilla|Spanien,4588.5047
+Dnipro|Ukraine,Saragossa|Spanien,3877.8433
+Breslau|Polen,Dnipro|Ukraine,1619.7683
+Dnipro|Ukraine,Ischewsk|Russland,2091.8131000000003
+Dnipro|Ukraine,Lodz|Polen,1401.8588
+Athen|Griechenland,Dnipro|Ukraine,2147.5027999999998
+Dnipro|Ukraine,Palermo|Italien,3823.6144
+Dnipro|Ukraine,Uljanowsk|Russland,1554.706
+Dnipro|Ukraine,Stuttgart|Deutschland,2365.7817
+Dnipro|Ukraine,Leipzig|Deutschland,1990.0076999999999
+Dnipro|Ukraine,Vilnius|Litauen,1362.2795
+Dnipro|Ukraine,Machatschkala|Russland,1411.6054
+Dnipro|Ukraine,Krywyj Rih|Ukraine,145.2037
+Dnipro|Ukraine,Jaroslawl|Russland,1300.319
+Dnipro|Ukraine,Tirana|Albanien,1870.856
+Dnipro|Ukraine,Riga|Lettland,1657.1788999999999
+Dnipro|Ukraine,Malaga|Spanien,4557.5543
+Bremen|Deutschland,Dnipro|Ukraine,2192.2967999999996
+Dnipro|Ukraine,Orenburg|Russland,1823.8168999999998
+Chisinau|Moldau,Dnipro|Ukraine,643.6398
+Dnipro|Ukraine,Dresden|Deutschland,1874.1658
+Dnipro|Ukraine,Genua|Italien,2817.6305
+Dnipro|Ukraine,Posen|Polen,1574.857
+Dnipro|Ukraine,Rjasan|Russland,1043.2445
+Dnipro|Ukraine,Nabereschnyje Tschelny|Russland,1903.4524
+Dnipro|Ukraine,Nürnberg|Deutschland,2176.1515
+Astrachan|Russland,Dnipro|Ukraine,1226.3037
+Dnipro|Ukraine,Kirow|Russland,1992.2786
+Dnipro|Ukraine,Pensa|Russland,1173.2196999999999
+Dnipro|Ukraine,Lipezk|Russland,786.0586999999999
+Dnipro|Ukraine,Homel|Belarus,857.5348
+Amsterdam|Niederlande,Krasnodar|Russland,3274.4906
+Krasnodar|Russland,Neapel|Italien,3943.1357000000003
+Donezk|Ukraine,Krasnodar|Russland,552.5034
+Krasnodar|Russland,Marseille|Frankreich,4090.3994
+Krasnodar|Russland,Turin|Italien,3616.6488
+Krasnodar|Russland,Saratow|Russland,1087.3076
+Krasnodar|Russland,Valencia|Spanien,4756.5069
+Krasnodar|Russland,Zagreb|Kroatien,2655.7194
+Frankfurt am Main|Deutschland,Krasnodar|Russland,3170.2285
+Krasnodar|Russland,Lwiw (Lemberg)|Ukraine,1758.4087
+Krasnodar|Russland,Sevilla|Spanien,5403.5665
+Krasnodar|Russland,Saragossa|Spanien,4692.9051
+Ischewsk|Russland,Krasnodar|Russland,2094.0188
+Krasnodar|Russland,Palermo|Italien,4638.6762
+Krasnodar|Russland,Uljanowsk|Russland,1544.0747
+Krasnodar|Russland,Leipzig|Deutschland,2805.0695
+Krasnodar|Russland,Vilnius|Litauen,2095.2235
+Krasnodar|Russland,Krywyj Rih|Ukraine,963.1891999999999
+Jaroslawl|Russland,Krasnodar|Russland,1639.1793
+Krasnodar|Russland,Tirana|Albanien,2688.8415
+Krasnodar|Russland,Riga|Lettland,2283.8875
+Krasnodar|Russland,Malaga|Spanien,5372.616099999999
+Krasnodar|Russland,Orenburg|Russland,1719.6693
+Krasnodar|Russland,Lissabon|Portugal,5407.2597000000005
+Chisinau|Moldau,Krasnodar|Russland,1461.6253000000002
+Genua|Italien,Krasnodar|Russland,3632.6924
+Antwerpen|Belgien,Krasnodar|Russland,3348.448
+Krasnodar|Russland,Rjasan|Russland,1244.6091999999999
+Krasnodar|Russland,Nabereschnyje Tschelny|Russland,1905.6581999999999
+Krasnodar|Russland,Nürnberg|Deutschland,2991.2134
+Krasnodar|Russland,Skopje|Nordmazedonien,2405.3417000000004
+Astrachan|Russland,Krasnodar|Russland,821.889
+Hannover|Deutschland,Krasnodar|Russland,2902.294
+Kirow|Russland,Krasnodar|Russland,2058.755
+Krasnodar|Russland,Lyon|Frankreich,3774.6452999999997
+Krasnodar|Russland,Toulouse|Frankreich,4255.8025
+Homel|Belarus,Krasnodar|Russland,1590.4788
+Amsterdam|Niederlande,Neapel|Italien,1855.6442
+Amsterdam|Niederlande,Donezk|Ukraine,2706.8709
+Amsterdam|Niederlande,Marseille|Frankreich,1233.2899
+Amsterdam|Niederlande,Turin|Italien,1196.9525
+Amsterdam|Niederlande,Saratow|Russland,3323.5995
+Amsterdam|Niederlande,Valencia|Spanien,1877.2135
+Amsterdam|Niederlande,Zagreb|Kroatien,1327.9366
+Amsterdam|Niederlande,Frankfurt am Main|Deutschland,440.8752
+Amsterdam|Niederlande,Lwiw (Lemberg)|Ukraine,1543.9791
+Amsterdam|Niederlande,Sevilla|Spanien,2236.9619
+Amsterdam|Niederlande,Saragossa|Spanien,1558.5956999999999
+Amsterdam|Niederlande,Breslau|Polen,965.9702
+Amsterdam|Niederlande,Ischewsk|Russland,3673.8977
+Amsterdam|Niederlande,Lodz|Polen,1095.3275
+Amsterdam|Niederlande,Palermo|Italien,2551.1847000000002
+Amsterdam|Niederlande,Uljanowsk|Russland,3316.0676000000003
+Amsterdam|Niederlande,Stuttgart|Deutschland,617.3435999999999
+Amsterdam|Niederlande,Vilnius|Litauen,1696.0666
+Amsterdam|Niederlande,Machatschkala|Russland,3845.2306
+Amsterdam|Niederlande,Krywyj Rih|Ukraine,2375.2538
+Amsterdam|Niederlande,Jaroslawl|Russland,2721.2255
+Amsterdam|Niederlande,Tirana|Albanien,2386.9528999999998
+Amsterdam|Niederlande,Riga|Lettland,1852.5446000000002
+Amsterdam|Niederlande,Malaga|Spanien,2305.2394
+Amsterdam|Niederlande,Bremen|Deutschland,354.1096
+Amsterdam|Niederlande,Orenburg|Russland,3896.641
+Amsterdam|Niederlande,Lissabon|Portugal,2240.6551
+Amsterdam|Niederlande,Chisinau|Moldau,2140.3575
+Amsterdam|Niederlande,Dresden|Deutschland,738.4171
+Amsterdam|Niederlande,Genua|Italien,1236.5008
+Amsterdam|Niederlande,Antwerpen|Belgien,161.576
+Amsterdam|Niederlande,Posen|Polen,895.2298000000001
+Amsterdam|Niederlande,Rjasan|Russland,2636.6529
+Amsterdam|Niederlande,Nabereschnyje Tschelny|Russland,3525.9122
+Amsterdam|Niederlande,Nürnberg|Deutschland,659.495
+Amsterdam|Niederlande,Skopje|Nordmazedonien,2149.2554
+Amsterdam|Niederlande,Astrachan|Russland,3604.7086
+Amsterdam|Niederlande,Hannover|Deutschland,380.92179999999996
+Amsterdam|Niederlande,Kirow|Russland,3472.5991
+Amsterdam|Niederlande,Lyon|Frankreich,924.0069
+Amsterdam|Niederlande,Pensa|Russland,3080.5527
+Amsterdam|Niederlande,Toulouse|Frankreich,1178.683
+Amsterdam|Niederlande,Lipezk|Russland,2714.1492000000003
+Amsterdam|Niederlande,Homel|Belarus,2053.2489
+Donezk|Ukraine,Neapel|Italien,3415.8917
+Marseille|Frankreich,Neapel|Italien,1094.5568999999998
+Neapel|Italien,Turin|Italien,893.1681
+Neapel|Italien,Saratow|Russland,4177.3286
+Neapel|Italien,Valencia|Spanien,1899.2256
+Neapel|Italien,Zagreb|Kroatien,1090.11
+Frankfurt am Main|Deutschland,Neapel|Italien,1436.8532
+Lwiw (Lemberg)|Ukraine,Neapel|Italien,2141.76
+Neapel|Italien,Sevilla|Spanien,2544.2652000000003
+Neapel|Italien,Saragossa|Spanien,1835.6238
+Breslau|Polen,Neapel|Italien,1838.5634
+Ischewsk|Russland,Neapel|Italien,4527.6268
+Lodz|Polen,Neapel|Italien,1930.2401
+Athen|Griechenland,Neapel|Italien,1119.8512
+Neapel|Italien,Palermo|Italien,716.8240999999999
+Neapel|Italien,Uljanowsk|Russland,4169.7967
+Neapel|Italien,Stuttgart|Deutschland,1278.6918999999998
+Leipzig|Deutschland,Neapel|Italien,1556.6775
+Neapel|Italien,Vilnius|Litauen,2549.7957
+Machatschkala|Russland,Neapel|Italien,4554.2514
+Krywyj Rih|Ukraine,Neapel|Italien,2792.226
+Jaroslawl|Russland,Neapel|Italien,3574.9546
+Neapel|Italien,Tirana|Albanien,835.0865
+Neapel|Italien,Riga|Lettland,2706.2737
+Malaga|Spanien,Neapel|Italien,2515.3349
+Bremen|Deutschland,Neapel|Italien,1882.0791000000002
+Neapel|Italien,Orenburg|Russland,4750.370099999999
+Lissabon|Portugal,Neapel|Italien,2715.0649
+Chisinau|Moldau,Neapel|Italien,2492.3803
+Dresden|Deutschland,Neapel|Italien,1579.9062
+Genua|Italien,Neapel|Italien,703.7675
+Antwerpen|Belgien,Neapel|Italien,1716.1794
+Neapel|Italien,Posen|Polen,1940.8533
+Neapel|Italien,Rjasan|Russland,3490.382
+Nabereschnyje Tschelny|Russland,Neapel|Italien,4379.6413
+Neapel|Italien,Nürnberg|Deutschland,1288.5427
+Neapel|Italien,Skopje|Nordmazedonien,1911.7251999999999
+Astrachan|Russland,Neapel|Italien,4313.7294
+Hannover|Deutschland,Neapel|Italien,1716.5977
+Kirow|Russland,Neapel|Italien,4326.3282
+Lyon|Frankreich,Neapel|Italien,1190.2726
+Neapel|Italien,Pensa|Russland,3934.2817999999997
+Neapel|Italien,Toulouse|Frankreich,1465.561
+Lipezk|Russland,Neapel|Italien,3567.8782
+Homel|Belarus,Neapel|Italien,2906.978
+Donezk|Ukraine,Marseille|Frankreich,3524.219
+Donezk|Ukraine,Turin|Italien,3050.4683999999997
+Donezk|Ukraine,Saratow|Russland,981.9241
+Donezk|Ukraine,Valencia|Spanien,4190.3264
+Donezk|Ukraine,Zagreb|Kroatien,2104.8138
+Donezk|Ukraine,Frankfurt am Main|Deutschland,2604.048
+Donezk|Ukraine,Lwiw (Lemberg)|Ukraine,1282.7766000000001
+Donezk|Ukraine,Sevilla|Spanien,4837.3861
+Donezk|Ukraine,Saragossa|Spanien,4126.7247
+Breslau|Polen,Donezk|Ukraine,1868.6498000000001
+Donezk|Ukraine,Ischewsk|Russland,1998.0645
+Donezk|Ukraine,Lodz|Polen,1650.7403
+Athen|Griechenland,Donezk|Ukraine,2414.5827000000004
+Donezk|Ukraine,Palermo|Italien,4072.4957999999997
+Donezk|Ukraine,Uljanowsk|Russland,1290.5128
+Donezk|Ukraine,Stuttgart|Deutschland,2614.6631
+Donezk|Ukraine,Leipzig|Deutschland,2238.8891
+Donezk|Ukraine,Vilnius|Litauen,1557.2216
+Donezk|Ukraine,Machatschkala|Russland,1176.453
+Donezk|Ukraine,Krywyj Rih|Ukraine,412.2835
+Donezk|Ukraine,Jaroslawl|Russland,1401.5978
+Donezk|Ukraine,Tirana|Albanien,2137.9359
+Donezk|Ukraine,Malaga|Spanien,4806.4357
+Bremen|Deutschland,Donezk|Ukraine,2441.1782000000003
+Donezk|Ukraine,Orenburg|Russland,1682.9882
+Chisinau|Moldau,Donezk|Ukraine,910.7197
+Donezk|Ukraine,Dresden|Deutschland,2123.0472
+Donezk|Ukraine,Genua|Italien,3066.5119
+Antwerpen|Belgien,Donezk|Ukraine,2782.2675
+Donezk|Ukraine,Posen|Polen,1823.7384
+Donezk|Ukraine,Rjasan|Russland,1007.0277
+Donezk|Ukraine,Nabereschnyje Tschelny|Russland,1809.7039
+Donezk|Ukraine,Nürnberg|Deutschland,2425.0328999999997
+Donezk|Ukraine,Skopje|Nordmazedonien,1854.4361000000001
+Astrachan|Russland,Donezk|Ukraine,981.1827
+Donezk|Ukraine,Hannover|Deutschland,2336.1135
+Donezk|Ukraine,Kirow|Russland,1821.1735
+Donezk|Ukraine,Lyon|Frankreich,3208.4647999999997
+Donezk|Ukraine,Pensa|Russland,975.552
+Donezk|Ukraine,Toulouse|Frankreich,3689.6221
+Donezk|Ukraine,Lipezk|Russland,749.8419
+Donezk|Ukraine,Homel|Belarus,1052.4768000000001
+Marseille|Frankreich,Turin|Italien,479.58340000000004
+Marseille|Frankreich,Saratow|Russland,4206.0723
+Marseille|Frankreich,Valencia|Spanien,844.9576999999999
+Marseille|Frankreich,Zagreb|Kroatien,1130.9297
+Frankfurt am Main|Deutschland,Marseille|Frankreich,1005.121
+Lwiw (Lemberg)|Ukraine,Marseille|Frankreich,2244.396
+Marseille|Frankreich,Sevilla|Spanien,1489.9973
+Marseille|Frankreich,Saragossa|Spanien,781.356
+Breslau|Polen,Marseille|Frankreich,1675.4126
+Ischewsk|Russland,Marseille|Frankreich,4556.3705
+Lodz|Polen,Marseille|Frankreich,1895.3035
+Athen|Griechenland,Marseille|Frankreich,2614.325
+Marseille|Frankreich,Palermo|Italien,1796.5893999999998
+Marseille|Frankreich,Uljanowsk|Russland,4198.5403
+Marseille|Frankreich,Stuttgart|Deutschland,941.8647
+Leipzig|Deutschland,Marseille|Frankreich,1393.5267
+Marseille|Frankreich,Vilnius|Litauen,2578.5393
+Machatschkala|Russland,Marseille|Frankreich,4656.8874000000005
+Krywyj Rih|Ukraine,Marseille|Frankreich,3075.6706
+Jaroslawl|Russland,Marseille|Frankreich,3603.6983
+Marseille|Frankreich,Tirana|Albanien,1877.5419
+Marseille|Frankreich,Riga|Lettland,2735.0173
+Malaga|Spanien,Marseille|Frankreich,1461.067
+Bremen|Deutschland,Marseille|Frankreich,1438.5695
+Marseille|Frankreich,Orenburg|Russland,4779.1137
+Lissabon|Portugal,Marseille|Frankreich,1660.797
+Dresden|Deutschland,Marseille|Frankreich,1416.7554
+Genua|Italien,Marseille|Frankreich,392.628
+Antwerpen|Belgien,Marseille|Frankreich,1079.3055
+Marseille|Frankreich,Posen|Polen,1777.7025
+Marseille|Frankreich,Rjasan|Russland,3519.1257
+Marseille|Frankreich,Nabereschnyje Tschelny|Russland,4408.385
+Marseille|Frankreich,Nürnberg|Deutschland,1119.4874
+Marseille|Frankreich,Skopje|Nordmazedonien,1952.5448999999999
+Astrachan|Russland,Marseille|Frankreich,4416.365400000001
+Hannover|Deutschland,Marseille|Frankreich,1335.3084
+Kirow|Russland,Marseille|Frankreich,4355.071900000001
+Lyon|Frankreich,Marseille|Frankreich,313.6514
+Marseille|Frankreich,Pensa|Russland,3963.0254
+Marseille|Frankreich,Toulouse|Frankreich,411.2931
+Lipezk|Russland,Marseille|Frankreich,3596.6219
+Homel|Belarus,Marseille|Frankreich,2935.7217
+Saratow|Russland,Turin|Italien,3817.6187
+Turin|Italien,Valencia|Spanien,1205.0453
+Turin|Italien,Zagreb|Kroatien,763.9369
+Frankfurt am Main|Deutschland,Turin|Italien,778.2464
+Lwiw (Lemberg)|Ukraine,Turin|Italien,1815.5869
+Sevilla|Spanien,Turin|Italien,1850.0848
+Saragossa|Spanien,Turin|Italien,1141.4435
+Breslau|Polen,Turin|Italien,1286.9591
+Lodz|Polen,Turin|Italien,1506.8499
+Athen|Griechenland,Turin|Italien,2247.3322000000003
+Turin|Italien,Uljanowsk|Russland,3810.0868
+Stuttgart|Deutschland,Turin|Italien,616.7749
+Leipzig|Deutschland,Turin|Italien,1005.0731999999999
+Turin|Italien,Vilnius|Litauen,2190.0858
+Machatschkala|Russland,Turin|Italien,4228.0783
+Krywyj Rih|Ukraine,Turin|Italien,2466.0528999999997
+Tirana|Albanien,Turin|Italien,1510.5491000000002
+Riga|Lettland,Turin|Italien,2346.5638
+Orenburg|Russland,Turin|Italien,4390.6602
+Lissabon|Portugal,Turin|Italien,2020.8846
+Dresden|Deutschland,Turin|Italien,1028.3019
+Genua|Italien,Turin|Italien,172.6981
+Antwerpen|Belgien,Turin|Italien,1077.8736000000001
+Posen|Polen,Turin|Italien,1389.249
+Rjasan|Russland,Turin|Italien,3130.6721000000002
+Nabereschnyje Tschelny|Russland,Turin|Italien,4019.9314
+Nürnberg|Deutschland,Turin|Italien,731.0339
+Skopje|Nordmazedonien,Turin|Italien,1585.5521
+Astrachan|Russland,Turin|Italien,3987.5564
+Hannover|Deutschland,Turin|Italien,1108.4338
+Kirow|Russland,Turin|Italien,3966.6182999999996
+Lyon|Frankreich,Turin|Italien,303.6392
+Pensa|Russland,Turin|Italien,3574.5719
+Toulouse|Frankreich,Turin|Italien,771.3806
+Lipezk|Russland,Turin|Italien,3208.1684
+Homel|Belarus,Turin|Italien,2547.2681000000002
+Saratow|Russland,Valencia|Spanien,4846.589099999999
+Saratow|Russland,Zagreb|Kroatien,3153.2733
+Frankfurt am Main|Deutschland,Saratow|Russland,3183.6037
+Lwiw (Lemberg)|Ukraine,Saratow|Russland,1767.7156
+Saratow|Russland,Sevilla|Spanien,5416.9417
+Saragossa|Spanien,Saratow|Russland,4782.9873
+Breslau|Polen,Saratow|Russland,2448.2054
+Ischewsk|Russland,Saratow|Russland,1009.9746
+Lodz|Polen,Saratow|Russland,2230.2959
+Athen|Griechenland,Saratow|Russland,3290.1265
+Palermo|Italien,Saratow|Russland,4796.9039
+Saratow|Russland,Stuttgart|Deutschland,3220.8167000000003
+Leipzig|Deutschland,Saratow|Russland,2818.4447
+Saratow|Russland,Vilnius|Litauen,1745.9917
+Machatschkala|Russland,Saratow|Russland,1208.8799
+Krywyj Rih|Ukraine,Saratow|Russland,1267.835
+Jaroslawl|Russland,Saratow|Russland,999.0456999999999
+Saratow|Russland,Tirana|Albanien,3013.4797000000003
+Riga|Lettland,Saratow|Russland,1814.5389
+Malaga|Spanien,Saratow|Russland,5462.6983
+Bremen|Deutschland,Saratow|Russland,3020.7338999999997
+Lissabon|Portugal,Saratow|Russland,5420.6349
+Chisinau|Moldau,Saratow|Russland,1786.2633999999998
+Genua|Italien,Saratow|Russland,3790.92
+Antwerpen|Belgien,Saratow|Russland,3361.8232000000003
+Posen|Polen,Saratow|Russland,2403.2941
+Rjasan|Russland,Saratow|Russland,654.7891999999999
+Nabereschnyje Tschelny|Russland,Saratow|Russland,821.614
+Nürnberg|Deutschland,Saratow|Russland,3016.5032
+Saratow|Russland,Skopje|Nordmazedonien,2729.9799
+Astrachan|Russland,Saratow|Russland,802.5864
+Hannover|Deutschland,Saratow|Russland,2915.6692000000003
+Kirow|Russland,Saratow|Russland,1088.6716000000001
+Lyon|Frankreich,Saratow|Russland,3864.7275
+Pensa|Russland,Saratow|Russland,233.1069
+Saratow|Russland,Toulouse|Frankreich,4345.8847000000005
+Lipezk|Russland,Saratow|Russland,581.8306
+Homel|Belarus,Saratow|Russland,1241.247
+Valencia|Spanien,Zagreb|Kroatien,1935.9179
+Frankfurt am Main|Deutschland,Valencia|Spanien,1671.6891
+Saragossa|Spanien,Valencia|Spanien,315.1862
+Breslau|Polen,Valencia|Spanien,2341.9806
+Ischewsk|Russland,Valencia|Spanien,5222.9385
+Lodz|Polen,Valencia|Spanien,2561.8715
+Athen|Griechenland,Valencia|Spanien,3419.3132
+Palermo|Italien,Valencia|Spanien,2601.5775
+Stuttgart|Deutschland,Valencia|Spanien,1608.4326999999998
+Leipzig|Deutschland,Valencia|Spanien,2060.0947
+Machatschkala|Russland,Valencia|Spanien,5323.455400000001
+Krywyj Rih|Ukraine,Valencia|Spanien,3742.2387000000003
+Jaroslawl|Russland,Valencia|Spanien,4270.2663
+Tirana|Albanien,Valencia|Spanien,2682.5301
+Riga|Lettland,Valencia|Spanien,3401.5852999999997
+Malaga|Spanien,Valencia|Spanien,608.1292
+Bremen|Deutschland,Valencia|Spanien,2105.1375
+Orenburg|Russland,Valencia|Spanien,5445.6817
+Lissabon|Portugal,Valencia|Spanien,885.0052
+Chisinau|Moldau,Valencia|Spanien,3338.1882
+Dresden|Deutschland,Valencia|Spanien,2083.3235
+Genua|Italien,Valencia|Spanien,1197.6162
+Antwerpen|Belgien,Valencia|Spanien,1719.3708000000001
+Posen|Polen,Valencia|Spanien,2444.2705
+Rjasan|Russland,Valencia|Spanien,4185.6937
+Nabereschnyje Tschelny|Russland,Valencia|Spanien,5074.953
+Nürnberg|Deutschland,Valencia|Spanien,1786.0554
+Skopje|Nordmazedonien,Valencia|Spanien,2757.5331
+Hannover|Deutschland,Valencia|Spanien,2001.8763999999999
+Kirow|Russland,Valencia|Spanien,5021.6399
+Lyon|Frankreich,Valencia|Spanien,980.2194000000001
+Toulouse|Frankreich,Valencia|Spanien,743.3558
+Lipezk|Russland,Valencia|Spanien,4263.1899
+Homel|Belarus,Valencia|Spanien,3602.2897000000003
+Frankfurt am Main|Deutschland,Zagreb|Kroatien,895.8621999999999
+Lwiw (Lemberg)|Ukraine,Zagreb|Kroatien,940.7565
+Sevilla|Spanien,Zagreb|Kroatien,2583.2702999999997
+Saragossa|Spanien,Zagreb|Kroatien,1874.629
+Breslau|Polen,Zagreb|Kroatien,938.5033000000001
+Ischewsk|Russland,Zagreb|Kroatien,3577.4687999999996
+Lodz|Polen,Zagreb|Kroatien,980.0821
+Athen|Griechenland,Zagreb|Kroatien,1488.7128
+Palermo|Italien,Zagreb|Kroatien,1785.9872
+Uljanowsk|Russland,Zagreb|Kroatien,3219.6387
+Stuttgart|Deutschland,Zagreb|Kroatien,780.4583
+Leipzig|Deutschland,Zagreb|Kroatien,925.4970999999999
+Vilnius|Litauen,Zagreb|Kroatien,1599.6377
+Krywyj Rih|Ukraine,Zagreb|Kroatien,1720.4158
+Jaroslawl|Russland,Zagreb|Kroatien,2624.7966
+Malaga|Spanien,Zagreb|Kroatien,2554.34
+Bremen|Deutschland,Zagreb|Kroatien,1250.8988
+Orenburg|Russland,Zagreb|Kroatien,3800.212
+Lissabon|Portugal,Zagreb|Kroatien,2754.07
+Chisinau|Moldau,Zagreb|Kroatien,1420.5701000000001
+Dresden|Deutschland,Zagreb|Kroatien,920.1158
+Antwerpen|Belgien,Zagreb|Kroatien,1291.9963
+Posen|Polen,Zagreb|Kroatien,1126.2968999999998
+Rjasan|Russland,Zagreb|Kroatien,2540.224
+Nürnberg|Deutschland,Zagreb|Kroatien,677.8866999999999
+Skopje|Nordmazedonien,Zagreb|Kroatien,826.9327
+Astrachan|Russland,Zagreb|Kroatien,3074.7142999999996
+Hannover|Deutschland,Zagreb|Kroatien,1132.2529
+Kirow|Russland,Zagreb|Kroatien,3376.1702
+Lyon|Frankreich,Zagreb|Kroatien,1064.1631
+Pensa|Russland,Zagreb|Kroatien,2984.1238
+Toulouse|Frankreich,Zagreb|Kroatien,1504.5661
+Lipezk|Russland,Zagreb|Kroatien,2617.7202
+Homel|Belarus,Zagreb|Kroatien,1956.82
+Frankfurt am Main|Deutschland,Lwiw (Lemberg)|Ukraine,1301.1835
+Frankfurt am Main|Deutschland,Sevilla|Spanien,2317.7446
+Frankfurt am Main|Deutschland,Saragossa|Spanien,1609.1033
+Breslau|Polen,Frankfurt am Main|Deutschland,723.1745999999999
+Frankfurt am Main|Deutschland,Ischewsk|Russland,3565.5745
+Frankfurt am Main|Deutschland,Lodz|Polen,943.0654000000001
+Athen|Griechenland,Frankfurt am Main|Deutschland,2378.076
+Frankfurt am Main|Deutschland,Palermo|Italien,2137.5656
+Frankfurt am Main|Deutschland,Uljanowsk|Russland,3207.7444
+Frankfurt am Main|Deutschland,Stuttgart|Deutschland,203.7245
+Frankfurt am Main|Deutschland,Leipzig|Deutschland,402.7308
+Frankfurt am Main|Deutschland,Vilnius|Litauen,1587.7433999999998
+Frankfurt am Main|Deutschland,Machatschkala|Russland,3736.9074
+Frankfurt am Main|Deutschland,Krywyj Rih|Ukraine,2132.4582
+Frankfurt am Main|Deutschland,Jaroslawl|Russland,2612.9022999999997
+Frankfurt am Main|Deutschland,Tirana|Albanien,1953.9933999999998
+Frankfurt am Main|Deutschland,Riga|Lettland,1744.2214
+Bremen|Deutschland,Frankfurt am Main|Deutschland,442.6802
+Frankfurt am Main|Deutschland,Orenburg|Russland,3788.3178
+Frankfurt am Main|Deutschland,Lissabon|Portugal,2320.6449
+Chisinau|Moldau,Frankfurt am Main|Deutschland,1897.5619
+Dresden|Deutschland,Frankfurt am Main|Deutschland,464.5174
+Frankfurt am Main|Deutschland,Genua|Italien,822.8816999999999
+Antwerpen|Belgien,Frankfurt am Main|Deutschland,406.54240000000004
+Frankfurt am Main|Deutschland,Posen|Polen,786.9065
+Frankfurt am Main|Deutschland,Rjasan|Russland,2528.3297000000002
+Frankfurt am Main|Deutschland,Nabereschnyje Tschelny|Russland,3417.589
+Frankfurt am Main|Deutschland,Skopje|Nordmazedonien,1716.2958999999998
+Astrachan|Russland,Frankfurt am Main|Deutschland,3496.3854
+Frankfurt am Main|Deutschland,Hannover|Deutschland,339.4192
+Frankfurt am Main|Deutschland,Kirow|Russland,3364.2759
+Frankfurt am Main|Deutschland,Lyon|Frankreich,690.8434
+Frankfurt am Main|Deutschland,Pensa|Russland,2972.2295
+Frankfurt am Main|Deutschland,Toulouse|Frankreich,1172.0007
+Frankfurt am Main|Deutschland,Lipezk|Russland,2605.8259
+Frankfurt am Main|Deutschland,Homel|Belarus,1944.9257
+Lwiw (Lemberg)|Ukraine,Sevilla|Spanien,3560.066
+Lwiw (Lemberg)|Ukraine,Saragossa|Spanien,2851.4247
+Breslau|Polen,Lwiw (Lemberg)|Ukraine,596.5168000000001
+Ischewsk|Russland,Lwiw (Lemberg)|Ukraine,2583.8916
+Lodz|Polen,Lwiw (Lemberg)|Ukraine,602.0546999999999
+Athen|Griechenland,Lwiw (Lemberg)|Ukraine,2032.9267
+Lwiw (Lemberg)|Ukraine,Palermo|Italien,2797.1958999999997
+Lwiw (Lemberg)|Ukraine,Stuttgart|Deutschland,1339.3632
+Leipzig|Deutschland,Lwiw (Lemberg)|Ukraine,950.8316
+Lwiw (Lemberg)|Ukraine,Vilnius|Litauen,974.4268000000001
+Lwiw (Lemberg)|Ukraine,Machatschkala|Russland,2331.8412000000003
+Jaroslawl|Russland,Lwiw (Lemberg)|Ukraine,1631.2195
+Lwiw (Lemberg)|Ukraine,Tirana|Albanien,1608.8441
+Lwiw (Lemberg)|Ukraine,Riga|Lettland,1130.9048
+Lwiw (Lemberg)|Ukraine,Malaga|Spanien,3531.1358
+Bremen|Deutschland,Lwiw (Lemberg)|Ukraine,1278.4036
+Lwiw (Lemberg)|Ukraine,Orenburg|Russland,2480.9596
+Lissabon|Portugal,Lwiw (Lemberg)|Ukraine,3563.1872999999996
+Chisinau|Moldau,Lwiw (Lemberg)|Ukraine,588.6274000000001
+Dresden|Deutschland,Lwiw (Lemberg)|Ukraine,847.7473
+Genua|Italien,Lwiw (Lemberg)|Ukraine,1791.212
+Antwerpen|Belgien,Lwiw (Lemberg)|Ukraine,1619.4929
+Lwiw (Lemberg)|Ukraine,Posen|Polen,784.3103000000001
+Lwiw (Lemberg)|Ukraine,Nabereschnyje Tschelny|Russland,2435.9062000000004
+Lwiw (Lemberg)|Ukraine,Nürnberg|Deutschland,1149.733
+Lwiw (Lemberg)|Ukraine,Skopje|Nordmazedonien,1371.1466
+Hannover|Deutschland,Lwiw (Lemberg)|Ukraine,1173.3389
+Kirow|Russland,Lwiw (Lemberg)|Ukraine,2382.5931
+Lwiw (Lemberg)|Ukraine,Lyon|Frankreich,1933.1649
+Lwiw (Lemberg)|Ukraine,Pensa|Russland,1765.1935
+Lwiw (Lemberg)|Ukraine,Toulouse|Frankreich,2414.3221000000003
+Lipezk|Russland,Lwiw (Lemberg)|Ukraine,1378.0325
+Homel|Belarus,Lwiw (Lemberg)|Ukraine,945.8240999999999
+Saragossa|Spanien,Sevilla|Spanien,846.3884
+Breslau|Polen,Sevilla|Spanien,2986.6886
+Ischewsk|Russland,Sevilla|Spanien,5798.938099999999
+Lodz|Polen,Sevilla|Spanien,3206.5795
+Athen|Griechenland,Sevilla|Spanien,4064.0212
+Palermo|Italien,Sevilla|Spanien,3246.2855
+Sevilla|Spanien,Uljanowsk|Russland,5441.108
+Sevilla|Spanien,Stuttgart|Deutschland,2253.1407000000004
+Leipzig|Deutschland,Sevilla|Spanien,2704.8027
+Machatschkala|Russland,Sevilla|Spanien,5970.271
+Krywyj Rih|Ukraine,Sevilla|Spanien,4386.9467
+Jaroslawl|Russland,Sevilla|Spanien,4846.2659
+Sevilla|Spanien,Tirana|Albanien,3327.2381
+Riga|Lettland,Sevilla|Spanien,3977.585
+Bremen|Deutschland,Sevilla|Spanien,2529.6213
+Orenburg|Russland,Sevilla|Spanien,6021.6814
+Lissabon|Portugal,Sevilla|Spanien,464.7115
+Chisinau|Moldau,Sevilla|Spanien,3982.8962
+Dresden|Deutschland,Sevilla|Spanien,2728.0315
+Genua|Italien,Sevilla|Spanien,1842.3242
+Antwerpen|Belgien,Sevilla|Spanien,2077.0407
+Posen|Polen,Sevilla|Spanien,3020.2702000000004
+Rjasan|Russland,Sevilla|Spanien,4761.6933
+Nabereschnyje Tschelny|Russland,Sevilla|Spanien,5650.9526
+Nürnberg|Deutschland,Sevilla|Spanien,2430.7634
+Sevilla|Spanien,Skopje|Nordmazedonien,3402.2411
+Hannover|Deutschland,Sevilla|Spanien,2505.9622000000004
+Kirow|Russland,Sevilla|Spanien,5597.6395
+Lyon|Frankreich,Sevilla|Spanien,1624.9273999999998
+Sevilla|Spanien,Toulouse|Frankreich,1262.4511
+Lipezk|Russland,Sevilla|Spanien,4839.1896
+Homel|Belarus,Sevilla|Spanien,4178.2892999999995
+Breslau|Polen,Saragossa|Spanien,2278.3221000000003
+Ischewsk|Russland,Saragossa|Spanien,5159.28
+Lodz|Polen,Saragossa|Spanien,2498.213
+Athen|Griechenland,Saragossa|Spanien,3355.6547
+Palermo|Italien,Saragossa|Spanien,2537.9191
+Saragossa|Spanien,Uljanowsk|Russland,4801.4499000000005
+Saragossa|Spanien,Stuttgart|Deutschland,1544.7742
+Leipzig|Deutschland,Saragossa|Spanien,1996.4361999999999
+Saragossa|Spanien,Vilnius|Litauen,3181.4489
+Krywyj Rih|Ukraine,Saragossa|Spanien,3678.5802000000003
+Jaroslawl|Russland,Saragossa|Spanien,4206.6078
+Saragossa|Spanien,Tirana|Albanien,2618.8716
+Riga|Lettland,Saragossa|Spanien,3337.9267999999997
+Malaga|Spanien,Saragossa|Spanien,838.2585
+Orenburg|Russland,Saragossa|Spanien,5382.0232000000005
+Lissabon|Portugal,Saragossa|Spanien,948.4573
+Chisinau|Moldau,Saragossa|Spanien,3274.5297
+Dresden|Deutschland,Saragossa|Spanien,2019.665
+Genua|Italien,Saragossa|Spanien,1133.9577
+Antwerpen|Belgien,Saragossa|Spanien,1397.0382
+Posen|Polen,Saragossa|Spanien,2380.612
+Rjasan|Russland,Saragossa|Spanien,4122.0352
+Nabereschnyje Tschelny|Russland,Saragossa|Spanien,5011.2945
+Nürnberg|Deutschland,Saragossa|Spanien,1722.3969
+Saragossa|Spanien,Skopje|Nordmazedonien,2693.8746
+Astrachan|Russland,Saragossa|Spanien,5019.275
+Kirow|Russland,Saragossa|Spanien,4957.981400000001
+Lyon|Frankreich,Saragossa|Spanien,916.5609000000001
+Pensa|Russland,Saragossa|Spanien,4565.935
+Saragossa|Spanien,Toulouse|Frankreich,389.621
+Lipezk|Russland,Saragossa|Spanien,4199.531400000001
+Homel|Belarus,Saragossa|Spanien,3538.6312000000003
+Breslau|Polen,Ischewsk|Russland,2833.211
+Breslau|Polen,Lodz|Polen,221.5791
+Breslau|Polen,Palermo|Italien,2534.2682999999997
+Breslau|Polen,Uljanowsk|Russland,2475.3809
+Breslau|Polen,Stuttgart|Deutschland,775.012
+Breslau|Polen,Leipzig|Deutschland,371.797
+Breslau|Polen,Vilnius|Litauen,855.3799
+Breslau|Polen,Machatschkala|Russland,3004.5439
+Breslau|Polen,Krywyj Rih|Ukraine,1427.4128
+Breslau|Polen,Jaroslawl|Russland,1880.5388
+Breslau|Polen,Tirana|Albanien,1758.1017
+Breslau|Polen,Riga|Lettland,1011.8579
+Breslau|Polen,Malaga|Spanien,2967.0112000000004
+Bremen|Deutschland,Breslau|Polen,699.3691
+Breslau|Polen,Orenburg|Russland,3055.9543
+Breslau|Polen,Lissabon|Portugal,2999.0627000000004
+Breslau|Polen,Chisinau|Moldau,1192.5165
+Breslau|Polen,Dresden|Deutschland,268.7127
+Breslau|Polen,Genua|Italien,1325.8253
+Antwerpen|Belgien,Breslau|Polen,1040.4583
+Breslau|Polen,Posen|Polen,182.4585
+Breslau|Polen,Rjasan|Russland,1795.9661999999998
+Breslau|Polen,Nabereschnyje Tschelny|Russland,2685.2255
+Breslau|Polen,Nürnberg|Deutschland,570.6984
+Breslau|Polen,Skopje|Nordmazedonien,1520.4042
+Astrachan|Russland,Breslau|Polen,2764.0218999999997
+Breslau|Polen,Hannover|Deutschland,594.3044
+Breslau|Polen,Kirow|Russland,2631.9123999999997
+Breslau|Polen,Lyon|Frankreich,1369.0403000000001
+Breslau|Polen,Pensa|Russland,2239.866
+Breslau|Polen,Toulouse|Frankreich,1850.1976000000002
+Breslau|Polen,Lipezk|Russland,1873.4624
+Breslau|Polen,Homel|Belarus,1212.5621999999998
+Ischewsk|Russland,Lodz|Polen,2615.0807999999997
+Athen|Griechenland,Ischewsk|Russland,4822.5233
+Ischewsk|Russland,Palermo|Italien,5181.6888
+Ischewsk|Russland,Uljanowsk|Russland,573.0245
+Ischewsk|Russland,Stuttgart|Deutschland,3605.6017
+Ischewsk|Russland,Leipzig|Deutschland,3203.2297000000003
+Ischewsk|Russland,Vilnius|Litauen,2130.7766
+Ischewsk|Russland,Machatschkala|Russland,2037.1485
+Ischewsk|Russland,Krywyj Rih|Ukraine,2256.119
+Ischewsk|Russland,Tirana|Albanien,4398.440799999999
+Ischewsk|Russland,Riga|Lettland,2110.1333
+Bremen|Deutschland,Ischewsk|Russland,3405.5188
+Ischewsk|Russland,Orenburg|Russland,739.2769000000001
+Ischewsk|Russland,Lissabon|Portugal,5805.419900000001
+Chisinau|Moldau,Ischewsk|Russland,2721.9473
+Genua|Italien,Ischewsk|Russland,4175.7049
+Antwerpen|Belgien,Ischewsk|Russland,3746.6081
+Ischewsk|Russland,Posen|Polen,2788.079
+Ischewsk|Russland,Rjasan|Russland,1121.6099
+Ischewsk|Russland,Nabereschnyje Tschelny|Russland,197.60670000000002
+Ischewsk|Russland,Nürnberg|Deutschland,3401.2881
+Ischewsk|Russland,Skopje|Nordmazedonien,4160.7433
+Astrachan|Russland,Ischewsk|Russland,1544.2232
+Hannover|Deutschland,Ischewsk|Russland,3300.4541
+Ischewsk|Russland,Kirow|Russland,413.2296
+Ischewsk|Russland,Lyon|Frankreich,4249.5124000000005
+Ischewsk|Russland,Pensa|Russland,939.9981
+Ischewsk|Russland,Toulouse|Frankreich,4730.6697
+Ischewsk|Russland,Lipezk|Russland,1286.5753
+Homel|Belarus,Ischewsk|Russland,1835.9648
+Athen|Griechenland,Lodz|Polen,2228.5557999999996
+Lodz|Polen,Palermo|Italien,2587.7212999999997
+Lodz|Polen,Uljanowsk|Russland,2257.8112
+Leipzig|Deutschland,Lodz|Polen,591.2723000000001
+Lodz|Polen,Vilnius|Litauen,637.8102
+Lodz|Polen,Machatschkala|Russland,2786.9742
+Krywyj Rih|Ukraine,Lodz|Polen,1401.0309
+Jaroslawl|Russland,Lodz|Polen,1662.9691
+Lodz|Polen,Tirana|Albanien,1804.4733
+Lodz|Polen,Riga|Lettland,794.2882
+Lodz|Polen,Malaga|Spanien,3186.4865
+Bremen|Deutschland,Lodz|Polen,828.4596
+Lodz|Polen,Orenburg|Russland,2838.3846000000003
+Lissabon|Portugal,Lodz|Polen,3218.538
+Chisinau|Moldau,Lodz|Polen,1201.9253
+Dresden|Deutschland,Lodz|Polen,488.188
+Genua|Italien,Lodz|Polen,1545.3006
+Antwerpen|Belgien,Lodz|Polen,1169.5489
+Lodz|Polen,Posen|Polen,211.01979999999998
+Lodz|Polen,Rjasan|Russland,1578.3965
+Lodz|Polen,Nabereschnyje Tschelny|Russland,2467.6558
+Lodz|Polen,Nürnberg|Deutschland,790.1736999999999
+Lodz|Polen,Skopje|Nordmazedonien,1566.7758000000001
+Astrachan|Russland,Lodz|Polen,2546.4522
+Hannover|Deutschland,Lodz|Polen,723.3949
+Kirow|Russland,Lodz|Polen,2414.3427
+Lodz|Polen,Lyon|Frankreich,1588.5156000000002
+Lodz|Polen,Pensa|Russland,2022.2963
+Lodz|Polen,Toulouse|Frankreich,2069.6729
+Lipezk|Russland,Lodz|Polen,1655.8928
+Homel|Belarus,Lodz|Polen,994.9925
+Athen|Griechenland,Palermo|Italien,1414.5354
+Athen|Griechenland,Uljanowsk|Russland,4460.3222000000005
+Athen|Griechenland,Stuttgart|Deutschland,2260.0607
+Athen|Griechenland,Vilnius|Litauen,2840.3212000000003
+Athen|Griechenland,Machatschkala|Russland,3509.7259
+Athen|Griechenland,Krywyj Rih|Ukraine,2000.8107
+Athen|Griechenland,Jaroslawl|Russland,3865.4802
+Athen|Griechenland,Tirana|Albanien,664.0086
+Athen|Griechenland,Riga|Lettland,2996.7992000000004
+Athen|Griechenland,Malaga|Spanien,4033.9424
+Athen|Griechenland,Bremen|Deutschland,2593.7847
+Athen|Griechenland,Orenburg|Russland,4090.1783
+Athen|Griechenland,Lissabon|Portugal,4233.6724
+Athen|Griechenland,Chisinau|Moldau,1635.344
+Athen|Griechenland,Dresden|Deutschland,2128.9584
+Athen|Griechenland,Genua|Italien,2259.6058
+Antwerpen|Belgien,Athen|Griechenland,2771.8475
+Athen|Griechenland,Posen|Polen,2366.9804
+Athen|Griechenland,Rjasan|Russland,3780.9075
+Athen|Griechenland,Nabereschnyje Tschelny|Russland,4670.1669
+Athen|Griechenland,Nürnberg|Deutschland,2157.7379
+Athen|Griechenland,Skopje|Nordmazedonien,692.4614
+Astrachan|Russland,Athen|Griechenland,3355.707
+Athen|Griechenland,Hannover|Deutschland,2488.72
+Athen|Griechenland,Kirow|Russland,4616.853700000001
+Athen|Griechenland,Lyon|Frankreich,2543.7655
+Athen|Griechenland,Pensa|Russland,3374.4122
+Athen|Griechenland,Toulouse|Frankreich,2984.1685
+Athen|Griechenland,Lipezk|Russland,2987.2512
+Athen|Griechenland,Homel|Belarus,3197.5035
+Palermo|Italien,Uljanowsk|Russland,4866.9115
+Palermo|Italien,Stuttgart|Deutschland,1975.8066000000001
+Leipzig|Deutschland,Palermo|Italien,2253.7922999999996
+Palermo|Italien,Vilnius|Litauen,3246.9103999999998
+Machatschkala|Russland,Palermo|Italien,5251.3662
+Krywyj Rih|Ukraine,Palermo|Italien,3489.3407
+Jaroslawl|Russland,Palermo|Italien,4272.0694
+Palermo|Italien,Tirana|Albanien,1133.3947
+Palermo|Italien,Riga|Lettland,3403.3884
+Malaga|Spanien,Palermo|Italien,3212.4496
+Orenburg|Russland,Palermo|Italien,5447.4848
+Lissabon|Portugal,Palermo|Italien,3412.1797
+Dresden|Deutschland,Palermo|Italien,2277.021
+Genua|Italien,Palermo|Italien,1400.8823
+Antwerpen|Belgien,Palermo|Italien,2413.2942000000003
+Palermo|Italien,Posen|Polen,2637.968
+Nabereschnyje Tschelny|Russland,Palermo|Italien,5076.7561
+Nürnberg|Deutschland,Palermo|Italien,1985.6575
+Palermo|Italien,Skopje|Nordmazedonien,2608.84
+Astrachan|Russland,Palermo|Italien,5010.8442000000005
+Hannover|Deutschland,Palermo|Italien,2413.7125
+Kirow|Russland,Palermo|Italien,5023.443
+Lyon|Frankreich,Palermo|Italien,1887.3873999999998
+Palermo|Italien,Pensa|Russland,4631.3965
+Palermo|Italien,Toulouse|Frankreich,2162.6757000000002
+Lipezk|Russland,Palermo|Italien,4264.993
+Homel|Belarus,Palermo|Italien,3604.0928
+Stuttgart|Deutschland,Uljanowsk|Russland,3249.9287000000004
+Leipzig|Deutschland,Uljanowsk|Russland,2847.5567
+Uljanowsk|Russland,Vilnius|Litauen,1775.1037
+Machatschkala|Russland,Uljanowsk|Russland,1665.81
+Krywyj Rih|Ukraine,Uljanowsk|Russland,1699.9563999999998
+Jaroslawl|Russland,Uljanowsk|Russland,824.7049000000001
+Tirana|Albanien,Uljanowsk|Russland,4042.7677999999996
+Riga|Lettland,Uljanowsk|Russland,1754.4604
+Malaga|Spanien,Uljanowsk|Russland,5491.8103
+Bremen|Deutschland,Uljanowsk|Russland,3049.8459
+Lissabon|Portugal,Uljanowsk|Russland,5449.7469
+Chisinau|Moldau,Uljanowsk|Russland,2165.7846
+Genua|Italien,Uljanowsk|Russland,3820.032
+Antwerpen|Belgien,Uljanowsk|Russland,3390.9352000000003
+Posen|Polen,Uljanowsk|Russland,2432.4061
+Rjasan|Russland,Uljanowsk|Russland,673.5096
+Nabereschnyje Tschelny|Russland,Uljanowsk|Russland,425.7296
+Nürnberg|Deutschland,Uljanowsk|Russland,3045.6152
+Skopje|Nordmazedonien,Uljanowsk|Russland,3805.0704
+Hannover|Deutschland,Uljanowsk|Russland,2944.7812000000004
+Kirow|Russland,Uljanowsk|Russland,633.1614000000001
+Lyon|Frankreich,Uljanowsk|Russland,3893.8395
+Pensa|Russland,Uljanowsk|Russland,317.55609999999996
+Toulouse|Frankreich,Uljanowsk|Russland,4374.996700000001
+Lipezk|Russland,Uljanowsk|Russland,798.7031
+Homel|Belarus,Uljanowsk|Russland,1452.3746999999998
+Leipzig|Deutschland,Stuttgart|Deutschland,484.4695
+Stuttgart|Deutschland,Vilnius|Litauen,1669.4821000000002
+Machatschkala|Russland,Stuttgart|Deutschland,3747.8302000000003
+Krywyj Rih|Ukraine,Stuttgart|Deutschland,2166.6135
+Jaroslawl|Russland,Stuttgart|Deutschland,2694.6411000000003
+Stuttgart|Deutschland,Tirana|Albanien,1842.0398
+Riga|Lettland,Stuttgart|Deutschland,1825.9601
+Malaga|Spanien,Stuttgart|Deutschland,2225.53
+Orenburg|Russland,Stuttgart|Deutschland,3870.0565
+Lissabon|Portugal,Stuttgart|Deutschland,2257.5815
+Chisinau|Moldau,Stuttgart|Deutschland,1931.7172
+Dresden|Deutschland,Stuttgart|Deutschland,507.69829999999996
+Genua|Italien,Stuttgart|Deutschland,684.1179000000001
+Antwerpen|Belgien,Stuttgart|Deutschland,555.9095
+Posen|Polen,Stuttgart|Deutschland,868.6453
+Rjasan|Russland,Stuttgart|Deutschland,2610.0685
+Nabereschnyje Tschelny|Russland,Stuttgart|Deutschland,3499.3278
+Nürnberg|Deutschland,Stuttgart|Deutschland,210.4302
+Skopje|Nordmazedonien,Stuttgart|Deutschland,1604.3423
+Astrachan|Russland,Stuttgart|Deutschland,3507.3082999999997
+Hannover|Deutschland,Stuttgart|Deutschland,522.682
+Kirow|Russland,Stuttgart|Deutschland,3446.0147
+Lyon|Frankreich,Stuttgart|Deutschland,627.5591
+Pensa|Russland,Stuttgart|Deutschland,3053.9682000000003
+Stuttgart|Deutschland,Toulouse|Frankreich,1108.7163999999998
+Lipezk|Russland,Stuttgart|Deutschland,2687.5647000000004
+Homel|Belarus,Stuttgart|Deutschland,2026.6645
+Leipzig|Deutschland,Vilnius|Litauen,1226.2633999999998
+Leipzig|Deutschland,Machatschkala|Russland,3375.4274
+Krywyj Rih|Ukraine,Leipzig|Deutschland,1780.8105
+Jaroslawl|Russland,Leipzig|Deutschland,2251.4222999999997
+Leipzig|Deutschland,Tirana|Albanien,1814.6059
+Leipzig|Deutschland,Riga|Lettland,1382.7413999999999
+Leipzig|Deutschland,Malaga|Spanien,2678.273
+Bremen|Deutschland,Leipzig|Deutschland,366.3128
+Leipzig|Deutschland,Orenburg|Russland,3426.8378
+Leipzig|Deutschland,Lissabon|Portugal,2719.5283
+Chisinau|Moldau,Leipzig|Deutschland,1545.9142
+Dresden|Deutschland,Leipzig|Deutschland,112.8697
+Genua|Italien,Leipzig|Deutschland,1037.0872
+Antwerpen|Belgien,Leipzig|Deutschland,707.4021
+Leipzig|Deutschland,Posen|Polen,425.42659999999995
+Leipzig|Deutschland,Rjasan|Russland,2166.8497
+Leipzig|Deutschland,Nabereschnyje Tschelny|Russland,3056.109
+Leipzig|Deutschland,Nürnberg|Deutschland,281.9602
+Leipzig|Deutschland,Skopje|Nordmazedonien,1576.9083999999998
+Astrachan|Russland,Leipzig|Deutschland,3134.9054
+Hannover|Deutschland,Leipzig|Deutschland,261.2481
+Kirow|Russland,Leipzig|Deutschland,3002.7959
+Leipzig|Deutschland,Lyon|Frankreich,1080.3021
+Leipzig|Deutschland,Pensa|Russland,2610.7495
+Leipzig|Deutschland,Toulouse|Frankreich,1561.4594
+Leipzig|Deutschland,Lipezk|Russland,2244.346
+Homel|Belarus,Leipzig|Deutschland,1583.4457
+Machatschkala|Russland,Vilnius|Litauen,2613.9392000000003
+Krywyj Rih|Ukraine,Vilnius|Litauen,1555.5752
+Jaroslawl|Russland,Vilnius|Litauen,1182.0879
+Tirana|Albanien,Vilnius|Litauen,2421.2992999999997
+Riga|Lettland,Vilnius|Litauen,292.2523
+Malaga|Spanien,Vilnius|Litauen,3870.3417999999997
+Bremen|Deutschland,Vilnius|Litauen,1428.3773
+Orenburg|Russland,Vilnius|Litauen,2357.5034
+Lissabon|Portugal,Vilnius|Litauen,3828.2783999999997
+Chisinau|Moldau,Vilnius|Litauen,1458.5503
+Dresden|Deutschland,Vilnius|Litauen,1122.1608999999999
+Genua|Italien,Vilnius|Litauen,2198.5635
+Antwerpen|Belgien,Vilnius|Litauen,1769.4666000000002
+Posen|Polen,Vilnius|Litauen,810.9375
+Rjasan|Russland,Vilnius|Litauen,1097.5153
+Nabereschnyje Tschelny|Russland,Vilnius|Litauen,1986.7746000000002
+Nürnberg|Deutschland,Vilnius|Litauen,1424.1466
+Skopje|Nordmazedonien,Vilnius|Litauen,2183.6018
+Astrachan|Russland,Vilnius|Litauen,2273.3343
+Hannover|Deutschland,Vilnius|Litauen,1323.3126000000002
+Kirow|Russland,Vilnius|Litauen,1933.4615
+Lyon|Frankreich,Vilnius|Litauen,2272.3709
+Toulouse|Frankreich,Vilnius|Litauen,2753.5282
+Lipezk|Russland,Vilnius|Litauen,1175.0116
+Homel|Belarus,Vilnius|Litauen,514.1113
+Krywyj Rih|Ukraine,Machatschkala|Russland,1537.2381
+Jaroslawl|Russland,Machatschkala|Russland,2059.8075
+Machatschkala|Russland,Tirana|Albanien,3262.8903999999998
+Machatschkala|Russland,Riga|Lettland,2711.1992
+Machatschkala|Russland,Malaga|Spanien,5946.665099999999
+Bremen|Deutschland,Machatschkala|Russland,3581.4076
+Machatschkala|Russland,Orenburg|Russland,1546.1969
+Lissabon|Portugal,Machatschkala|Russland,5981.308599999999
+Chisinau|Moldau,Machatschkala|Russland,2035.6742
+Antwerpen|Belgien,Machatschkala|Russland,3922.4969
+Machatschkala|Russland,Posen|Polen,2963.9678
+Machatschkala|Russland,Rjasan|Russland,1622.646
+Machatschkala|Russland,Nabereschnyje Tschelny|Russland,1851.7885
+Machatschkala|Russland,Nürnberg|Deutschland,3565.2623
+Machatschkala|Russland,Skopje|Nordmazedonien,2979.3907000000004
+Astrachan|Russland,Machatschkala|Russland,492.9862
+Hannover|Deutschland,Machatschkala|Russland,3476.3429
+Kirow|Russland,Machatschkala|Russland,2310.427
+Lyon|Frankreich,Machatschkala|Russland,4348.6942
+Machatschkala|Russland,Pensa|Russland,1420.1647
+Machatschkala|Russland,Toulouse|Frankreich,4829.8514000000005
+Lipezk|Russland,Machatschkala|Russland,1478.491
+Homel|Belarus,Machatschkala|Russland,2108.864
+Jaroslawl|Russland,Krywyj Rih|Ukraine,1449.1728
+Krywyj Rih|Ukraine,Tirana|Albanien,1725.6523
+Krywyj Rih|Ukraine,Riga|Lettland,1911.0819
+Krywyj Rih|Ukraine,Malaga|Spanien,4361.038
+Bremen|Deutschland,Krywyj Rih|Ukraine,2186.6868
+Krywyj Rih|Ukraine,Orenburg|Russland,1972.6707
+Krywyj Rih|Ukraine,Lissabon|Portugal,4393.089599999999
+Chisinau|Moldau,Krywyj Rih|Ukraine,498.43609999999995
+Genua|Italien,Krywyj Rih|Ukraine,2483.3429
+Antwerpen|Belgien,Krywyj Rih|Ukraine,2527.7761
+Krywyj Rih|Ukraine,Posen|Polen,1569.247
+Krywyj Rih|Ukraine,Nabereschnyje Tschelny|Russland,2052.3063
+Krywyj Rih|Ukraine,Nürnberg|Deutschland,1979.6353000000001
+Krywyj Rih|Ukraine,Skopje|Nordmazedonien,1442.1526000000001
+Astrachan|Russland,Krywyj Rih|Ukraine,1381.7781
+Hannover|Deutschland,Krywyj Rih|Ukraine,2081.6221
+Kirow|Russland,Krywyj Rih|Ukraine,2141.1324
+Krywyj Rih|Ukraine,Pensa|Russland,1322.0736000000002
+Krywyj Rih|Ukraine,Toulouse|Frankreich,3244.2244
+Krywyj Rih|Ukraine,Lipezk|Russland,934.9126
+Homel|Belarus,Krywyj Rih|Ukraine,1006.3886
+Jaroslawl|Russland,Tirana|Albanien,3445.1076000000003
+Jaroslawl|Russland,Riga|Lettland,1148.7702
+Bremen|Deutschland,Jaroslawl|Russland,2452.1856000000002
+Jaroslawl|Russland,Orenburg|Russland,1523.0966
+Jaroslawl|Russland,Lissabon|Portugal,4852.0867
+Chisinau|Moldau,Jaroslawl|Russland,1909.9294
+Dresden|Deutschland,Jaroslawl|Russland,2145.9692
+Genua|Italien,Jaroslawl|Russland,3222.3717
+Antwerpen|Belgien,Jaroslawl|Russland,2793.2749
+Jaroslawl|Russland,Posen|Polen,1834.7458000000001
+Jaroslawl|Russland,Rjasan|Russland,458.5968
+Jaroslawl|Russland,Nabereschnyje Tschelny|Russland,1003.712
+Jaroslawl|Russland,Nürnberg|Deutschland,2447.9548999999997
+Jaroslawl|Russland,Skopje|Nordmazedonien,3207.4101
+Astrachan|Russland,Jaroslawl|Russland,1652.8113999999998
+Hannover|Deutschland,Jaroslawl|Russland,2347.1209
+Jaroslawl|Russland,Kirow|Russland,695.2346
+Jaroslawl|Russland,Lyon|Frankreich,3296.1792
+Jaroslawl|Russland,Pensa|Russland,784.9792
+Jaroslawl|Russland,Toulouse|Frankreich,3777.3365
+Jaroslawl|Russland,Lipezk|Russland,693.4424
+Homel|Belarus,Jaroslawl|Russland,932.4308000000001
+Riga|Lettland,Tirana|Albanien,2576.7542999999996
+Malaga|Spanien,Tirana|Albanien,3292.6778
+Bremen|Deutschland,Tirana|Albanien,2173.7397
+Orenburg|Russland,Tirana|Albanien,3830.2379
+Lissabon|Portugal,Tirana|Albanien,3492.4078
+Chisinau|Moldau,Tirana|Albanien,1375.4036
+Dresden|Deutschland,Tirana|Albanien,1708.9135
+Genua|Italien,Tirana|Albanien,1518.3411999999998
+Antwerpen|Belgien,Tirana|Albanien,2351.8026
+Posen|Polen,Tirana|Albanien,1946.9355
+Rjasan|Russland,Tirana|Albanien,3360.8626
+Nabereschnyje Tschelny|Russland,Tirana|Albanien,4250.1219
+Nürnberg|Deutschland,Tirana|Albanien,1737.6929
+Skopje|Nordmazedonien,Tirana|Albanien,216.3823
+Astrachan|Russland,Tirana|Albanien,3095.7666
+Hannover|Deutschland,Tirana|Albanien,2068.675
+Kirow|Russland,Tirana|Albanien,4196.8088
+Lyon|Frankreich,Tirana|Albanien,1802.5009
+Pensa|Russland,Tirana|Albanien,3804.7624
+Tirana|Albanien,Toulouse|Frankreich,2242.9039
+Lipezk|Russland,Tirana|Albanien,2727.3109
+Homel|Belarus,Tirana|Albanien,2777.4586
+Malaga|Spanien,Riga|Lettland,4025.493
+Bremen|Deutschland,Riga|Lettland,1583.5285
+Orenburg|Russland,Riga|Lettland,2388.9293
+Lissabon|Portugal,Riga|Lettland,3983.4296
+Chisinau|Moldau,Riga|Lettland,1613.7015
+Dresden|Deutschland,Riga|Lettland,1277.3121
+Genua|Italien,Riga|Lettland,2353.7146000000002
+Antwerpen|Belgien,Riga|Lettland,1924.6178
+Posen|Polen,Riga|Lettland,966.0886999999999
+Riga|Lettland,Rjasan|Russland,1128.9413
+Nürnberg|Deutschland,Riga|Lettland,1579.2978
+Riga|Lettland,Skopje|Nordmazedonien,2338.753
+Astrachan|Russland,Riga|Lettland,2304.8931000000002
+Hannover|Deutschland,Riga|Lettland,1478.4638
+Kirow|Russland,Riga|Lettland,1911.5412
+Lyon|Frankreich,Riga|Lettland,2427.5221
+Pensa|Russland,Riga|Lettland,1572.841
+Riga|Lettland,Toulouse|Frankreich,2908.6794
+Lipezk|Russland,Riga|Lettland,1333.1285
+Homel|Belarus,Riga|Lettland,809.0355
+Bremen|Deutschland,Malaga|Spanien,2598.8014
+Malaga|Spanien,Orenburg|Russland,6056.583
+Lissabon|Portugal,Malaga|Spanien,676.8211
+Chisinau|Moldau,Malaga|Spanien,3949.0894
+Dresden|Deutschland,Malaga|Spanien,2694.2247
+Genua|Italien,Malaga|Spanien,1808.5175
+Antwerpen|Belgien,Malaga|Spanien,2146.2207000000003
+Malaga|Spanien,Posen|Polen,3055.1717999999996
+Malaga|Spanien,Nabereschnyje Tschelny|Russland,5685.8542
+Malaga|Spanien,Skopje|Nordmazedonien,3368.4344
+Hannover|Deutschland,Malaga|Spanien,2612.7777
+Kirow|Russland,Malaga|Spanien,5632.5410999999995
+Lyon|Frankreich,Malaga|Spanien,1591.1206000000002
+Malaga|Spanien,Pensa|Russland,5240.4947
+Malaga|Spanien,Toulouse|Frankreich,1331.6312
+Lipezk|Russland,Malaga|Spanien,4874.0912
+Bremen|Deutschland,Orenburg|Russland,3630.163
+Bremen|Deutschland,Lissabon|Portugal,2535.5058
+Bremen|Deutschland,Dresden|Deutschland,471.9391
+Bremen|Deutschland,Genua|Italien,1256.2084
+Antwerpen|Belgien,Bremen|Deutschland,454.17359999999996
+Bremen|Deutschland,Posen|Polen,628.7518
+Bremen|Deutschland,Rjasan|Russland,2370.175
+Bremen|Deutschland,Nabereschnyje Tschelny|Russland,3259.4343
+Bremen|Deutschland,Nürnberg|Deutschland,582.1555
+Bremen|Deutschland,Skopje|Nordmazedonien,1935.9778000000001
+Astrachan|Russland,Bremen|Deutschland,3338.2307
+Bremen|Deutschland,Kirow|Russland,3206.1212
+Bremen|Deutschland,Lyon|Frankreich,1038.5225
+Bremen|Deutschland,Pensa|Russland,2814.0748
+Bremen|Deutschland,Toulouse|Frankreich,1473.5337
+Bremen|Deutschland,Lipezk|Russland,2447.6712
+Bremen|Deutschland,Homel|Belarus,1786.771
+Lissabon|Portugal,Orenburg|Russland,6027.6111
+Chisinau|Moldau,Orenburg|Russland,2488.8887999999997
+Genua|Italien,Orenburg|Russland,4397.8961
+Antwerpen|Belgien,Orenburg|Russland,3968.7992999999997
+Orenburg|Russland,Posen|Polen,3010.2702000000004
+Orenburg|Russland,Rjasan|Russland,1258.4649
+Nabereschnyje Tschelny|Russland,Orenburg|Russland,550.7084
+Nürnberg|Deutschland,Orenburg|Russland,3623.4793
+Orenburg|Russland,Skopje|Nordmazedonien,3432.6052
+Astrachan|Russland,Orenburg|Russland,1053.8266
+Hannover|Deutschland,Orenburg|Russland,3522.6452999999997
+Kirow|Russland,Orenburg|Russland,1014.0211999999999
+Lyon|Frankreich,Orenburg|Russland,4471.7036
+Orenburg|Russland,Toulouse|Frankreich,4952.860900000001
+Homel|Belarus,Orenburg|Russland,1937.7191
+Chisinau|Moldau,Lissabon|Portugal,4152.6035
+Dresden|Deutschland,Lissabon|Portugal,2728.5846
+Genua|Italien,Lissabon|Portugal,2012.5176000000001
+Antwerpen|Belgien,Lissabon|Portugal,2081.2391000000002
+Lissabon|Portugal,Posen|Polen,3024.4687000000004
+Lissabon|Portugal,Rjasan|Russland,4765.891799999999
+Lissabon|Portugal,Nabereschnyje Tschelny|Russland,5655.1511
+Lissabon|Portugal,Nürnberg|Deutschland,2431.3166
+Astrachan|Russland,Lissabon|Portugal,5733.9475
+Kirow|Russland,Lissabon|Portugal,5601.838
+Lissabon|Portugal,Lyon|Frankreich,1703.6681
+Lissabon|Portugal,Pensa|Russland,5209.7916
+Lissabon|Portugal,Toulouse|Frankreich,1266.6496000000002
+Lipezk|Russland,Lissabon|Portugal,4843.388099999999
+Homel|Belarus,Lissabon|Portugal,4182.4878
+Chisinau|Moldau,Dresden|Deutschland,1439.5157
+Chisinau|Moldau,Genua|Italien,2183.8836
+Antwerpen|Belgien,Chisinau|Moldau,2211.2612999999997
+Chisinau|Moldau,Posen|Polen,1376.0787
+Chisinau|Moldau,Rjasan|Russland,1742.1375
+Chisinau|Moldau,Nabereschnyje Tschelny|Russland,2602.3453999999997
+Chisinau|Moldau,Nürnberg|Deutschland,1741.5013999999999
+Chisinau|Moldau,Skopje|Nordmazedonien,1073.6182
+Astrachan|Russland,Chisinau|Moldau,1853.4075
+Chisinau|Moldau,Hannover|Deutschland,1765.1073000000001
+Chisinau|Moldau,Kirow|Russland,2691.1716
+Chisinau|Moldau,Lyon|Frankreich,2524.9332999999997
+Chisinau|Moldau,Pensa|Russland,1872.1127
+Chisinau|Moldau,Toulouse|Frankreich,3006.0905
+Chisinau|Moldau,Lipezk|Russland,1484.9516999999998
+Chisinau|Moldau,Homel|Belarus,1500.8279
+Dresden|Deutschland,Genua|Italien,1065.5752
+Antwerpen|Belgien,Dresden|Deutschland,810.5318000000001
+Dresden|Deutschland,Posen|Polen,406.05109999999996
+Dresden|Deutschland,Rjasan|Russland,2063.0401
+Dresden|Deutschland,Nabereschnyje Tschelny|Russland,2952.2994
+Dresden|Deutschland,Nürnberg|Deutschland,310.4482
+Dresden|Deutschland,Skopje|Nordmazedonien,1471.2202
+Astrachan|Russland,Dresden|Deutschland,3018.7403999999997
+Dresden|Deutschland,Hannover|Deutschland,364.3778
+Dresden|Deutschland,Kirow|Russland,2898.9863
+Dresden|Deutschland,Pensa|Russland,2506.9397999999997
+Dresden|Deutschland,Toulouse|Frankreich,1589.9474
+Dresden|Deutschland,Lipezk|Russland,2140.5362999999998
+Dresden|Deutschland,Homel|Belarus,1479.6361000000002
+Antwerpen|Belgien,Genua|Italien,1077.253
+Genua|Italien,Posen|Polen,1408.9294
+Genua|Italien,Rjasan|Russland,3150.3526
+Genua|Italien,Nabereschnyje Tschelny|Russland,4039.6119
+Genua|Italien,Nürnberg|Deutschland,750.7143000000001
+Genua|Italien,Skopje|Nordmazedonien,1578.8661000000002
+Astrachan|Russland,Genua|Italien,3980.8704
+Genua|Italien,Hannover|Deutschland,1128.1142
+Genua|Italien,Kirow|Russland,3986.2988
+Genua|Italien,Lyon|Frankreich,468.4326
+Genua|Italien,Pensa|Russland,3594.2522999999997
+Genua|Italien,Toulouse|Frankreich,763.377
+Genua|Italien,Lipezk|Russland,3227.8487999999998
+Genua|Italien,Homel|Belarus,2566.9486
+Antwerpen|Belgien,Posen|Polen,963.4225
+Antwerpen|Belgien,Rjasan|Russland,2704.8456
+Antwerpen|Belgien,Nabereschnyje Tschelny|Russland,3594.1049
+Antwerpen|Belgien,Nürnberg|Deutschland,611.8405
+Antwerpen|Belgien,Skopje|Nordmazedonien,2101.601
+Antwerpen|Belgien,Astrachan|Russland,3672.9013
+Antwerpen|Belgien,Hannover|Deutschland,449.11440000000005
+Antwerpen|Belgien,Kirow|Russland,3540.7918
+Antwerpen|Belgien,Pensa|Russland,3148.7454
+Antwerpen|Belgien,Lipezk|Russland,2782.3417999999997
+Antwerpen|Belgien,Homel|Belarus,2121.4416
+Posen|Polen,Rjasan|Russland,1753.9208
+Nabereschnyje Tschelny|Russland,Posen|Polen,2643.1801
+Nürnberg|Deutschland,Posen|Polen,674.4214000000001
+Posen|Polen,Skopje|Nordmazedonien,1710.4954
+Astrachan|Russland,Posen|Polen,2721.9765
+Hannover|Deutschland,Posen|Polen,523.8987
+Kirow|Russland,Posen|Polen,2589.867
+Lyon|Frankreich,Posen|Polen,1472.957
+Posen|Polen,Toulouse|Frankreich,1954.1142
+Homel|Belarus,Posen|Polen,1170.5168
+Nabereschnyje Tschelny|Russland,Rjasan|Russland,975.0412
+Nürnberg|Deutschland,Rjasan|Russland,2365.7547000000004
+Rjasan|Russland,Skopje|Nordmazedonien,3125.2097999999996
+Astrachan|Russland,Rjasan|Russland,1215.6975
+Hannover|Deutschland,Rjasan|Russland,2264.9207
+Kirow|Russland,Rjasan|Russland,991.9979000000001
+Lyon|Frankreich,Rjasan|Russland,3213.979
+Pensa|Russland,Rjasan|Russland,444.4478
+Rjasan|Russland,Toulouse|Frankreich,3695.1362000000004
+Lipezk|Russland,Rjasan|Russland,257.0282
+Nabereschnyje Tschelny|Russland,Nürnberg|Deutschland,3254.5237
+Nabereschnyje Tschelny|Russland,Skopje|Nordmazedonien,4013.9789
+Astrachan|Russland,Nabereschnyje Tschelny|Russland,1359.8345
+Hannover|Deutschland,Nabereschnyje Tschelny|Russland,3153.6897000000004
+Kirow|Russland,Nabereschnyje Tschelny|Russland,459.5937
+Lyon|Frankreich,Nabereschnyje Tschelny|Russland,4102.748
+Nabereschnyje Tschelny|Russland,Pensa|Russland,751.9390999999999
+Nabereschnyje Tschelny|Russland,Toulouse|Frankreich,4583.9052
+Lipezk|Russland,Nabereschnyje Tschelny|Russland,1173.8264
+Homel|Belarus,Nabereschnyje Tschelny|Russland,1689.2004
+Nürnberg|Deutschland,Skopje|Nordmazedonien,1500.5941
+Astrachan|Russland,Nürnberg|Deutschland,3320.0022999999997
+Hannover|Deutschland,Nürnberg|Deutschland,466.385
+Kirow|Russland,Nürnberg|Deutschland,3250.6086
+Lyon|Frankreich,Nürnberg|Deutschland,805.7783000000001
+Nürnberg|Deutschland,Pensa|Russland,2858.5621
+Nürnberg|Deutschland,Toulouse|Frankreich,1286.9356
+Lipezk|Russland,Nürnberg|Deutschland,2492.1586
+Homel|Belarus,Nürnberg|Deutschland,1831.2584
+Astrachan|Russland,Skopje|Nordmazedonien,2809.0737999999997
+Kirow|Russland,Skopje|Nordmazedonien,3959.4873
+Lyon|Frankreich,Skopje|Nordmazedonien,1886.399
+Pensa|Russland,Skopje|Nordmazedonien,3567.4408
+Skopje|Nordmazedonien,Toulouse|Frankreich,2326.802
+Lipezk|Russland,Skopje|Nordmazedonien,2440.618
+Homel|Belarus,Skopje|Nordmazedonien,2540.1371
+Astrachan|Russland,Hannover|Deutschland,3232.4899
+Astrachan|Russland,Lyon|Frankreich,4104.8412
+Astrachan|Russland,Pensa|Russland,1013.2509
+Astrachan|Russland,Toulouse|Frankreich,4585.9985
+Astrachan|Russland,Lipezk|Russland,1071.5772
+Hannover|Deutschland,Kirow|Russland,3099.9851
+Hannover|Deutschland,Lyon|Frankreich,1020.4119000000001
+Hannover|Deutschland,Pensa|Russland,2707.9387
+Hannover|Deutschland,Toulouse|Frankreich,1501.5692
+Hannover|Deutschland,Lipezk|Russland,2341.5351
+Hannover|Deutschland,Homel|Belarus,1680.6349
+Kirow|Russland,Lyon|Frankreich,4051.1165
+Kirow|Russland,Pensa|Russland,849.7066
+Kirow|Russland,Toulouse|Frankreich,4532.2738
+Kirow|Russland,Lipezk|Russland,1167.3928
+Lyon|Frankreich,Pensa|Russland,3647.2245
+Lipezk|Russland,Lyon|Frankreich,3280.821
+Homel|Belarus,Lyon|Frankreich,2619.9208
+Pensa|Russland,Toulouse|Frankreich,4136.6388
+Homel|Belarus,Pensa|Russland,1121.4206000000001
+Lipezk|Russland,Toulouse|Frankreich,3759.6967
+Homel|Belarus,Toulouse|Frankreich,3098.7965
+Homel|Belarus,Lipezk|Russland,698.1915

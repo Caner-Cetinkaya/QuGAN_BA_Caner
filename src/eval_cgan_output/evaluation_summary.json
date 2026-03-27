@@ -1,0 +1,12 @@
+{
+  "num_samples": 5000,
+  "triangle_valid_frac_real": 0.732,
+  "triangle_valid_frac_fake": 0.6072,
+  "rounded_uniqueness_real": 1.0,
+  "rounded_uniqueness_fake": 1.0,
+  "l1_mean_gap": 0.0021968483924865723,
+  "l1_std_gap": 0.005542874336242676,
+  "l1_edge_mean_gap": 0.030187228694558144,
+  "l1_edge_std_gap": 0.011286134831607342,
+  "real_clip_frac": 0.027366666666666668
+}

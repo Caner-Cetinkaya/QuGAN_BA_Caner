@@ -1,0 +1,21 @@
+{
+  "timestamp": "20260323_201510",
+  "run_name": "run_007",
+  "log_dir": "logs\\hparam_search_cgan_20260323_201244\\runs\\cgan_comparable_20260323_201510_run_007",
+  "batch_size": 16,
+  "training_steps": 500,
+  "disc_steps_per_gen": 1,
+  "disc_learning_rate": 0.0005,
+  "gen_learning_rate": 0.0005,
+  "seed": 49,
+  "loss_type": "bce",
+  "disc_warmup_steps": 0,
+  "device": "cpu",
+  "model_type": "classical_gan_comparable_to_qgan",
+  "discriminator_outputs": "logits",
+  "gradient_clip_norm": 0.5,
+  "latent_distribution": "uniform",
+  "label_real": 1.0,
+  "label_fake": 0.0,
+  "max_edge_length_km": 5000.0
+}

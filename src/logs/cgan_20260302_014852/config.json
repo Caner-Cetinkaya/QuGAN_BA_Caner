@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260302_014852",
+  "batch_size": 16,
+  "training_steps": 1,
+  "disc_steps_per_gen": 1.0,
+  "disc_learning_rate": 0.05,
+  "gen_learning_rate": 0.01,
+  "loss_type": "mse",
+  "disc_warmup_steps": 0,
+  "device": "cpu",
+  "model_type": "classical_gan"
+}

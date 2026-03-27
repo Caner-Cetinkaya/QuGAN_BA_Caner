@@ -1,0 +1,9 @@
+{
+  "LEARNING_RATE": 0.01,
+  "BATCH_SIZE": 1,
+  "TRAINING_STEPS": 50,
+  "DEVICE": "default.qubit",
+  "SEED": 42,
+  "N_CITIES": 4,
+  "TIMESTAMP": "20260203_174541"
+}

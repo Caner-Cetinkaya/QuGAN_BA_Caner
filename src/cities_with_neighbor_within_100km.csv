@@ -1,0 +1,14 @@
+city,country,neighbors_within_100km
+Moskau,Russland,Balaschicha
+Samara,Russland,Toljatti
+Köln,Deutschland,Düsseldorf; Dortmund; Essen; Duisburg
+Dnipro,Ukraine,Saporischschja
+Amsterdam,Niederlande,Rotterdam
+Saporischschja,Ukraine,Dnipro
+Toljatti,Russland,Samara
+Rotterdam,Niederlande,Amsterdam
+Düsseldorf,Deutschland,Köln; Dortmund; Essen; Duisburg
+Dortmund,Deutschland,Köln; Düsseldorf; Essen; Duisburg
+Essen,Deutschland,Köln; Düsseldorf; Dortmund; Duisburg
+Balaschicha,Russland,Moskau
+Duisburg,Deutschland,Köln; Düsseldorf; Dortmund; Essen

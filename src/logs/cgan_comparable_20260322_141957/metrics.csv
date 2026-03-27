@@ -1,0 +1,1 @@
+step,loss_d,loss_g,score_real,score_fake_d,score_fake_g,grad_norm_d,grad_norm_g,real_mean,real_std,real_min,real_max,real_near_zero_frac,real_near_one_frac,real_clip_frac,fake_d_mean,fake_d_std,fake_d_min,fake_d_max,fake_d_near_zero_frac,fake_d_near_one_frac,fake_g_mean,fake_g_std,fake_g_min,fake_g_max,fake_g_near_zero_frac,fake_g_near_one_frac

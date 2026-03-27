@@ -1,0 +1,11 @@
+{
+  "data_dir": "C:\\Users\\cac\\Documents\\VsCode\\BA\\QuGAN_BA_Caner\\src\\archive",
+  "file_name": "tiny.csv",
+  "seed": 42,
+  "steps": 10,
+  "batch_size": 4,
+  "n_layers": 1,
+  "lr": 0.01,
+  "target_label": 1.0,
+  "loss_type": "pce"
+}

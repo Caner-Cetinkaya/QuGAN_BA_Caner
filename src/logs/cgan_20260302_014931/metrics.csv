@@ -1,0 +1,1 @@
+step,loss_d,loss_g,score_real,score_fake,grad_norm_d,grad_norm_g

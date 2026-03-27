@@ -1,0 +1,11 @@
+{
+  "LEARNING_RATE": 0.01,
+  "BATCH_SIZE": 16,
+  "TRAINING_STEPS": 20,
+  "LOSS_TYPE": "log",
+  "DISC_STEPS_PER_GEN": 5,
+  "DEVICE": "default.qubit",
+  "SEED": 42,
+  "N_CITIES": 4,
+  "TIMESTAMP": "20260203_190442"
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260318_193643",
+  "batch_size": 16,
+  "training_steps": 1000,
+  "disc_steps_per_gen": 1.0,
+  "disc_learning_rate": 0.001,
+  "gen_learning_rate": 0.001,
+  "seed": 42,
+  "loss_type": "bce",
+  "disc_warmup_steps": 0,
+  "device": "cpu",
+  "model_type": "classical_gan",
+  "discriminator_outputs": "logits",
+  "gradient_clip_norm": 1.0
+}

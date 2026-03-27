@@ -1,0 +1,11 @@
+{
+  "cities_path": "cities.csv",
+  "cache_path": "distance_cache.csv",
+  "seed": 42,
+  "steps": 100,
+  "batch_size": 8,
+  "n_layers": 2,
+  "lr": 0.05,
+  "target_label": 1.0,
+  "loss_type": "pce"
+}
