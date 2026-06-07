@@ -1,0 +1,79 @@
+# =============================================================================
+# Bayes-Sweep Config fuer Hybrid QGAN HP-Optimierung
+# =============================================================================
+# Aufruf:
+#   wandb sweep sweep_bayes.yaml
+#   wandb agent <sweep_id>
+# =============================================================================
+
+program: training_qgan_wandb_fixed_mean.py
+project: qugan-ba-hp-sweep
+method: bayes
+run_cap: 60
+
+# Ziel-Metrik: minimaler Wasserstein-Wert ueber das gesamte Training.
+# 'best_wasserstein' wird vom Trainings-Skript in wandb.summary geloggt.
+metric:
+  name: mean_fake_score_g
+  goal: maximize
+
+# Early Termination: stoppe Runs, die nach 1000 Steps schon klar abgeschlagen sind.
+# Spart Rechenzeit fuer aussichtslose HP-Konfigurationen.
+early_terminate:
+  type: hyperband
+  min_iter: 1000        # frueheste Pruefung nach Step 1000
+  max_iter: 5000        # Gesamtdauer
+  eta: 3                # Reduktionsrate (3 = drittel ueberleben jede Stufe)
+  s: 2                  # Anzahl Stufen
+
+parameters:
+  # ---- Lernraten (zentral fuer GAN-Training, vgl. Heusel et al. 2017 TTUR) ----
+  g_lr:
+    distribution: log_uniform_values
+    min: 0.00001        # 1e-5
+    max: 0.01           # 1e-2 — Adam wird bei groesseren Werten typisch instabil
+
+  d_lr:
+    distribution: log_uniform_values
+    min: 0.00001
+    max: 0.01
+
+  # ---- Schaltkreis-Tiefe ----
+  # Mehrere Layer-Wiederholungen erhoehen Ausdruckskraft, aber Plateau-Effekt.
+  # (Importance of Fundamental Properties, arXiv:2507.10161)
+  layers:
+    values: [2, 4, 8, 16]
+
+  # ---- Parameter-Initialisierung ----
+  # Kleine Werte (~0.1) vermeiden Barren Plateaus (Grant et al. 2019,
+  # Kashif & Shafique 2024). Wir testen 0.05–0.5.
+  init_std:
+    distribution: uniform
+    min: 0.05
+    max: 0.5
+
+
+
+# ---- Fixe Parameter (nicht gesweept) ----
+# Wichtig: Wir bauen die Sweep-Args manuell ein, weil ${args} die
+# Parameter-Namen mit Unterstrichen uebergibt, argparse aber Bindestriche
+# erwartet. Mit expliziten ${...}-Tokens haben wir volle Kontrolle.
+command:
+  - ${env}
+  - "C:\\Users\\cac\\Documents\\VsCode\\BA\\QuGAN_BA_Caner\\src\\.venv\\Scripts\\python.exe"
+  - ${program}
+  - "--steps=5000"
+  - "--batch-size=32"
+  - "--latent-distribution=angle"
+  - "--latent-dim=6"
+  - "--use-mbd"
+  - "--label-smoothing=0.1"
+  - "--n-critic-g=1"
+  - "--checkpoint-every=1000"
+  - "--wasserstein-eval-every=200"
+  - "--wasserstein-eval-samples=1500"
+  - "--composite-norm-wasserstein=0.023"
+  - "--composite-norm-frobenius=1.18"
+  - "--wandb-project=qugan-ba-hp-sweep"
+  - "--seed=0"
+  - ${args}

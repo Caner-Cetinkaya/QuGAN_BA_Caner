@@ -13,7 +13,7 @@ import os
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Tuple
-
+import pandas as pd
 import numpy as np
 import torch
 import torch.nn as nn
@@ -142,6 +142,25 @@ def load_distance_cache_dict(cache_path: str = "distance_cache.csv") -> Dict[Tup
             cache[(row["k1"], row["k2"])] = float(row["distance_km"])
     return cache
 
+def load_valid_real_tuples(path: str = "valid_tuples.csv") -> np.ndarray:
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"Valid tuples file not found: {path}")
+
+    df = pd.read_csv(path)
+
+    needed = ["e_ab", "e_bc", "e_cd", "e_da", "e_ac", "e_bd"]
+    for col in needed:
+        if col not in df.columns:
+            raise ValueError(f"Missing column {col!r} in {path}")
+
+    arr_km = df[needed].to_numpy(dtype=np.float32)
+    arr_norm = np.clip(arr_km / MAX_EDGE_LENGTH_KM, 0.0, 1.0)
+
+    if len(arr_norm) == 0:
+        raise RuntimeError(f"No valid tuples found in {path}")
+
+    return arr_norm
+
 def compute_tensor_stats(x: torch.Tensor, prefix: str) -> Dict[str, float]:
     x_detached = x.detach()
     stats = {
@@ -154,6 +173,12 @@ def compute_tensor_stats(x: torch.Tensor, prefix: str) -> Dict[str, float]:
     }
     return stats
 
+def create_batch_real(valid_real_tuples: np.ndarray, batch_size: int, rng_obj):
+    idx = rng_obj.choice(len(valid_real_tuples), size=batch_size, replace=True)
+    batch_np = np.asarray(valid_real_tuples[idx], dtype=np.float32)
+    clipped_fraction = float(np.mean(batch_np >= 1.0))
+    return batch_np, clipped_fraction
+"""
 def create_batch_real(cities, batch_size, cache, rng_obj):
     batch = []
     clipped_value_count = 0
@@ -180,7 +205,7 @@ def create_batch_real(cities, batch_size, cache, rng_obj):
     batch_np = np.asarray(batch, dtype=np.float32)
     clipped_fraction = float(clipped_value_count / max(total_value_count,1))
     return batch_np, clipped_fraction
-
+"""
 
 def sample_latent(batch_size: int, latent_dim: int = LATENT_DIM) -> torch.Tensor:
     if LATENT_DISTRIBUTION == "uniform":
@@ -202,12 +227,12 @@ def create_batch_fake_with_grad(generator: nn.Module, batch_size: int, z: torch.
     return generator(z), z
 
 
-def train_discriminator_step(generator, discriminator, optimizer_d, cities, cache, rng_obj, batch_size):
+def train_discriminator_step(generator, discriminator, optimizer_d, valid_real_tuples, rng_obj, batch_size):
     discriminator.train()
     generator.train()
     set_requires_grad(discriminator, True)
 
-    real_batch, clip_fraction_real = create_batch_real(cities, batch_size, cache, rng_obj)
+    real_batch, clip_fraction_real = create_batch_real(valid_real_tuples, batch_size, rng_obj)
     real_tensor = torch.as_tensor(real_batch, dtype=torch.float32, device=DEVICE)
     fake_tensor = create_batch_fake(generator, batch_size).detach()
 
@@ -295,11 +320,13 @@ def train_generator_step(generator, discriminator, optimizer_g, batch_size):
 
 
 def main():
-    cities = load_cities("cities.csv")
-    cache = load_distance_cache_dict("distance_cache.csv")
+    valid_real_tuples = load_valid_real_tuples("valid_tuples.csv")
+    print(f"[INFO] Loaded {len(valid_real_tuples)} valid real tuples")
+    #cities = load_cities("cities.csv")
+    #cache = load_distance_cache_dict("distance_cache.csv")
 
-    print(f"[INFO] Loaded {len(cities)} cities")
-    print(f"[INFO] Distance cache entries: {len(cache)}")
+    #print(f"[INFO] Loaded {len(cities)} cities")
+    #print(f"[INFO] Distance cache entries: {len(cache)}")
 
     generator = Generator().to(DEVICE)
     discriminator = Discriminator().to(DEVICE)
@@ -400,8 +427,7 @@ def main():
                     generator=generator,
                     discriminator=discriminator,
                     optimizer_d=optimizer_d,
-                    cities=cities,
-                    cache=cache,
+                    valid_real_tuples=valid_real_tuples,
                     rng_obj=rng,
                     batch_size=BATCH_SIZE,
                 )

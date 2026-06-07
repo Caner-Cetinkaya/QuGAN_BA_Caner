@@ -8,7 +8,7 @@ Alle Hyperparameter hier definieren
 # ============================================================================
 
 N_QUBITS = 6          # 6 Qubits (1 pro Kante: e_ab, e_bc, e_cd, e_da, e_ac, e_bd)
-N_LAYERS = 4          # Anzahl der VQC-Layer (Hyperparameter)
+N_LAYERS = 2          # Anzahl der VQC-Layer (Hyperparameter)
 
 # ============================================================================
 # TRAINING HYPERPARAMETER
@@ -17,8 +17,8 @@ N_LAYERS = 4          # Anzahl der VQC-Layer (Hyperparameter)
 LEARNING_RATE = 0.01      # Legacy default (falls getrennte LRs nicht genutzt werden)
 
 # Separate Lernraten (typisch: Discriminator etwas schneller als Generator)
-DISC_LEARNING_RATE = 0.005
-GEN_LEARNING_RATE = 0.005
+DISC_LEARNING_RATE = 0.03
+GEN_LEARNING_RATE = 0.001
 
 # Warmup: erst D stabilisieren, dann G aktivieren
 DISC_WARMUP_STEPS = 0
@@ -31,11 +31,12 @@ LABEL_REAL = 1.0
 LABEL_FAKE = 0.0
 
 BATCH_SIZE = 16           # Mini-Batch für schnellsten Test
-TRAINING_STEPS = 1000
+TRAINING_STEPS = 10000
 LOSS_TYPE = "log"         # "pce", "mse", "log" / bce für cGan aktuell
 TARGET_LABEL = 1.0        # Label für echte Kanten (1.0 = real, 0.0 = fake)
-SEED = 42                 # Reproduzierbarkeit
+SEED = 1                 # Reproduzierbarkeit
 DEVICE_NAME = "default.qubit"  # PennyLane Device
+SHARE_LATENT_VECTOR = False
 
 # ============================================================================
 # DATEN PFADE

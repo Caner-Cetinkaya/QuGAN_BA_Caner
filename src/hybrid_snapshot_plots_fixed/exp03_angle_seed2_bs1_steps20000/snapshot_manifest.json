@@ -1,0 +1,23 @@
+[
+  {
+    "target_step": 1,
+    "used_step": 500,
+    "source": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\qgen_step_000500.pt",
+    "label": "Snapshot after 500 steps",
+    "real_samples_source": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\real_samples_final.npy"
+  },
+  {
+    "target_step": 10000,
+    "used_step": 10000,
+    "source": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\qgen_step_010000.pt",
+    "label": "Snapshot after 10000 steps",
+    "real_samples_source": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\real_samples_final.npy"
+  },
+  {
+    "target_step": 20000,
+    "used_step": 20000,
+    "source": "saved fake_samples_final.npy",
+    "label": "Snapshot after 20000 steps",
+    "real_samples_source": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\real_samples_final.npy"
+  }
+]

@@ -1,0 +1,6 @@
+logs/
+wandb/
+__pycache__/
+*.pyc
+.venv/
+*.zip

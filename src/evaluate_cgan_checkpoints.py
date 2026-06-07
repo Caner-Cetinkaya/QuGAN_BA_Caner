@@ -68,11 +68,24 @@ def generate_fake_batch(module: Any, generator: torch.nn.Module, num_samples: in
     return fake.detach().cpu().numpy().astype(np.float32)
 
 
-def generate_real_batch(module: Any, num_samples: int, cities_path: Path, cache_path: Path) -> Tuple[np.ndarray, float]:
-    cities = module.load_cities(str(cities_path))
-    cache = module.load_distance_cache_dict(str(cache_path))
-    batch, clip_fraction = module.create_batch_real(cities, num_samples, cache, module.rng)
-    return np.asarray(batch, dtype=np.float32), float(clip_fraction)
+def generate_real_batch(module: Any, num_samples: int, valid_tuples_path: Path) -> Tuple[np.ndarray, float]:
+    df = pd.read_csv(valid_tuples_path)
+
+    needed = ["e_ab", "e_bc", "e_cd", "e_da", "e_ac", "e_bd"]
+    for col in needed:
+        if col not in df.columns:
+            raise ValueError(f"Missing column {col!r} in {valid_tuples_path}")
+
+    arr_km = df[needed].to_numpy(dtype=np.float32)
+    arr_norm = np.clip(arr_km / module.MAX_EDGE_LENGTH_KM, 0.0, 1.0)
+
+    if len(arr_norm) == 0:
+        raise RuntimeError(f"No valid tuples found in {valid_tuples_path}")
+
+    idx = module.rng.choice(len(arr_norm), size=num_samples, replace=True)
+    batch = arr_norm[idx]
+    clip_fraction = float(np.mean(batch >= 1.0))
+    return np.asarray(batch, dtype=np.float32), clip_fraction
 
 
 def flattened_stats(x: np.ndarray, prefix: str) -> Dict[str, float]:
@@ -117,9 +130,9 @@ def resolve_checkpoints(checkpoint: Path | None, checkpoint_dir: Path | None) ->
     return paths
 
 
-def evaluate_single_checkpoint(module: Any, ckpt: Path, num_samples: int, cities: Path, cache: Path, device: str):
+def evaluate_single_checkpoint(module: Any, ckpt: Path, num_samples: int, valid_tuples: Path, device: str):
     generator = load_generator(module, ckpt, device=device)
-    real_batch, real_clip_frac = generate_real_batch(module, num_samples, cities, cache)
+    real_batch, real_clip_frac = generate_real_batch(module, num_samples, valid_tuples)
     fake_batch = generate_fake_batch(module, generator, num_samples)
 
     real_valid = float(np.mean(batch_triangle_valid_mask(real_batch)))
@@ -236,8 +249,7 @@ def parse_args() -> argparse.Namespace:
     group.add_argument("--checkpoint", type=Path, help="Path to a single generator checkpoint (.pt).")
     group.add_argument("--checkpoint-dir", type=Path, help="Directory containing generator_step_*.pt checkpoints.")
     parser.add_argument("--training-script", type=Path, default=Path("training_cgan.py"), help="Path to training_cgan.py.")
-    parser.add_argument("--cities", type=Path, default=Path("cities.csv"), help="Path to cities.csv.")
-    parser.add_argument("--cache", type=Path, default=Path("distance_cache.csv"), help="Path to distance_cache.csv.")
+    parser.add_argument("--valid-tuples", type=Path, default=Path("valid_tuples.csv"), help="Path to valid_tuples.csv.")
     parser.add_argument("--num-samples", type=int, default=5000, help="How many real/fake samples per checkpoint.")
     parser.add_argument("--device", type=str, default="cpu", help="cpu or cuda")
     parser.add_argument("--output-dir", type=Path, default=Path("eval_cgan_output"), help="Directory for reports and plots.")
@@ -257,7 +269,7 @@ def main() -> None:
 
     for ckpt in checkpoints:
         metrics, real_batch, fake_batch = evaluate_single_checkpoint(
-            module, ckpt, args.num_samples, args.cities, args.cache, args.device
+            module, ckpt, args.num_samples, args.valid_tuples, args.device
         )
         rows.append(metrics)
         last_real_batch = real_batch

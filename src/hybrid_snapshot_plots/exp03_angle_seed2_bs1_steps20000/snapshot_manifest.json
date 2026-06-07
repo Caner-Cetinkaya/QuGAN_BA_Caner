@@ -1,0 +1,26 @@
+{
+  "experiment": "exp03_angle_seed2_bs1_steps20000",
+  "source_dir": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000",
+  "latent_distribution": "angle",
+  "total_steps": 20000,
+  "rows": [
+    {
+      "target_step": 1,
+      "used_step": 500,
+      "checkpoint": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\qgen_step_000500.pt",
+      "label": "target 1 / used 500 (nearest available)"
+    },
+    {
+      "target_step": 10000,
+      "used_step": 10000,
+      "checkpoint": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\qgen_step_010000.pt",
+      "label": "target 10000 / used 10000"
+    },
+    {
+      "target_step": 20000,
+      "used_step": 20000,
+      "checkpoint": "logs\\hybrid_angle_experiments\\exp03_angle_seed2_bs1_steps20000\\qgen_final.pt",
+      "label": "target 20000 / used 20000"
+    }
+  ]
+}

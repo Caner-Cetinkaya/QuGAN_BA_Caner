@@ -1,0 +1,53 @@
+# =============================================================================
+# Grid-Sweep Config fuer Hybrid QGAN — Lernraten-Sondierung
+# =============================================================================
+# Aufruf:
+#   wandb sweep sweep_grid.yaml
+#   wandb agent <sweep_id>
+#
+# Zweck: systematische Lernraten-Studie (Sanity-Check / Vergleich zu Bayes).
+# Drei Groessenordnungen pro Lernrate, drei Seeds pro Konfiguration.
+# = 3 * 3 * 3 = 27 Runs, je ~12 Min = ~5.4 h Gesamtzeit.
+# =============================================================================
+
+program: training_qgan_wandb.py
+method: grid
+
+metric:
+  name: best_wasserstein
+  goal: minimize
+
+parameters:
+  # ---- Lernraten: drei Groessenordnungen ----
+  # Werte um den Heusel-TTUR-Bereich (~1e-4) und Goodfellow-Standard (~1e-3),
+  # plus eine konservative Untergrenze.
+  g_lr:
+    values: [0.0003, 0.003, 0.03]
+
+  d_lr:
+    values: [0.0003, 0.003, 0.03]
+
+  # ---- Drei Seeds pro Konfiguration ----
+  # Wichtig fuer Aussagekraft, weil GANs notorisch seed-empfindlich sind.
+  seed:
+    values: [0, 1, 2]
+
+command:
+  - ${env}
+  - ${interpreter}
+  - ${program}
+  - "--steps=5000"
+  - "--batch-size=32"
+  - "--latent-distribution=angle"
+  - "--latent-dim=6"
+  - "--layers=4"                  # Fix auf Default
+  - "--init-std=0.1"              # Fix auf Default
+  - "--hidden-dim=64"
+  - "--use-mbd"
+  - "--label-smoothing=0.1"
+  - "--n-critic-g=1"
+  - "--checkpoint-every=1000"
+  - "--wasserstein-eval-every=200"
+  - "--wasserstein-eval-samples=500"
+  - "--wandb-project=qugan-ba-hp-sweep"
+  - ${args}

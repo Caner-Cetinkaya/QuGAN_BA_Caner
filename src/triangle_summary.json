@@ -1,0 +1,30 @@
+{
+  "mode": "all",
+  "n_cities": 80,
+  "cache_edges": 3161,
+  "total_possible_unordered_4_city_combinations": 1581580,
+  "total_requested": 1581580,
+  "processed": 1581580,
+  "complete_tuples": 1581580,
+  "missing_cache": 0,
+  "valid_tuples": 1126777,
+  "invalid_tuples": 454803,
+  "triangle_fail_counts": {
+    "abc": 162558,
+    "abd": 154811,
+    "acd": 143384,
+    "bcd": 146392
+  },
+  "worst_margin_by_triangle": {
+    "abc": -1259.063,
+    "abd": -1259.063,
+    "acd": -1259.063,
+    "bcd": -1259.063
+  },
+  "valid_rate_on_complete": 0.7124375624375624,
+  "invalid_rate_on_complete": 0.28756243756243755,
+  "missing_rate_on_processed": 0.0,
+  "saved_valid_rows": 1126777,
+  "saved_invalid_rows": 454803,
+  "saved_missing_rows": 0
+}
