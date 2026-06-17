@@ -321,11 +321,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--label-smoothing", "--label_smoothing", type=float, default=0.1,
                         help="Real-Label = 1 - smoothing, Fake-Label = smoothing.")
     parser.add_argument("--output-dir", "--output_dir", type=Path, default=None)
-    parser.add_argument(
-        "--show-circuit", "--show_circuit",
-        action="store_true",
-        help="Print the PennyLane circuit at startup for debugging.",
-    )
 
     # ---- W&B-Argumente ----
     parser.add_argument("--wandb-project", "--wandb_project", type=str, default="qugan-ba-hp-sweep",
@@ -625,10 +620,31 @@ def evaluate_wasserstein(
         composite = (w_mean / composite_norm_wasserstein
                      + frobenius_corr / composite_norm_frobenius)
 
+        # ---- Triangle-Validity (geometrische Konsistenz) ----
+        # Pruefe fuer jeden Fake-Sample alle 12 Dreiecks-Ungleichungen:
+        # Vier Dreiecke (ABC, ABD, ACD, BCD), je 3 Ungleichungen.
+        # Kanten-Indizes: ab=0, bc=1, cd=2, da=3, ac=4, bd=5
+        ab, bc, cd, da, ac, bd = (fakes[:, i] for i in range(6))
+        eps = 1e-6  # numerische Toleranz fuer Constraint-Pruefung
+
+        # Dreieck ABC (Kanten ab, bc, ac)
+        v_abc = (ab + bc >= ac - eps) & (ab + ac >= bc - eps) & (bc + ac >= ab - eps)
+        # Dreieck ABD (Kanten ab, bd, da)
+        v_abd = (ab + bd >= da - eps) & (ab + da >= bd - eps) & (bd + da >= ab - eps)
+        # Dreieck ACD (Kanten ac, cd, da)
+        v_acd = (ac + cd >= da - eps) & (ac + da >= cd - eps) & (cd + da >= ac - eps)
+        # Dreieck BCD (Kanten bc, cd, bd)
+        v_bcd = (bc + cd >= bd - eps) & (bc + bd >= cd - eps) & (cd + bd >= bc - eps)
+
+        # Sample gilt nur als valide, wenn ALLE 4 Dreiecke erfuellt sind
+        all_valid = v_abc & v_abd & v_acd & v_bcd
+        triangle_validity = float(all_valid.mean())
+
         result = dict(per_edge_w)
         result["w_mean"] = w_mean
         result["frobenius_corr"] = frobenius_corr
         result["composite"] = composite
+        result["triangle_validity"] = triangle_validity
         return result
 
     finally:
@@ -729,8 +745,7 @@ def main() -> None:
     gen = QGenerator(n_layer=args.layers, init_std=args.init_std, seed=args.seed).to(device)
     z = torch.tensor([0.2, 0.3, 0.4, 0.5, 0.6, 0.7], dtype=torch.float32)
 
-    if args.show_circuit:
-        print(qml.draw(gen.circuit)(z, gen.weights).encode("ascii", "replace").decode("ascii"))
+    print(qml.draw(gen.circuit)(z, gen.weights))
     disc = Discriminator(hidden_dim=args.hidden_dim, use_mbd=args.use_mbd).to(device)
 
     initial_weights = gen.weights.detach().cpu().numpy().copy()
@@ -791,6 +806,29 @@ def main() -> None:
     best_composite_step = 0
     best_composite_w = float("nan")    # Wasserstein-Wert beim Composite-Bestwert
     best_composite_f = float("nan")    # Frobenius-Wert beim Composite-Bestwert
+
+    # ---- Best-Triangle-Validity-Tracking ueber das gesamte Training ----
+    # Anteil der Fake-Samples, die alle 12 Dreiecks-Ungleichungen erfuellen
+    # (Vier Dreiecke ABC/ABD/ACD/BCD, je 3 Ungleichungen).
+    # Hoeher = besser. Reale Daten haben per Konstruktion 100%.
+    # WICHTIG: Diese Metrik dient nur der Sweep-Auswahl, das Trainings-
+    # Loss-Funktional verwendet sie NICHT.
+    best_triangle_validity = float("-inf")
+    best_triangle_validity_step = 0
+
+    # ---- Mean-Triangle-Validity-Tracking ueber das gesamte Training ----
+    # Mittelwert der Triangle-Validity ueber ALLE Eval-Steps.
+    # Robuster als best_triangle_validity, weil einzelne gluecklich-hohe
+    # Werte (z.B. durch zufaellig "gute" Batches) den Mittelwert nicht
+    # stark verzerren koennen.
+    triangle_validity_sum = 0.0
+    triangle_validity_count = 0
+
+    # ---- Final-Triangle-Validity-Tracking ----
+    # Wert beim LETZTEN Eval-Step (Ende des Trainings). Misst, wie gut der
+    # ENDZUSTAND des Modells ist, unabhaengig von Zwischen-Spikes.
+    final_triangle_validity = float("nan")
+    final_triangle_validity_step = 0
 
     # ---- Real-Korrelationsmatrix vorab berechnen (einmal, fuer alle Eval-Steps) ----
     # Aus dem ganzen Datensatz, damit unsere Referenz stabil ist und nicht
@@ -987,6 +1025,32 @@ def main() -> None:
                 wandb_log_dict["composite/best_wasserstein"] = best_composite_w
                 wandb_log_dict["composite/best_frobenius"] = best_composite_f
 
+                # ---- Tracking Triangle-Validity (drei Varianten) ----
+                # Anteil Fake-Samples mit allen 12 Dreiecks-Ungleichungen erfuellt.
+                # Hinweis: wird NUR zur Sweep-Auswahl genutzt, NICHT im Trainings-Loss.
+                current_triangle = w_metrics["triangle_validity"]
+                wandb_log_dict["triangle/validity"] = current_triangle
+
+                # Variante 1: BEST (Maximum ueber Training) — anfaellig fuer Spikes
+                if current_triangle > best_triangle_validity:
+                    best_triangle_validity = current_triangle
+                    best_triangle_validity_step = step
+                wandb_log_dict["triangle/best_so_far"] = best_triangle_validity
+                wandb_log_dict["triangle/best_step"] = best_triangle_validity_step
+
+                # Variante 2: MEAN (laufender Mittelwert ueber alle Eval-Steps)
+                # Robuster als best, weil Spikes nur 1/N Gewicht haben.
+                triangle_validity_sum += current_triangle
+                triangle_validity_count += 1
+                mean_triangle_validity = triangle_validity_sum / triangle_validity_count
+                wandb_log_dict["triangle/mean_so_far"] = mean_triangle_validity
+
+                # Variante 3: FINAL (letzter geloggter Wert)
+                # Wird ueberschrieben bei jedem Eval-Step — am Trainings-Ende
+                # ist es der finale Zustand des Modells.
+                final_triangle_validity = current_triangle
+                final_triangle_validity_step = step
+
         if use_wandb:
             wandb.log(wandb_log_dict, step=step)
 
@@ -1129,6 +1193,12 @@ def main() -> None:
             "best_composite_step": int(best_composite_step),
             "best_composite_wasserstein": float(best_composite_w),
             "best_composite_frobenius": float(best_composite_f),
+            "best_triangle_validity": float(best_triangle_validity),
+            "best_triangle_validity_step": int(best_triangle_validity_step),
+            "mean_triangle_validity": (float(triangle_validity_sum / triangle_validity_count)
+                                       if triangle_validity_count > 0 else 0.0),
+            "final_triangle_validity": float(final_triangle_validity),
+            "final_triangle_validity_step": int(final_triangle_validity_step),
         }
         if final_w_mean is not None:
             wandb_summary["final/wasserstein_mean"] = final_w_mean
@@ -1160,6 +1230,10 @@ def main() -> None:
     print(f"[MEAN] Fake-Score-G (avg ueber Training): {mean_fake_score_g:.4f}")
     print(f"[BEST] Composite (min ueber Training): {best_composite:.4f} @ step {best_composite_step}")
     print(f"       (Wasserstein={best_composite_w:.4f}, Frobenius={best_composite_f:.4f})")
+    print(f"[BEST] Triangle-Validity (max ueber Training): {best_triangle_validity*100:.1f}% @ step {best_triangle_validity_step}")
+    mean_tri = (triangle_validity_sum / triangle_validity_count) if triangle_validity_count > 0 else 0.0
+    print(f"[MEAN] Triangle-Validity (avg ueber Training): {mean_tri*100:.1f}%  (ueber {triangle_validity_count} Eval-Steps)")
+    print(f"[FINAL] Triangle-Validity (letzter Eval-Step): {final_triangle_validity*100:.1f}% @ step {final_triangle_validity_step}")
     if final_w_mean is not None:
         print(f"[FINAL] Wasserstein (final samples): {final_w_mean:.4f}")
     print(f"[INFO] Saved outputs to: {output_dir.resolve()}")

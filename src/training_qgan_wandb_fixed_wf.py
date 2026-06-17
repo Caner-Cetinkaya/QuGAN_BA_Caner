@@ -321,11 +321,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--label-smoothing", "--label_smoothing", type=float, default=0.1,
                         help="Real-Label = 1 - smoothing, Fake-Label = smoothing.")
     parser.add_argument("--output-dir", "--output_dir", type=Path, default=None)
-    parser.add_argument(
-        "--show-circuit", "--show_circuit",
-        action="store_true",
-        help="Print the PennyLane circuit at startup for debugging.",
-    )
 
     # ---- W&B-Argumente ----
     parser.add_argument("--wandb-project", "--wandb_project", type=str, default="qugan-ba-hp-sweep",
@@ -729,8 +724,7 @@ def main() -> None:
     gen = QGenerator(n_layer=args.layers, init_std=args.init_std, seed=args.seed).to(device)
     z = torch.tensor([0.2, 0.3, 0.4, 0.5, 0.6, 0.7], dtype=torch.float32)
 
-    if args.show_circuit:
-        print(qml.draw(gen.circuit)(z, gen.weights).encode("ascii", "replace").decode("ascii"))
+    print(qml.draw(gen.circuit)(z, gen.weights))
     disc = Discriminator(hidden_dim=args.hidden_dim, use_mbd=args.use_mbd).to(device)
 
     initial_weights = gen.weights.detach().cpu().numpy().copy()
